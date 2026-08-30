@@ -1,0 +1,977 @@
+{
+  "podcast": {
+    "title": "C.G.Jung Helpdesk",
+    "feedUrl": "https://feeds.redcircle.com/c1a3de7b-1b92-4c7f-8e36-8484721d29f4",
+    "note": "Episodes referenced by number/title in this draft; the app will key them to feed GUIDs automatically."
+  },
+  "checkin": {
+    "question1": {
+      "prompt": "What stayed with you most?",
+      "options": [
+        "Jung's own words",
+        "The concepts",
+        "The film & culture connections",
+        "How it applies to my life"
+      ]
+    },
+    "question2": {
+      "prompt": "Where do you want to go deeper?",
+      "options": "topics"
+    }
+  },
+  "onboarding": {
+    "prompt": "What do you want to explore?",
+    "maxTopics": 5
+  },
+  "topics": [
+    {
+      "id": "foundations",
+      "name": "The Map of the Psyche",
+      "tagline": "Jung's core model, from the ground up",
+      "journey": [
+        "001 - Life",
+        "033 - What Makes an Idea Jungian",
+        "005 - A History of Consciousness",
+        "006 - Dynamics of the Psyche",
+        "044 - On Consciousness",
+        "002 - Archetypes & The Collective Unconscious",
+        "059 - On Archetypes",
+        "034 - On Complexes",
+        "037 - On Associations",
+        "007 - Typology & Personality",
+        "060 - On the Inferior Function",
+        "029 - On Intuition",
+        "012 - Perception & Experience",
+        "041 - On Reality",
+        "003 - Neurosis, Hysteria, Psychosis, Schizophrenia"
+      ]
+    },
+    {
+      "id": "shadow-self",
+      "name": "Shadow, Self & Individuation",
+      "tagline": "The inner cast of characters and the path to wholeness",
+      "journey": [
+        "017 - Shadow & Projection",
+        "056 - A Shadow of Doubt",
+        "024 - Persona & Groups",
+        "039 - On The Other",
+        "016 - Inflation & Possession",
+        "032 - On Puer Aeternus",
+        "053 - Logos & Eros",
+        "030 - On Evil",
+        "014 - Symbols & The Third",
+        "018 - The Self & Mandala",
+        "015 - Individuation"
+      ]
+    },
+    {
+      "id": "dreams-symbols",
+      "name": "Dreams, Symbols & the Numinous",
+      "tagline": "Where the unconscious speaks: dreams, alchemy, synchronicity",
+      "journey": [
+        "011 - Dreams",
+        "042 - On Fantasy",
+        "013 - The Creative Spirit",
+        "009 - Alchemy & Active Imagination",
+        "061 - On the Alchemical Process",
+        "010 - Synchronicity & Astrology (& Aions)",
+        "040 - On Aions",
+        "049 - Physics & Numbers",
+        "048 - On Irrationality",
+        "054 - On Tarot",
+        "052 - On UFOs",
+        "050 - Rebirth & Resurrection",
+        "057 - Dancing & Movement"
+      ]
+    },
+    {
+      "id": "movies",
+      "name": "Jung at the Movies",
+      "tagline": "Film analyses through a Jungian lens",
+      "journey": [
+        "019 - Movie Analysis: Barbie",
+        "022 - Movie Analysis: Fight Club",
+        "025 - Movie Analysis: Titanic",
+        "027 - Movie Analysis: Jaws",
+        "043 - Movie Analysis: American Psycho",
+        "045 - Movie Analysis: Runaway Bride",
+        "047 - Movie Analysis: Scarface",
+        "055 - Movie Analysis: The Matrix"
+      ]
+    },
+    {
+      "id": "everyday",
+      "name": "Jung in Everyday Life",
+      "tagline": "Relationships, family, body, nature — and Jung the man",
+      "journey": [
+        "058 - The Self-Help Jung",
+        "051 - On Relationships",
+        "008 - Mother, Father, Child",
+        "036 - On Children",
+        "031 - On the Body",
+        "035 - On Nature",
+        "038 - On Secrets",
+        "046 - Suffering & Sacrifice",
+        "026 - Analytical Psychology & Therapy",
+        "021 - The East & The West",
+        "020 - Jung vs. Freud",
+        "023 - The Misunderstood Jung",
+        "028 - Where I struggle with Jung",
+        "004 - All The Books"
+      ]
+    }
+  ],
+  "unassigned": [
+    "Intro (trailer — plays from the About screen, not part of a journey)"
+  ],
+  "territories": [
+    {
+      "id": "shadow",
+      "name": "Shadow & Self",
+      "color": "mauve"
+    },
+    {
+      "id": "psyche",
+      "name": "The Psyche",
+      "color": "brass"
+    },
+    {
+      "id": "numinous",
+      "name": "Dreams & the Numinous",
+      "color": "teal"
+    },
+    {
+      "id": "movies",
+      "name": "At the Movies",
+      "color": "coral"
+    },
+    {
+      "id": "everyday",
+      "name": "Everyday",
+      "color": "sage"
+    },
+    {
+      "id": "jung",
+      "name": "Jung Himself",
+      "color": "faint"
+    }
+  ],
+  "episodes": {
+    "001": {
+      "territory": "psyche",
+      "tags": [
+        "consciousness",
+        "life-stages"
+      ],
+      "links": [
+        {
+          "to": "005",
+          "why": "The sun's arc, told as the history of consciousness"
+        },
+        {
+          "to": "044",
+          "why": "The centre the whole arc turns around"
+        }
+      ]
+    },
+    "002": {
+      "territory": "psyche",
+      "tags": [
+        "archetypes",
+        "collective-unconscious"
+      ],
+      "links": [
+        {
+          "to": "059",
+          "why": "The same ground, revisited seven years deeper"
+        },
+        {
+          "to": "013",
+          "why": "Where the primordial images become art"
+        }
+      ]
+    },
+    "003": {
+      "territory": "psyche",
+      "tags": [
+        "neurosis",
+        "therapy"
+      ],
+      "links": [
+        {
+          "to": "026",
+          "why": "From diagnosis to what therapy can do"
+        },
+        {
+          "to": "034",
+          "why": "The intruders behind the symptoms"
+        }
+      ]
+    },
+    "004": {
+      "territory": "jung",
+      "tags": [
+        "books",
+        "biography"
+      ],
+      "links": [
+        {
+          "to": "023",
+          "why": "Reading Jung without misreading him"
+        }
+      ]
+    },
+    "005": {
+      "territory": "psyche",
+      "tags": [
+        "consciousness",
+        "collective-unconscious"
+      ],
+      "links": [
+        {
+          "to": "044",
+          "why": "Consciousness, examined on its own"
+        }
+      ]
+    },
+    "006": {
+      "territory": "psyche",
+      "tags": [
+        "unconscious",
+        "energy"
+      ],
+      "links": [
+        {
+          "to": "042",
+          "why": "Fantasy, the psyche's own energy at work"
+        }
+      ]
+    },
+    "007": {
+      "territory": "psyche",
+      "tags": [
+        "typology",
+        "functions"
+      ],
+      "links": [
+        {
+          "to": "060",
+          "why": "The function you neglect holds the treasure"
+        },
+        {
+          "to": "029",
+          "why": "The strangest of the four functions"
+        }
+      ]
+    },
+    "008": {
+      "territory": "everyday",
+      "tags": [
+        "family",
+        "childhood"
+      ],
+      "links": [
+        {
+          "to": "036",
+          "why": "The child's world, on its own terms"
+        },
+        {
+          "to": "032",
+          "why": "When the child refuses to grow up"
+        }
+      ]
+    },
+    "009": {
+      "territory": "numinous",
+      "tags": [
+        "alchemy",
+        "imagination"
+      ],
+      "links": [
+        {
+          "to": "042",
+          "why": "Active imagination is fantasy taken seriously"
+        }
+      ]
+    },
+    "010": {
+      "territory": "numinous",
+      "tags": [
+        "synchronicity",
+        "astrology",
+        "divination"
+      ],
+      "links": [
+        {
+          "to": "040",
+          "why": "Aions, given their own evening"
+        },
+        {
+          "to": "049",
+          "why": "Where synchronicity meets physics"
+        }
+      ]
+    },
+    "011": {
+      "territory": "numinous",
+      "tags": [
+        "dreams",
+        "unconscious"
+      ],
+      "links": [
+        {
+          "to": "037",
+          "why": "Associations, the raw material of dream-reading"
+        },
+        {
+          "to": "042",
+          "why": "Dreams, but by daylight"
+        }
+      ]
+    },
+    "012": {
+      "territory": "psyche",
+      "tags": [
+        "perception",
+        "typology"
+      ],
+      "links": [
+        {
+          "to": "041",
+          "why": "If perception filters everything, what is real?"
+        },
+        {
+          "to": "007",
+          "why": "The types that do the filtering"
+        }
+      ]
+    },
+    "013": {
+      "territory": "numinous",
+      "tags": [
+        "creativity",
+        "collective-unconscious"
+      ],
+      "links": [
+        {
+          "to": "057",
+          "why": "Creation danced instead of painted"
+        }
+      ]
+    },
+    "014": {
+      "territory": "numinous",
+      "tags": [
+        "symbols",
+        "opposites"
+      ],
+      "links": [
+        {
+          "to": "018",
+          "why": "The mandala, symbol of the Self"
+        },
+        {
+          "to": "053",
+          "why": "The opposites a symbol must bridge"
+        }
+      ]
+    },
+    "015": {
+      "territory": "shadow",
+      "tags": [
+        "individuation",
+        "self"
+      ],
+      "links": [
+        {
+          "to": "018",
+          "why": "The Self, the goal of the whole path"
+        },
+        {
+          "to": "046",
+          "why": "The price of wholeness"
+        }
+      ]
+    },
+    "016": {
+      "territory": "shadow",
+      "tags": [
+        "inflation",
+        "possession"
+      ],
+      "links": [
+        {
+          "to": "030",
+          "why": "When possession turns malignant"
+        }
+      ]
+    },
+    "017": {
+      "territory": "shadow",
+      "tags": [
+        "shadow",
+        "projection"
+      ],
+      "links": [
+        {
+          "to": "039",
+          "why": "The other figures beside the shadow"
+        },
+        {
+          "to": "056",
+          "why": "The misunderstandings, cleared up"
+        }
+      ]
+    },
+    "018": {
+      "territory": "shadow",
+      "tags": [
+        "self",
+        "symbols"
+      ]
+    },
+    "019": {
+      "territory": "movies",
+      "tags": [
+        "film",
+        "persona",
+        "anima-animus"
+      ],
+      "links": [
+        {
+          "to": "024",
+          "why": "A persona of doll-perfect surfaces"
+        },
+        {
+          "to": "039",
+          "why": "The projection of unconscious femininity"
+        }
+      ]
+    },
+    "020": {
+      "territory": "jung",
+      "tags": [
+        "freud",
+        "biography",
+        "dreams"
+      ],
+      "links": [
+        {
+          "to": "023",
+          "why": "What the quarrel left misunderstood"
+        },
+        {
+          "to": "011",
+          "why": "Dreams — where the two parted ways"
+        }
+      ]
+    },
+    "021": {
+      "territory": "jung",
+      "tags": [
+        "east-west",
+        "modernity"
+      ],
+      "links": [
+        {
+          "to": "030",
+          "why": "Where the East locates evil"
+        },
+        {
+          "to": "052",
+          "why": "When the gods leave, they return in the sky"
+        }
+      ]
+    },
+    "022": {
+      "territory": "movies",
+      "tags": [
+        "film",
+        "shadow",
+        "persona"
+      ],
+      "links": [
+        {
+          "to": "017",
+          "why": "The shadow, in theory"
+        },
+        {
+          "to": "024",
+          "why": "The persona Tyler burns down"
+        }
+      ]
+    },
+    "023": {
+      "territory": "jung",
+      "tags": [
+        "biography"
+      ],
+      "links": [
+        {
+          "to": "028",
+          "why": "Where even a devotee still struggles"
+        }
+      ]
+    },
+    "024": {
+      "territory": "shadow",
+      "tags": [
+        "persona",
+        "society"
+      ],
+      "links": [
+        {
+          "to": "038",
+          "why": "Secrets keep you from dissolving into the group"
+        }
+      ]
+    },
+    "025": {
+      "territory": "movies",
+      "tags": [
+        "film",
+        "family",
+        "individuation"
+      ],
+      "links": [
+        {
+          "to": "008",
+          "why": "Leaving the bosom of the family"
+        },
+        {
+          "to": "015",
+          "why": "Rose's leap, read as individuation"
+        }
+      ]
+    },
+    "026": {
+      "territory": "everyday",
+      "tags": [
+        "therapy",
+        "neurosis"
+      ],
+      "links": [
+        {
+          "to": "041",
+          "why": "Meeting the patient in their own reality"
+        }
+      ]
+    },
+    "027": {
+      "territory": "movies",
+      "tags": [
+        "film",
+        "unconscious",
+        "consciousness"
+      ],
+      "links": [
+        {
+          "to": "044",
+          "why": "The fear of what surfaces into consciousness"
+        },
+        {
+          "to": "006",
+          "why": "The sea beneath the island"
+        }
+      ]
+    },
+    "028": {
+      "territory": "jung",
+      "tags": [
+        "biography",
+        "critique"
+      ]
+    },
+    "029": {
+      "territory": "psyche",
+      "tags": [
+        "intuition",
+        "functions"
+      ],
+      "links": [
+        {
+          "to": "054",
+          "why": "Intuition, given cards to play with"
+        }
+      ]
+    },
+    "030": {
+      "territory": "shadow",
+      "tags": [
+        "evil",
+        "shadow",
+        "opposites"
+      ],
+      "links": [
+        {
+          "to": "017",
+          "why": "Evil's home address: the shadow"
+        }
+      ]
+    },
+    "031": {
+      "territory": "everyday",
+      "tags": [
+        "body",
+        "instinct"
+      ],
+      "links": [
+        {
+          "to": "057",
+          "why": "The body, moving"
+        },
+        {
+          "to": "035",
+          "why": "The body's older home"
+        }
+      ]
+    },
+    "032": {
+      "territory": "shadow",
+      "tags": [
+        "puer",
+        "childhood"
+      ]
+    },
+    "033": {
+      "territory": "psyche",
+      "tags": [
+        "method",
+        "unconscious"
+      ],
+      "links": [
+        {
+          "to": "002",
+          "why": "The first Jungian idea of all"
+        }
+      ]
+    },
+    "034": {
+      "territory": "psyche",
+      "tags": [
+        "complexes",
+        "associations"
+      ],
+      "links": [
+        {
+          "to": "037",
+          "why": "The experiment that revealed the complexes"
+        }
+      ]
+    },
+    "035": {
+      "territory": "everyday",
+      "tags": [
+        "nature",
+        "instinct"
+      ],
+      "links": [
+        {
+          "to": "050",
+          "why": "Spring outside, spring inside"
+        }
+      ]
+    },
+    "036": {
+      "territory": "everyday",
+      "tags": [
+        "childhood",
+        "family"
+      ]
+    },
+    "037": {
+      "territory": "psyche",
+      "tags": [
+        "associations",
+        "method"
+      ]
+    },
+    "038": {
+      "territory": "everyday",
+      "tags": [
+        "secrets",
+        "society"
+      ]
+    },
+    "039": {
+      "territory": "shadow",
+      "tags": [
+        "anima-animus",
+        "shadow",
+        "opposites"
+      ],
+      "links": [
+        {
+          "to": "053",
+          "why": "Logos and Eros, the principles behind the figures"
+        }
+      ]
+    },
+    "040": {
+      "territory": "numinous",
+      "tags": [
+        "astrology",
+        "collective-unconscious"
+      ]
+    },
+    "041": {
+      "territory": "psyche",
+      "tags": [
+        "reality",
+        "perception",
+        "therapy"
+      ],
+      "links": [
+        {
+          "to": "042",
+          "why": "Real is what has an effect — fantasy included"
+        }
+      ]
+    },
+    "042": {
+      "territory": "numinous",
+      "tags": [
+        "imagination",
+        "unconscious"
+      ]
+    },
+    "043": {
+      "territory": "movies",
+      "tags": [
+        "film",
+        "persona",
+        "instinct"
+      ],
+      "links": [
+        {
+          "to": "024",
+          "why": "A persona with nothing behind it"
+        },
+        {
+          "to": "016",
+          "why": "Possession, by instinct"
+        }
+      ]
+    },
+    "044": {
+      "territory": "psyche",
+      "tags": [
+        "consciousness"
+      ]
+    },
+    "045": {
+      "territory": "movies",
+      "tags": [
+        "film",
+        "eros",
+        "relationships"
+      ],
+      "links": [
+        {
+          "to": "053",
+          "why": "Eros without Logos"
+        },
+        {
+          "to": "051",
+          "why": "The split-off parts we marry"
+        }
+      ]
+    },
+    "046": {
+      "territory": "numinous",
+      "tags": [
+        "suffering",
+        "sacrifice",
+        "death-rebirth"
+      ],
+      "links": [
+        {
+          "to": "050",
+          "why": "Sacrifice's other face: rebirth"
+        }
+      ]
+    },
+    "047": {
+      "territory": "movies",
+      "tags": [
+        "film",
+        "anima-animus",
+        "inflation"
+      ],
+      "links": [
+        {
+          "to": "039",
+          "why": "The anima transforms everything it touches"
+        },
+        {
+          "to": "016",
+          "why": "The inflation of a king of the world"
+        }
+      ]
+    },
+    "048": {
+      "territory": "numinous",
+      "tags": [
+        "irrational"
+      ],
+      "links": [
+        {
+          "to": "010",
+          "why": "The acausal, by its older name"
+        }
+      ]
+    },
+    "049": {
+      "territory": "numinous",
+      "tags": [
+        "physics",
+        "numbers",
+        "synchronicity"
+      ]
+    },
+    "050": {
+      "territory": "numinous",
+      "tags": [
+        "death-rebirth",
+        "religion",
+        "myth"
+      ]
+    },
+    "051": {
+      "territory": "everyday",
+      "tags": [
+        "relationships",
+        "projection"
+      ],
+      "links": [
+        {
+          "to": "008",
+          "why": "Where the patterns of relating begin"
+        }
+      ]
+    },
+    "052": {
+      "territory": "numinous",
+      "tags": [
+        "modernity",
+        "projection",
+        "religion"
+      ],
+      "links": [
+        {
+          "to": "010",
+          "why": "Projection, writ across the sky"
+        }
+      ]
+    },
+    "053": {
+      "territory": "shadow",
+      "tags": [
+        "eros",
+        "opposites",
+        "functions"
+      ]
+    },
+    "054": {
+      "territory": "numinous",
+      "tags": [
+        "divination",
+        "intuition",
+        "symbols"
+      ]
+    },
+    "055": {
+      "territory": "movies",
+      "tags": [
+        "film",
+        "reality",
+        "evil"
+      ],
+      "links": [
+        {
+          "to": "041",
+          "why": "What is real, if not its effect?"
+        },
+        {
+          "to": "030",
+          "why": "The evil the inner voice knows"
+        }
+      ]
+    },
+    "056": {
+      "territory": "shadow",
+      "tags": [
+        "shadow"
+      ]
+    },
+    "057": {
+      "territory": "numinous",
+      "tags": [
+        "creativity",
+        "body"
+      ]
+    },
+    "058": {
+      "territory": "everyday",
+      "tags": [
+        "suffering",
+        "individuation",
+        "therapy"
+      ],
+      "links": [
+        {
+          "to": "015",
+          "why": "Self-help's serious name: individuation"
+        },
+        {
+          "to": "046",
+          "why": "Enduring the inevitable suffering"
+        }
+      ]
+    },
+    "059": {
+      "territory": "psyche",
+      "tags": [
+        "archetypes",
+        "collective-unconscious"
+      ],
+      "links": [
+        {
+          "to": "016",
+          "why": "The danger in every archetype's appearance"
+        }
+      ]
+    },
+    "060": {
+      "territory": "psyche",
+      "tags": [
+        "functions",
+        "typology",
+        "shadow"
+      ]
+    },
+    "061": {
+      "territory": "numinous",
+      "tags": [
+        "alchemy",
+        "opposites",
+        "death-rebirth"
+      ],
+      "links": [
+        {
+          "to": "009",
+          "why": "Where the obsession with alchemy began"
+        },
+        {
+          "to": "014",
+          "why": "The transcendent function - the third between the opposites"
+        }
+      ]
+    }
+  },
+  "featured": [
+    "053",
+    "060",
+    "059"
+  ]
+}
