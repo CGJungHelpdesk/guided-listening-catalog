@@ -160,11 +160,8 @@
     "001": {
       "territory": "psyche",
       "tags": [
-        "life",
-        "psyche",
         "consciousness",
-        "individuation",
-        "dynamics"
+        "life-stages"
       ],
       "links": [
         {
@@ -181,9 +178,7 @@
       "territory": "psyche",
       "tags": [
         "archetypes",
-        "collective_unconscious",
-        "images",
-        "myth"
+        "collective-unconscious"
       ],
       "links": [
         {
@@ -200,9 +195,6 @@
       "territory": "psyche",
       "tags": [
         "neurosis",
-        "hysteria",
-        "psychosis",
-        "schizophrenia",
         "therapy"
       ],
       "links": [
@@ -219,9 +211,8 @@
     "004": {
       "territory": "jung",
       "tags": [
-        "jung",
-        "quotes",
-        "psychology"
+        "books",
+        "biography"
       ],
       "links": [
         {
@@ -234,10 +225,7 @@
       "territory": "psyche",
       "tags": [
         "consciousness",
-        "collective_unconscious",
-        "primitives",
-        "modern",
-        "making_conscious"
+        "collective-unconscious"
       ],
       "links": [
         {
@@ -249,11 +237,8 @@
     "006": {
       "territory": "psyche",
       "tags": [
-        "dynamics",
-        "libido",
         "unconscious",
-        "compensation",
-        "psyche"
+        "energy"
       ],
       "links": [
         {
@@ -266,11 +251,7 @@
       "territory": "psyche",
       "tags": [
         "typology",
-        "extroversion",
-        "introversion",
-        "thinking",
-        "feeling",
-        "sensation"
+        "functions"
       ],
       "links": [
         {
@@ -287,9 +268,7 @@
       "territory": "everyday",
       "tags": [
         "family",
-        "mother",
-        "father",
-        "complex"
+        "childhood"
       ],
       "links": [
         {
@@ -306,9 +285,7 @@
       "territory": "numinous",
       "tags": [
         "alchemy",
-        "active_imagination",
-        "mercurius",
-        "symbol"
+        "imagination"
       ],
       "links": [
         {
@@ -322,8 +299,7 @@
       "tags": [
         "synchronicity",
         "astrology",
-        "aion",
-        "occult"
+        "divination"
       ],
       "links": [
         {
@@ -340,9 +316,7 @@
       "territory": "numinous",
       "tags": [
         "dreams",
-        "unconscious",
-        "images",
-        "compensation"
+        "unconscious"
       ],
       "links": [
         {
@@ -359,9 +333,7 @@
       "territory": "psyche",
       "tags": [
         "perception",
-        "images",
-        "projection",
-        "psyche"
+        "typology"
       ],
       "links": [
         {
@@ -377,10 +349,8 @@
     "013": {
       "territory": "numinous",
       "tags": [
-        "creative",
-        "collective_unconscious",
-        "culture",
-        "images"
+        "creativity",
+        "collective-unconscious"
       ],
       "links": [
         {
@@ -392,10 +362,8 @@
     "014": {
       "territory": "numinous",
       "tags": [
-        "symbol",
-        "the-third",
-        "opposites",
-        "unification"
+        "symbols",
+        "opposites"
       ],
       "links": [
         {
@@ -412,9 +380,7 @@
       "territory": "shadow",
       "tags": [
         "individuation",
-        "self",
-        "life",
-        "unification"
+        "self"
       ],
       "links": [
         {
@@ -431,9 +397,7 @@
       "territory": "shadow",
       "tags": [
         "inflation",
-        "possession",
-        "mana",
-        "archetypes"
+        "possession"
       ],
       "links": [
         {
@@ -446,9 +410,7 @@
       "territory": "shadow",
       "tags": [
         "shadow",
-        "projection",
-        "repression",
-        "personal_unconscious"
+        "projection"
       ],
       "links": [
         {
@@ -465,19 +427,15 @@
       "territory": "shadow",
       "tags": [
         "self",
-        "mandala",
-        "symbol",
-        "god"
+        "symbols"
       ]
     },
     "019": {
       "territory": "movies",
       "tags": [
-        "culture",
-        "anima",
+        "film",
         "persona",
-        "female",
-        "modern"
+        "anima-animus"
       ],
       "links": [
         {
@@ -494,8 +452,7 @@
       "territory": "jung",
       "tags": [
         "freud",
-        "psychoanalysis",
-        "jung",
+        "biography",
         "dreams"
       ],
       "links": [
@@ -512,11 +469,8 @@
     "021": {
       "territory": "jung",
       "tags": [
-        "east",
-        "west",
-        "culture",
-        "religion",
-        "countries"
+        "east-west",
+        "modernity"
       ],
       "links": [
         {
@@ -532,11 +486,9 @@
     "022": {
       "territory": "movies",
       "tags": [
-        "culture",
+        "film",
         "shadow",
-        "persona",
-        "modern",
-        "male"
+        "persona"
       ],
       "links": [
         {
@@ -552,10 +504,7 @@
     "023": {
       "territory": "jung",
       "tags": [
-        "jung",
-        "projection",
-        "science",
-        "people"
+        "biography"
       ],
       "links": [
         {
@@ -568,8 +517,7 @@
       "territory": "shadow",
       "tags": [
         "persona",
-        "groups",
-        "individual"
+        "society"
       ],
       "links": [
         {
@@ -581,10 +529,9 @@
     "025": {
       "territory": "movies",
       "tags": [
-        "culture",
+        "film",
         "family",
-        "individuation",
-        "female"
+        "individuation"
       ],
       "links": [
         {
@@ -600,10 +547,8 @@
     "026": {
       "territory": "everyday",
       "tags": [
-        "analytical_psychology",
         "therapy",
-        "transference",
-        "psychology"
+        "neurosis"
       ],
       "links": [
         {
@@ -615,10 +560,9 @@
     "027": {
       "territory": "movies",
       "tags": [
-        "culture",
+        "film",
         "unconscious",
-        "things_coming_up",
-        "instinct"
+        "consciousness"
       ],
       "links": [
         {
@@ -634,18 +578,15 @@
     "028": {
       "territory": "jung",
       "tags": [
-        "jung",
-        "science",
-        "dogma"
+        "biography",
+        "critique"
       ]
     },
     "029": {
       "territory": "psyche",
       "tags": [
         "intuition",
-        "perception",
-        "typology",
-        "occult"
+        "functions"
       ],
       "links": [
         {
@@ -657,11 +598,9 @@
     "030": {
       "territory": "shadow",
       "tags": [
+        "evil",
         "shadow",
-        "god",
-        "religion",
-        "opposites",
-        "east"
+        "opposites"
       ],
       "links": [
         {
@@ -673,11 +612,8 @@
     "031": {
       "territory": "everyday",
       "tags": [
-        "instinct",
-        "sensation",
-        "soul",
-        "life",
-        "libido"
+        "body",
+        "instinct"
       ],
       "links": [
         {
@@ -693,19 +629,15 @@
     "032": {
       "territory": "shadow",
       "tags": [
-        "complex",
-        "mother",
-        "male",
-        "individuation"
+        "puer",
+        "childhood"
       ]
     },
     "033": {
       "territory": "psyche",
       "tags": [
-        "psychology",
-        "unconscious",
-        "making_conscious",
-        "jung"
+        "method",
+        "unconscious"
       ],
       "links": [
         {
@@ -717,10 +649,8 @@
     "034": {
       "territory": "psyche",
       "tags": [
-        "complex",
-        "association_experiment",
-        "affect",
-        "personal_unconscious"
+        "complexes",
+        "associations"
       ],
       "links": [
         {
@@ -732,11 +662,8 @@
     "035": {
       "territory": "everyday",
       "tags": [
-        "life",
-        "mother",
-        "instinct",
-        "primitives",
-        "soul"
+        "nature",
+        "instinct"
       ],
       "links": [
         {
@@ -748,38 +675,29 @@
     "036": {
       "territory": "everyday",
       "tags": [
-        "family",
-        "individual",
-        "life",
-        "psyche"
+        "childhood",
+        "family"
       ]
     },
     "037": {
       "territory": "psyche",
       "tags": [
-        "association_experiment",
-        "complex",
-        "perception",
-        "psychoanalysis"
+        "associations",
+        "method"
       ]
     },
     "038": {
       "territory": "everyday",
       "tags": [
-        "individual",
-        "groups",
-        "repression",
-        "soul",
-        "isolation"
+        "secrets",
+        "society"
       ]
     },
     "039": {
       "territory": "shadow",
       "tags": [
-        "anima",
-        "animus",
+        "anima-animus",
         "shadow",
-        "projection",
         "opposites"
       ],
       "links": [
@@ -792,19 +710,16 @@
     "040": {
       "territory": "numinous",
       "tags": [
-        "aion",
         "astrology",
-        "collective_unconscious",
-        "religion"
+        "collective-unconscious"
       ]
     },
     "041": {
       "territory": "psyche",
       "tags": [
+        "reality",
         "perception",
-        "psyche",
-        "therapy",
-        "images"
+        "therapy"
       ],
       "links": [
         {
@@ -816,21 +731,16 @@
     "042": {
       "territory": "numinous",
       "tags": [
-        "fantasy",
-        "images",
-        "creative",
-        "unconscious",
-        "libido"
+        "imagination",
+        "unconscious"
       ]
     },
     "043": {
       "territory": "movies",
       "tags": [
-        "culture",
+        "film",
         "persona",
-        "instinct",
-        "schizophrenia",
-        "modern"
+        "instinct"
       ],
       "links": [
         {
@@ -846,21 +756,15 @@
     "044": {
       "territory": "psyche",
       "tags": [
-        "consciousness",
-        "the_ego_complex",
-        "upside_of_consciousness",
-        "the_dilemma_of_consciousness",
-        "making_conscious"
+        "consciousness"
       ]
     },
     "045": {
       "territory": "movies",
       "tags": [
-        "culture",
+        "film",
         "eros",
-        "logos",
-        "relationships",
-        "female"
+        "relationships"
       ],
       "links": [
         {
@@ -876,11 +780,9 @@
     "046": {
       "territory": "numinous",
       "tags": [
-        "religion",
-        "god",
-        "soul",
-        "hero",
-        "opposites"
+        "suffering",
+        "sacrifice",
+        "death-rebirth"
       ],
       "links": [
         {
@@ -892,11 +794,9 @@
     "047": {
       "territory": "movies",
       "tags": [
-        "culture",
-        "anima",
-        "inflation",
-        "male",
-        "modern"
+        "film",
+        "anima-animus",
+        "inflation"
       ],
       "links": [
         {
@@ -912,10 +812,7 @@
     "048": {
       "territory": "numinous",
       "tags": [
-        "occult",
-        "science",
-        "intuition",
-        "fantasy"
+        "irrational"
       ],
       "links": [
         {
@@ -927,30 +824,24 @@
     "049": {
       "territory": "numinous",
       "tags": [
-        "science",
-        "synchronicity",
-        "unification",
-        "modern"
+        "physics",
+        "numbers",
+        "synchronicity"
       ]
     },
     "050": {
       "territory": "numinous",
       "tags": [
+        "death-rebirth",
         "religion",
-        "myth",
-        "symbol",
-        "jesus",
-        "god"
+        "myth"
       ]
     },
     "051": {
       "territory": "everyday",
       "tags": [
         "relationships",
-        "projection",
-        "anima",
-        "animus",
-        "transference"
+        "projection"
       ],
       "links": [
         {
@@ -962,11 +853,9 @@
     "052": {
       "territory": "numinous",
       "tags": [
-        "ufos",
-        "modern",
+        "modernity",
         "projection",
-        "myth",
-        "occult"
+        "religion"
       ],
       "links": [
         {
@@ -978,32 +867,25 @@
     "053": {
       "territory": "shadow",
       "tags": [
-        "logos",
         "eros",
-        "male",
-        "female",
         "opposites",
-        "typology"
+        "functions"
       ]
     },
     "054": {
       "territory": "numinous",
       "tags": [
-        "occult",
-        "images",
+        "divination",
         "intuition",
-        "symbol",
-        "astrology"
+        "symbols"
       ]
     },
     "055": {
       "territory": "movies",
       "tags": [
-        "culture",
-        "modern",
-        "myth",
-        "hero",
-        "perception"
+        "film",
+        "reality",
+        "evil"
       ],
       "links": [
         {
@@ -1019,29 +901,22 @@
     "056": {
       "territory": "shadow",
       "tags": [
-        "shadow",
-        "repression",
-        "projection",
-        "personal_unconscious"
+        "shadow"
       ]
     },
     "057": {
       "territory": "numinous",
       "tags": [
-        "creative",
-        "instinct",
-        "libido",
-        "primitives"
+        "creativity",
+        "body"
       ]
     },
     "058": {
       "territory": "everyday",
       "tags": [
-        "therapy",
+        "suffering",
         "individuation",
-        "life",
-        "modern",
-        "you"
+        "therapy"
       ],
       "links": [
         {
@@ -1058,9 +933,7 @@
       "territory": "psyche",
       "tags": [
         "archetypes",
-        "collective_unconscious",
-        "images",
-        "mana"
+        "collective-unconscious"
       ],
       "links": [
         {
@@ -1072,21 +945,17 @@
     "060": {
       "territory": "psyche",
       "tags": [
-        "inferior",
+        "functions",
         "typology",
-        "differentiation",
-        "shadow",
-        "feeling"
+        "shadow"
       ]
     },
     "061": {
       "territory": "numinous",
       "tags": [
         "alchemy",
-        "the-third",
-        "unification",
         "opposites",
-        "mercurius"
+        "death-rebirth"
       ],
       "links": [
         {
