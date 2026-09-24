@@ -1158,5 +1158,11 @@
     "046",
     "045"
   ],
-  "popularNote": "All-time Spotify streams, most first (export of 2026-09-12). Home shows the top three the listener hasn't finished. Re-export from Spotify for Podcasters and replace to refresh."
+  "popularNote": "All-time Spotify streams, most first (export of 2026-09-12). Home shows the top three the listener hasn't finished. Re-export from Spotify for Podcasters and replace to refresh.",
+  "trim": {
+    "insert": 19.0,
+    "intro": 19.0,
+    "outro": 28.0
+  },
+  "trimNote": "Seconds, decimals allowed. insert = what RedCircle prepends (also the transcript offset). intro = where playback starts (>= insert). outro = how early to wrap up. Per-episode: add \"trim\": {\"intro\": 24.5} inside an episode entry to override any field. Phones pick changes up on next launch."
 }
