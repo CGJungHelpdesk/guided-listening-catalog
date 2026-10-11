@@ -1,0 +1,13 @@
+name: Validate catalog
+on:
+  push:
+    paths: ["catalog.json", "tools/validate_catalog.py"]
+  pull_request:
+    paths: ["catalog.json"]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate catalog.json against the feed
+        run: python3 tools/validate_catalog.py catalog.json --feed
