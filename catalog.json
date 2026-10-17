@@ -1556,7 +1556,7 @@
   "trim": {
     "insert": 33.5,
     "intro": 33.5,
-    "outro": 28.0
+    "outro": 29.0
   },
   "trimNote": "Seconds, decimals allowed. insert = what RedCircle prepends (also the transcript offset). intro = where playback starts (>= insert). outro = how early to wrap up. Per-episode: add \"trim\": {\"intro\": 24.5} inside an episode entry to override any field. Phones pick changes up on next launch."
 }
