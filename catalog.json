@@ -4,21 +4,6 @@
     "feedUrl": "https://feeds.redcircle.com/c1a3de7b-1b92-4c7f-8e36-8484721d29f4",
     "note": "Episodes referenced by number/title in this draft; the app will key them to feed GUIDs automatically."
   },
-  "checkin": {
-    "question1": {
-      "prompt": "What stayed with you most?",
-      "options": [
-        "Jung's own words",
-        "The concepts",
-        "The film & culture connections",
-        "How it applies to my life"
-      ]
-    },
-    "question2": {
-      "prompt": "Where do you want to go deeper?",
-      "options": "topics"
-    }
-  },
   "onboarding": {
     "prompt": "What do you want to explore?",
     "maxTopics": 5
@@ -30,22 +15,33 @@
       "tagline": "Jung's core model, from the ground up",
       "journey": [
         "001 - Life",
-        "033 - What Makes an Idea Jungian",
-        "005 - A History of Consciousness",
-        "006 - Dynamics of the Psyche",
-        "044 - On Consciousness",
         "002 - Archetypes & The Collective Unconscious",
         "059 - On Archetypes",
+        "006 - Dynamics of the Psyche",
+        "005 - A History of Consciousness",
+        "044 - On Consciousness",
         "034 - On Complexes",
         "037 - On Associations",
-        "007 - Typology & Personality",
-        "060 - On the Inferior Function",
-        "029 - On Intuition",
         "012 - Perception & Experience",
         "041 - On Reality",
+        "033 - What Makes an Idea Jungian",
         "003 - Neurosis, Hysteria, Psychosis, Schizophrenia"
       ],
-      "about": "Jung's model of the mind, built from the ground up: how consciousness rises out of something far older, how the psyche organises itself into types and functions, and why the parts you neglect never stop working. By the end, the vocabulary the whole podcast speaks — archetypes, complexes, the collective unconscious — is yours."
+      "about": "Jung's model of the mind, built from the ground up: how consciousness rises out of something far older, how complexes and associations shape what you perceive, and why the parts you neglect never stop working. By the end, the vocabulary the whole podcast speaks is yours: archetypes, complexes, the collective unconscious."
+    },
+    {
+      "id": "types",
+      "name": "Types & Functions",
+      "tagline": "Introverts, extraverts, and the function you never trained",
+      "journey": [
+        "007 - Typology & Personality",
+        "063 - On Introversion & Extraversion",
+        "029 - On Intuition",
+        "060 - On the Inferior Function",
+        "053 - Logos & Eros",
+        "048 - On Irrationality"
+      ],
+      "about": "Jung's map of how people differ: the two attitudes, the four functions, and the inferior one that trips you up at exactly the wrong moment. Intuition and the irrational get their due, and logos and eros show how the differences play out between people. Useful the day after you hear it."
     },
     {
       "id": "shadow-self",
@@ -54,17 +50,16 @@
       "journey": [
         "017 - Shadow & Projection",
         "056 - A Shadow of Doubt",
-        "024 - Persona & Groups",
+        "030 - On Evil",
         "039 - On The Other",
         "016 - Inflation & Possession",
+        "024 - Persona & Groups",
         "032 - On Puer Aeternus",
-        "053 - Logos & Eros",
-        "030 - On Evil",
-        "014 - Symbols & The Third",
+        "015 - Individuation",
         "018 - The Self & Mandala",
-        "015 - Individuation"
+        "014 - Symbols & The Third"
       ],
-      "about": "The inner cast of characters: the shadow you'd rather not own, the persona you show the world, the other that speaks with your voice. This is the path Jung called individuation — the slow negotiation between everything you are, aimed at the Self that holds it together."
+      "about": "The inner cast of characters: the shadow you'd rather not own, the persona you show the world, the other that speaks with your voice. This is the path Jung called individuation: the slow negotiation between everything you are, aimed at the Self that holds it together."
     },
     {
       "id": "dreams-symbols",
@@ -73,19 +68,18 @@
       "journey": [
         "011 - Dreams",
         "042 - On Fantasy",
-        "013 - The Creative Spirit",
         "009 - Alchemy & Active Imagination",
         "061 - On the Alchemical Process",
         "010 - Synchronicity & Astrology (& Aions)",
-        "040 - On Aions",
         "049 - Physics & Numbers",
-        "048 - On Irrationality",
+        "040 - On Aions",
         "054 - On Tarot",
         "052 - On UFOs",
-        "050 - Rebirth & Resurrection",
-        "057 - Dancing & Movement"
+        "013 - The Creative Spirit",
+        "057 - Dancing & Movement",
+        "050 - Rebirth & Resurrection"
       ],
-      "about": "Where the unconscious speaks in its own language: dreams, symbols, alchemy, synchronicity — the strange territory Jung refused to abandon to superstition. Expect the mystical taken seriously and examined carefully, from active imagination to tarot and UFOs."
+      "about": "Where the unconscious speaks in its own language: dreams, symbols, alchemy, synchronicity. The strange territory Jung refused to abandon to superstition. Expect the mystical taken seriously and examined carefully, from active imagination to tarot and UFOs."
     },
     {
       "id": "movies",
@@ -101,33 +95,42 @@
         "047 - Movie Analysis: Scarface",
         "055 - Movie Analysis: The Matrix"
       ],
-      "about": "Jung at the cinema: eight films read through his ideas, from the shadow burning through Fight Club to the persona with nothing behind it in American Psycho. The lightest door into the concepts — you already know these stories; now watch them confess their psychology."
+      "about": "Jung at the cinema: eight films read through his ideas, from the shadow burning through Fight Club to the persona with nothing behind it in American Psycho. The lightest door into the concepts: you already know these stories; now watch them confess their psychology."
     },
     {
       "id": "everyday",
       "name": "Jung in Everyday Life",
-      "tagline": "Relationships, family, body, nature — and Jung the man",
+      "tagline": "Relationships, family, body, nature, and the self-help question",
       "journey": [
-        "058 - The Self-Help Jung",
-        "051 - On Relationships",
         "008 - Mother, Father, Child",
         "036 - On Children",
+        "051 - On Relationships",
         "031 - On the Body",
         "035 - On Nature",
         "038 - On Secrets",
         "046 - Suffering & Sacrifice",
-        "026 - Analytical Psychology & Therapy",
-        "021 - The East & The West",
+        "058 - The Self-Help Jung",
+        "026 - Analytical Psychology & Therapy"
+      ],
+      "about": "Jung off the page and in a life: family and childhood, relationships, the body, nature, suffering, and what therapy and self-help can honestly promise. Where the theory has to prove it can help an actual Tuesday."
+    },
+    {
+      "id": "jung",
+      "name": "Jung Himself",
+      "tagline": "The man himself: his books, his quarrels, his patients",
+      "journey": [
+        "004 - All The Books",
         "020 - Jung vs. Freud",
         "023 - The Misunderstood Jung",
         "028 - Where I struggle with Jung",
-        "004 - All The Books"
+        "021 - The East & The West",
+        "062 - The Patients of Jung"
       ],
-      "about": "Jung off the page and in a life: family and childhood, relationships, the body, nature, suffering — and the man himself, quarrelling with Freud and being misread by everyone. Where the theory has to prove it can help an actual Tuesday."
+      "about": "Jung the man, not the model: which books to read and in what order, the break with Freud, the ways he is misread and the places where even his host disagrees with him, his view of East and West, and the patients whose stories carry his ideas. For when you want to know who was talking."
     }
   ],
   "unassigned": [
-    "Intro (trailer — plays from the About screen, not part of a journey)"
+    "Intro (trailer, plays from the About screen, not part of a journey)"
   ],
   "territories": [
     {
@@ -179,6 +182,10 @@
         {
           "to": "044",
           "why": "The centre the whole arc turns around"
+        },
+        {
+          "to": "036",
+          "why": "Life begins as a child's"
         }
       ]
     },
@@ -188,7 +195,8 @@
         "archetypes",
         "collective_unconscious",
         "images",
-        "myth"
+        "myth",
+        "dreams"
       ],
       "links": [
         {
@@ -218,6 +226,10 @@
         {
           "to": "034",
           "why": "The intruders behind the symptoms"
+        },
+        {
+          "to": "020",
+          "why": "The psychiatric years before Freud"
         }
       ]
     },
@@ -225,13 +237,18 @@
       "territory": "jung",
       "tags": [
         "jung",
-        "quotes",
-        "psychology"
+        "psychology",
+        "alchemy",
+        "dreams"
       ],
       "links": [
         {
           "to": "023",
           "why": "Reading Jung without misreading him"
+        },
+        {
+          "to": "002",
+          "why": "The archetypes talk this one builds on"
         }
       ]
     },
@@ -248,6 +265,10 @@
         {
           "to": "044",
           "why": "Consciousness, examined on its own"
+        },
+        {
+          "to": "012",
+          "why": "From the history of consciousness to how it perceives"
         }
       ]
     },
@@ -264,6 +285,10 @@
         {
           "to": "042",
           "why": "Fantasy, the psyche's own energy at work"
+        },
+        {
+          "to": "031",
+          "why": "Libido, felt in the body"
         }
       ]
     },
@@ -274,8 +299,7 @@
         "extroversion",
         "introversion",
         "thinking",
-        "feeling",
-        "sensation"
+        "feeling"
       ],
       "links": [
         {
@@ -285,6 +309,10 @@
         {
           "to": "029",
           "why": "The strangest of the four functions"
+        },
+        {
+          "to": "010",
+          "why": "The astrology evening he promised here"
         }
       ]
     },
@@ -294,7 +322,8 @@
         "family",
         "mother",
         "father",
-        "complex"
+        "complex",
+        "relationships"
       ],
       "links": [
         {
@@ -313,12 +342,17 @@
         "alchemy",
         "active_imagination",
         "mercurius",
-        "symbol"
+        "symbol",
+        "science"
       ],
       "links": [
         {
           "to": "042",
           "why": "Active imagination is fantasy taken seriously"
+        },
+        {
+          "to": "013",
+          "why": "When active imagination becomes art"
         }
       ]
     },
@@ -347,7 +381,8 @@
         "dreams",
         "unconscious",
         "images",
-        "compensation"
+        "compensation",
+        "freud"
       ],
       "links": [
         {
@@ -357,6 +392,10 @@
         {
           "to": "042",
           "why": "Dreams, but by daylight"
+        },
+        {
+          "to": "008",
+          "why": "The mechanics behind it, told in Mother, Father, Child"
         }
       ]
     },
@@ -391,6 +430,10 @@
         {
           "to": "057",
           "why": "Creation danced instead of painted"
+        },
+        {
+          "to": "019",
+          "why": "Pop art with a psychology to confess"
         }
       ]
     },
@@ -400,7 +443,8 @@
         "symbol",
         "the-third",
         "opposites",
-        "unification"
+        "unification",
+        "dreams"
       ],
       "links": [
         {
@@ -410,6 +454,10 @@
         {
           "to": "053",
           "why": "The opposites a symbol must bridge"
+        },
+        {
+          "to": "011",
+          "why": "The symbols he saved up since the dreams talk"
         }
       ]
     },
@@ -419,7 +467,8 @@
         "individuation",
         "self",
         "life",
-        "unification"
+        "unification",
+        "shadow"
       ],
       "links": [
         {
@@ -438,7 +487,8 @@
         "inflation",
         "possession",
         "mana",
-        "archetypes"
+        "archetypes",
+        "anima"
       ],
       "links": [
         {
@@ -453,7 +503,8 @@
         "shadow",
         "projection",
         "repression",
-        "personal_unconscious"
+        "personal_unconscious",
+        "perception"
       ],
       "links": [
         {
@@ -472,7 +523,18 @@
         "self",
         "mandala",
         "symbol",
-        "god"
+        "god",
+        "collective_unconscious"
+      ],
+      "links": [
+        {
+          "to": "021",
+          "why": "Where the mandala's eastern side gets its own evening"
+        },
+        {
+          "to": "009",
+          "why": "Mandala drawing as active imagination"
+        }
       ]
     },
     "019": {
@@ -501,7 +563,8 @@
         "freud",
         "psychoanalysis",
         "jung",
-        "dreams"
+        "dreams",
+        "complex"
       ],
       "links": [
         {
@@ -510,7 +573,15 @@
         },
         {
           "to": "011",
-          "why": "Dreams — where the two parted ways"
+          "why": "Dreams: where the two parted ways"
+        },
+        {
+          "to": "034",
+          "why": "The complexes talk he points to"
+        },
+        {
+          "to": "004",
+          "why": "Which books to read after the quarrel"
         }
       ]
     },
@@ -531,6 +602,10 @@
         {
           "to": "052",
           "why": "When the gods leave, they return in the sky"
+        },
+        {
+          "to": "028",
+          "why": "The controversial Jung, continued"
         }
       ]
     },
@@ -551,6 +626,10 @@
         {
           "to": "024",
           "why": "The persona Tyler burns down"
+        },
+        {
+          "to": "021",
+          "why": "The side note that came out of the East and West evening"
         }
       ]
     },
@@ -560,12 +639,21 @@
         "jung",
         "projection",
         "science",
-        "people"
+        "people",
+        "archetypes"
       ],
       "links": [
         {
           "to": "028",
           "why": "Where even a devotee still struggles"
+        },
+        {
+          "to": "058",
+          "why": "The misreadings that became self-help"
+        },
+        {
+          "to": "033",
+          "why": "The test for what is really Jung's"
         }
       ]
     },
@@ -574,7 +662,8 @@
       "tags": [
         "persona",
         "groups",
-        "individual"
+        "individual",
+        "complex"
       ],
       "links": [
         {
@@ -589,16 +678,13 @@
         "culture",
         "family",
         "individuation",
-        "female"
+        "female",
+        "animus"
       ],
       "links": [
         {
           "to": "008",
           "why": "Leaving the bosom of the family"
-        },
-        {
-          "to": "015",
-          "why": "Rose's leap, read as individuation"
         }
       ]
     },
@@ -608,12 +694,17 @@
         "analytical_psychology",
         "therapy",
         "transference",
-        "psychology"
+        "psychology",
+        "freud"
       ],
       "links": [
         {
           "to": "041",
           "why": "Meeting the patient in their own reality"
+        },
+        {
+          "to": "020",
+          "why": "Where therapy still looks like psychoanalysis"
         }
       ]
     },
@@ -623,7 +714,8 @@
         "culture",
         "unconscious",
         "things_coming_up",
-        "instinct"
+        "instinct",
+        "complex"
       ],
       "links": [
         {
@@ -641,7 +733,19 @@
       "tags": [
         "jung",
         "science",
-        "dogma"
+        "dogma",
+        "dreams",
+        "individuation"
+      ],
+      "links": [
+        {
+          "to": "004",
+          "why": "The books he still argues with"
+        },
+        {
+          "to": "058",
+          "why": "Where simplified Jung starts to hurt"
+        }
       ]
     },
     "029": {
@@ -650,12 +754,17 @@
         "intuition",
         "perception",
         "typology",
-        "occult"
+        "occult",
+        "feeling"
       ],
       "links": [
         {
           "to": "054",
           "why": "Intuition, given cards to play with"
+        },
+        {
+          "to": "024",
+          "why": "Groups and their ground psychology, said there first"
         }
       ]
     },
@@ -692,6 +801,10 @@
         {
           "to": "035",
           "why": "The body's older home"
+        },
+        {
+          "to": "027",
+          "why": "Fear lives in the body first"
         }
       ]
     },
@@ -701,7 +814,22 @@
         "complex",
         "mother",
         "male",
-        "individuation"
+        "individuation",
+        "dreams"
+      ],
+      "links": [
+        {
+          "to": "036",
+          "why": "Children's dreams, continued"
+        },
+        {
+          "to": "019",
+          "why": "Ken, the puer in plastic"
+        },
+        {
+          "to": "058",
+          "why": "The eternal youth of self-improvement"
+        }
       ]
     },
     "033": {
@@ -710,12 +838,17 @@
         "psychology",
         "unconscious",
         "making_conscious",
-        "jung"
+        "jung",
+        "opposites"
       ],
       "links": [
         {
           "to": "002",
           "why": "The first Jungian idea of all"
+        },
+        {
+          "to": "001",
+          "why": "Where the podcast began: Jung's view of a life"
         }
       ]
     },
@@ -725,12 +858,17 @@
         "complex",
         "association_experiment",
         "affect",
-        "personal_unconscious"
+        "personal_unconscious",
+        "freud"
       ],
       "links": [
         {
           "to": "037",
           "why": "The experiment that revealed the complexes"
+        },
+        {
+          "to": "062",
+          "why": "The complex, seen in his patients"
         }
       ]
     },
@@ -747,6 +885,14 @@
         {
           "to": "050",
           "why": "Spring outside, spring inside"
+        },
+        {
+          "to": "032",
+          "why": "Dreams of children, from the puer evening"
+        },
+        {
+          "to": "027",
+          "why": "Nature with teeth"
         }
       ]
     },
@@ -756,7 +902,18 @@
         "family",
         "individual",
         "life",
-        "psyche"
+        "psyche",
+        "father"
+      ],
+      "links": [
+        {
+          "to": "011",
+          "why": "The dreams talk he recommends mid-episode"
+        },
+        {
+          "to": "035",
+          "why": "Children and the natural mind"
+        }
       ]
     },
     "037": {
@@ -765,7 +922,18 @@
         "association_experiment",
         "complex",
         "perception",
-        "psychoanalysis"
+        "psychoanalysis",
+        "dreams"
+      ],
+      "links": [
+        {
+          "to": "012",
+          "why": "Associations shape what we perceive"
+        },
+        {
+          "to": "062",
+          "why": "The patients of the word-association tests"
+        }
       ]
     },
     "038": {
@@ -776,6 +944,16 @@
         "repression",
         "soul",
         "isolation"
+      ],
+      "links": [
+        {
+          "to": "022",
+          "why": "The first rule of Fight Club is a secret"
+        },
+        {
+          "to": "043",
+          "why": "A secret life in a tailored suit"
+        }
       ]
     },
     "039": {
@@ -800,7 +978,18 @@
         "aion",
         "astrology",
         "collective_unconscious",
-        "religion"
+        "religion",
+        "jesus"
+      ],
+      "links": [
+        {
+          "to": "005",
+          "why": "The aeons as the long history of consciousness"
+        },
+        {
+          "to": "002",
+          "why": "Archetypes on the scale of ages"
+        }
       ]
     },
     "041": {
@@ -814,7 +1003,7 @@
       "links": [
         {
           "to": "042",
-          "why": "Real is what has an effect — fantasy included"
+          "why": "Real is what has an effect, fantasy included"
         }
       ]
     },
@@ -826,6 +1015,12 @@
         "creative",
         "unconscious",
         "libido"
+      ],
+      "links": [
+        {
+          "to": "014",
+          "why": "The symbols evening this leans on"
+        }
       ]
     },
     "043": {
@@ -845,6 +1040,10 @@
         {
           "to": "016",
           "why": "Possession, by instinct"
+        },
+        {
+          "to": "042",
+          "why": "Bateman's violence as fantasy"
         }
       ]
     },
@@ -856,6 +1055,16 @@
         "upside_of_consciousness",
         "the_dilemma_of_consciousness",
         "making_conscious"
+      ],
+      "links": [
+        {
+          "to": "033",
+          "why": "Making things conscious as the Jungian mark"
+        },
+        {
+          "to": "055",
+          "why": "Waking up, as consciousness does"
+        }
       ]
     },
     "045": {
@@ -875,6 +1084,10 @@
         {
           "to": "051",
           "why": "The split-off parts we marry"
+        },
+        {
+          "to": "025",
+          "why": "From Rose to Maggie: two women choosing a self"
         }
       ]
     },
@@ -891,6 +1104,10 @@
         {
           "to": "050",
           "why": "Sacrifice's other face: rebirth"
+        },
+        {
+          "to": "025",
+          "why": "A sacrifice at the end of the voyage"
         }
       ]
     },
@@ -911,6 +1128,10 @@
         {
           "to": "016",
           "why": "The inflation of a king of the world"
+        },
+        {
+          "to": "030",
+          "why": "Evil with a Cuban accent"
         }
       ]
     },
@@ -920,12 +1141,21 @@
         "occult",
         "science",
         "intuition",
-        "fantasy"
+        "fantasy",
+        "freud"
       ],
       "links": [
         {
           "to": "010",
           "why": "The acausal, by its older name"
+        },
+        {
+          "to": "042",
+          "why": "Fantasy, the irrational at work"
+        },
+        {
+          "to": "029",
+          "why": "Intuition, the irrational function"
         }
       ]
     },
@@ -935,7 +1165,26 @@
         "science",
         "synchronicity",
         "unification",
-        "modern"
+        "modern",
+        "symbol"
+      ],
+      "links": [
+        {
+          "to": "012",
+          "why": "What physics says about the perceiver"
+        },
+        {
+          "to": "041",
+          "why": "Reality, measured and imagined"
+        },
+        {
+          "to": "006",
+          "why": "Energy, the concept physics lent him"
+        },
+        {
+          "to": "061",
+          "why": "Pauli, physics and the alchemical process"
+        }
       ]
     },
     "050": {
@@ -946,6 +1195,16 @@
         "symbol",
         "jesus",
         "god"
+      ],
+      "links": [
+        {
+          "to": "015",
+          "why": "Rebirth as the shape of individuation"
+        },
+        {
+          "to": "040",
+          "why": "The age of Pisces and its Christ"
+        }
       ]
     },
     "051": {
@@ -961,6 +1220,18 @@
         {
           "to": "008",
           "why": "Where the patterns of relating begin"
+        },
+        {
+          "to": "053",
+          "why": "Logos and eros between two people"
+        },
+        {
+          "to": "031",
+          "why": "Relationships happen in bodies"
+        },
+        {
+          "to": "025",
+          "why": "A love story read as projection"
         }
       ]
     },
@@ -977,6 +1248,14 @@
         {
           "to": "010",
           "why": "Projection, writ across the sky"
+        },
+        {
+          "to": "018",
+          "why": "The flying saucer as a mandala"
+        },
+        {
+          "to": "055",
+          "why": "Modern myths, from saucers to the Matrix"
         }
       ]
     },
@@ -987,8 +1266,17 @@
         "eros",
         "male",
         "female",
-        "opposites",
-        "typology"
+        "opposites"
+      ],
+      "links": [
+        {
+          "to": "057",
+          "why": "Eros moves, logos talks"
+        },
+        {
+          "to": "060",
+          "why": "The inferior function, from the evening before"
+        }
       ]
     },
     "054": {
@@ -999,6 +1287,20 @@
         "intuition",
         "symbol",
         "astrology"
+      ],
+      "links": [
+        {
+          "to": "010",
+          "why": "Cards, stars and meaningful coincidence"
+        },
+        {
+          "to": "026",
+          "why": "Tarot on the therapist's table"
+        },
+        {
+          "to": "048",
+          "why": "Why the irrational is not nonsense"
+        }
       ]
     },
     "055": {
@@ -1027,7 +1329,18 @@
         "shadow",
         "repression",
         "projection",
-        "personal_unconscious"
+        "personal_unconscious",
+        "perception"
+      ],
+      "links": [
+        {
+          "to": "030",
+          "why": "Doubt about one's own evil"
+        },
+        {
+          "to": "047",
+          "why": "A shadow that takes over completely"
+        }
       ]
     },
     "057": {
@@ -1036,7 +1349,18 @@
         "creative",
         "instinct",
         "libido",
-        "primitives"
+        "primitives",
+        "mandala"
+      ],
+      "links": [
+        {
+          "to": "014",
+          "why": "Movement as a symbol in the making"
+        },
+        {
+          "to": "018",
+          "why": "The circle dance and the mandala"
+        }
       ]
     },
     "058": {
@@ -1056,6 +1380,10 @@
         {
           "to": "046",
           "why": "Enduring the inevitable suffering"
+        },
+        {
+          "to": "057",
+          "why": "A month after dancing and movement, the follow-up"
         }
       ]
     },
@@ -1065,12 +1393,21 @@
         "archetypes",
         "collective_unconscious",
         "images",
-        "mana"
+        "mana",
+        "hero"
       ],
       "links": [
         {
           "to": "016",
           "why": "The danger in every archetype's appearance"
+        },
+        {
+          "to": "032",
+          "why": "The puer, an archetype at work"
+        },
+        {
+          "to": "040",
+          "why": "The archetype of an age"
         }
       ]
     },
@@ -1082,6 +1419,16 @@
         "differentiation",
         "shadow",
         "feeling"
+      ],
+      "links": [
+        {
+          "to": "056",
+          "why": "The inferior function is where the shadow lives"
+        },
+        {
+          "to": "063",
+          "why": "The attitude types behind the functions"
+        }
       ]
     },
     "061": {
@@ -1099,8 +1446,55 @@
           "why": "Where the obsession with alchemy began"
         },
         {
-          "to": "014",
-          "why": "The transcendent function - the third between the opposites"
+          "to": "015",
+          "why": "The opus as individuation"
+        },
+        {
+          "to": "060",
+          "why": "The cognitive functions, explained in depth there"
+        }
+      ]
+    },
+    "062": {
+      "territory": "jung",
+      "tags": [
+        "therapy",
+        "dreams",
+        "complex",
+        "jung"
+      ],
+      "links": [
+        {
+          "to": "038",
+          "why": "What the patients kept secret"
+        },
+        {
+          "to": "026",
+          "why": "Where the therapy behind these stories is explained"
+        },
+        {
+          "to": "008",
+          "why": "The episode he recommends to go on with"
+        },
+        {
+          "to": "003",
+          "why": "The diagnoses behind the patient stories"
+        }
+      ]
+    },
+    "063": {
+      "territory": "psyche",
+      "tags": [
+        "typology",
+        "introversion",
+        "extroversion",
+        "perception",
+        "persona"
+      ],
+      "links": [
+        {
+          "to": "007",
+          "why": "The personality evening this one deepens"
         }
       ]
     }
