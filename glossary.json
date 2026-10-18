@@ -1,0 +1,1307 @@
+{
+  "terms": [
+    {
+      "id": "archetype",
+      "term": "archetype",
+      "aliases": [
+        "archetypes",
+        "archetypal"
+      ],
+      "definition": "Jung's name for the inborn forms of the collective unconscious, \"definite forms in the psyche which seem to be present always and everywhere\": the patterns behind myths, dreams and instinctive behaviour, known only through the images they produce.",
+      "source": "CW 9i ¶ 89",
+      "verified": true,
+      "line": "Things that happened so often in the past that they got ingrained in human nature: a pattern of behaviour, not a picture.",
+      "lineFrom": "023",
+      "related": [
+        "collective-unconscious",
+        "primordial-image",
+        "instinct",
+        "great-mother",
+        "hero",
+        "trickster",
+        "wise-old-man",
+        "puer-aeternus",
+        "self"
+      ]
+    },
+    {
+      "id": "collective-unconscious",
+      "term": "collective unconscious",
+      "aliases": [
+        "objective psyche",
+        "impersonal unconscious"
+      ],
+      "definition": "The layer of the unconscious that does not owe its existence to personal experience and is not a personal acquisition: it is inherited, the same in everyone, and its contents are the archetypes.",
+      "source": "CW 9i ¶ 88",
+      "verified": true,
+      "line": "Below what you forgot or pushed away lies something older: the part of you that is basically human nature, shared with everyone.",
+      "lineFrom": "010",
+      "related": [
+        "archetype",
+        "personal-unconscious",
+        "primordial-image",
+        "instinct",
+        "psychoid"
+      ]
+    },
+    {
+      "id": "personal-unconscious",
+      "term": "personal unconscious",
+      "aliases": [],
+      "definition": "Everything in the unconscious that was acquired in one life: \"everything forgotten, repressed, subliminally perceived, thought, felt\". Its contents are mostly complexes, and the shadow lives here.",
+      "source": "CW 6 ¶ 842",
+      "verified": true,
+      "line": "The first layer under consciousness: the things about yourself you have not dealt with yet, trauma, shame, guilt.",
+      "lineFrom": "015",
+      "related": [
+        "shadow",
+        "complex",
+        "collective-unconscious",
+        "feeling-toned-complex"
+      ]
+    },
+    {
+      "id": "self",
+      "term": "the Self",
+      "aliases": [
+        "Self",
+        "self"
+      ],
+      "definition": "\"As an empirical concept, the self designates the whole range of psychic phenomena in man.\" The totality of conscious and unconscious, the centre and the whole at once; it appears in dreams as a king, a hero, a circle or a square.",
+      "source": "CW 6 ¶ 789",
+      "verified": true,
+      "line": "The sum of everything you could possibly be, if the parts that are not integrated got integrated. You move towards it through individuation.",
+      "lineFrom": "009",
+      "related": [
+        "ego",
+        "individuation",
+        "mandala",
+        "quaternity",
+        "god-image",
+        "lapis",
+        "coniunctio"
+      ]
+    },
+    {
+      "id": "ego",
+      "term": "ego",
+      "aliases": [
+        "ego-complex",
+        "I"
+      ],
+      "definition": "\"A complex of ideas which constitutes the centre of my field of consciousness\", with a high degree of continuity and identity. One complex among others, not the whole psyche: the ego is the subject of consciousness, the self is the subject of the whole.",
+      "source": "CW 6 ¶ 706",
+      "verified": true,
+      "line": "The directed part of the psyche: the part of you that decides to do things or not to do them.",
+      "lineFrom": "015",
+      "related": [
+        "self",
+        "persona",
+        "shadow",
+        "complex",
+        "inflation"
+      ]
+    },
+    {
+      "id": "persona",
+      "term": "persona",
+      "aliases": [
+        "mask",
+        "personae"
+      ],
+      "definition": "The attitude adopted towards the world, named after the actor's mask: a compromise between individual and society, \"designed on the one hand to make a definite impression upon others\" and on the other to conceal what the person is.",
+      "source": "CW 7 ¶ 305",
+      "verified": true,
+      "line": "The side of you the world actually talks to. Without one you have no access to the world; it is not all of you.",
+      "lineFrom": "024",
+      "related": [
+        "ego",
+        "shadow",
+        "anima",
+        "animus",
+        "inflation",
+        "attitude"
+      ]
+    },
+    {
+      "id": "shadow",
+      "term": "shadow",
+      "aliases": [
+        "shadow side",
+        "shadow figure",
+        "shadow work"
+      ],
+      "definition": "The dark side of the personality, the inferiorities and emotions one does not want to own, mostly made of personal unconscious. \"The shadow is a moral problem that challenges the whole ego-personality.\"",
+      "source": "CW 9ii ¶ 14",
+      "verified": true,
+      "line": "Everything consciousness drops at the wayside because it is focused elsewhere: not only the ugly bits, also what you never looked at.",
+      "lineFrom": "017",
+      "related": [
+        "personal-unconscious",
+        "projection",
+        "trickster",
+        "nigredo-albedo-rubedo",
+        "ego",
+        "complex"
+      ]
+    },
+    {
+      "id": "anima",
+      "term": "anima",
+      "aliases": [
+        "soul-image",
+        "the feminine"
+      ],
+      "definition": "In a man, the inner feminine figure: the soul-image that the unconscious personifies in dreams as a woman, usually projected on a real woman, and the way his consciousness relates to the unconscious.",
+      "source": "CW 6 ¶ 808",
+      "verified": true,
+      "line": "The anima does not have to be a woman. In Jaws, the shark is Chief Brody's anima: it is a function, not a person.",
+      "lineFrom": "023",
+      "related": [
+        "animus",
+        "soul",
+        "projection",
+        "persona",
+        "eros-logos",
+        "possession"
+      ]
+    },
+    {
+      "id": "animus",
+      "term": "animus",
+      "aliases": [
+        "soul-image",
+        "the masculine"
+      ],
+      "definition": "In a woman, the inner masculine figure, the counterpart of the anima. \"The animus corresponds to the paternal Logos just as the anima corresponds to the maternal Eros.\"",
+      "source": "CW 9ii ¶ 29",
+      "verified": true,
+      "line": "Your other side as a figure you can meet: a man for a woman, a woman for a man. Jung calls it the soul-image.",
+      "lineFrom": "008",
+      "related": [
+        "anima",
+        "soul",
+        "projection",
+        "eros-logos",
+        "possession"
+      ]
+    },
+    {
+      "id": "individuation",
+      "term": "individuation",
+      "aliases": [
+        "individuate",
+        "individuation process"
+      ],
+      "definition": "The process by which individual beings are formed and differentiated: \"the development of the psychological individual as a being distinct from the general, collective psychology\". Its goal is the whole personality, not perfection.",
+      "source": "CW 6 ¶ 757",
+      "verified": true,
+      "line": "A conscious process. What comes up from the unconscious arrives mangled and twisted, like a package you have to unpack and integrate.",
+      "lineFrom": "018",
+      "related": [
+        "self",
+        "shadow",
+        "anima",
+        "animus",
+        "transcendent-function",
+        "alchemy-opus",
+        "mandala"
+      ]
+    },
+    {
+      "id": "complex",
+      "term": "complex",
+      "aliases": [
+        "complexes"
+      ],
+      "definition": "\"The image of a certain psychic situation which is strongly accentuated emotionally\" and incompatible with the habitual attitude of consciousness. It has inner coherence, its own wholeness and a degree of autonomy, so it can behave like a splinter personality.",
+      "source": "CW 8 ¶ 201",
+      "verified": true,
+      "line": "When someone pushes a button and an emotion takes you over and traps you there: for Jung, that is a complex.",
+      "lineFrom": "034",
+      "related": [
+        "feeling-toned-complex",
+        "association-experiment",
+        "personal-unconscious",
+        "possession",
+        "neurosis",
+        "ego"
+      ]
+    },
+    {
+      "id": "libido",
+      "term": "libido (psychic energy)",
+      "aliases": [
+        "psychic energy",
+        "libido"
+      ],
+      "definition": "\"By libido I mean psychic energy.\" The intensity of a psychic process, its psychological value; not a force and not, as in Freud, sexual drive alone. It flows between conscious and unconscious and between opposites.",
+      "source": "CW 6 ¶ 778",
+      "verified": true,
+      "line": "Not Freud's sex drive. An animating energy: something inactive becomes active, and that is already a good start.",
+      "lineFrom": "006",
+      "related": [
+        "compensation",
+        "enantiodromia",
+        "introversion",
+        "extraversion",
+        "instinct"
+      ]
+    },
+    {
+      "id": "projection",
+      "term": "projection",
+      "aliases": [
+        "projections",
+        "project",
+        "projected"
+      ],
+      "definition": "\"The expulsion of a subjective content into an object\": a part of oneself is seen in another person or thing, where it looks foreign. It happens by itself; one only notices it when the need to take it back arises.",
+      "source": "CW 6 ¶ 783",
+      "verified": true,
+      "line": "Things you cannot see in yourself do not disappear. They spread out over the world and you see them in other people.",
+      "lineFrom": "026",
+      "related": [
+        "shadow",
+        "anima",
+        "animus",
+        "participation-mystique",
+        "alchemy-opus",
+        "god-image"
+      ]
+    },
+    {
+      "id": "compensation",
+      "term": "compensation",
+      "aliases": [
+        "compensatory",
+        "compensate"
+      ],
+      "definition": "Jung's word for the self-regulation of the psyche: \"an inherent self-regulation of the psychic apparatus\". The unconscious balances the one-sidedness of the conscious attitude, which is why dreams so often show the opposite of what one thinks.",
+      "source": "CW 6 ¶ 694",
+      "verified": true,
+      "line": "The unconscious reacts to consciousness like the body to a virus: you do not see the infection, you get the symptoms.",
+      "lineFrom": "008",
+      "related": [
+        "dream",
+        "enantiodromia",
+        "libido",
+        "neurosis",
+        "inferior-function"
+      ]
+    },
+    {
+      "id": "symbol",
+      "term": "symbol",
+      "aliases": [
+        "symbols",
+        "symbolic"
+      ],
+      "definition": "\"The best possible formulation of a relatively unknown thing\", which for that reason cannot be put more clearly. A symbol is alive as long as it carries more meaning than can be said otherwise; once explained, it becomes a sign.",
+      "source": "CW 6 ¶ 815",
+      "verified": true,
+      "line": "The bridge between consciousness and the unconscious; most often an image, made all by itself, as in dreams.",
+      "lineFrom": "014",
+      "related": [
+        "sign",
+        "transcendent-function",
+        "dream",
+        "mandala",
+        "amplification",
+        "archetype"
+      ]
+    },
+    {
+      "id": "sign",
+      "term": "sign",
+      "aliases": [
+        "signs",
+        "semiotic"
+      ],
+      "definition": "An expression that stands for a known thing, like a token or a badge. \"An expression that stands for a known thing remains a mere sign and is never a symbol.\"",
+      "source": "CW 6 ¶ 817",
+      "verified": true,
+      "line": "A road sign says dangerous road and that is all; it takes the complexity out. A symbol keeps it in.",
+      "lineFrom": "014",
+      "related": [
+        "symbol"
+      ]
+    },
+    {
+      "id": "transcendent-function",
+      "term": "transcendent function",
+      "aliases": [],
+      "definition": "Nothing mysterious or metaphysical: the function that \"arises from the union of conscious and unconscious contents\" and lets a person pass from one attitude to another. The material it works with and produces is the living symbol.",
+      "source": "CW 8 ¶ 131",
+      "verified": true,
+      "line": "You have tried everything you know and nothing works. Then a leap happens, a bolt of insight, and the next step appears.",
+      "lineFrom": "042",
+      "related": [
+        "symbol",
+        "active-imagination",
+        "individuation",
+        "compensation",
+        "coniunctio"
+      ]
+    },
+    {
+      "id": "active-imagination",
+      "term": "active imagination",
+      "aliases": [],
+      "definition": "Jung's method of letting a fantasy or mood unfold while consciously taking part and writing or painting it down: \"a kind of spontaneous amplification of the archetypes\" that to some extent takes the place of dreams.",
+      "source": "CW 8 ¶ 403",
+      "verified": true,
+      "line": "Like the alchemists: you stop being critical, let whatever comes come, write it down, and try to understand it later.",
+      "lineFrom": "009",
+      "related": [
+        "transcendent-function",
+        "amplification",
+        "dream",
+        "alchemy-opus",
+        "symbol"
+      ]
+    },
+    {
+      "id": "synchronicity",
+      "term": "synchronicity",
+      "aliases": [
+        "synchronistic",
+        "synchronicities"
+      ],
+      "definition": "\"A coincidence in time of two or more causally unrelated events which have the same or a similar meaning\": an inner state and an outer event meet by meaning, not by cause.",
+      "source": "CW 8 ¶ 849",
+      "verified": true,
+      "line": "Causality is easy, A causes B causes C. Synchronicity is the other mode, and it is hard for Westerners to get.",
+      "lineFrom": "021",
+      "related": [
+        "unus-mundus",
+        "psychoid",
+        "archetype",
+        "numinous"
+      ]
+    },
+    {
+      "id": "enantiodromia",
+      "term": "enantiodromia",
+      "aliases": [],
+      "definition": "A word from Heraclitus, running counter: \"the emergence of the unconscious opposite in the course of time\". When one extreme dominates conscious life, an equally strong counter-position builds up and eventually breaks through.",
+      "source": "CW 6 ¶ 709",
+      "verified": true,
+      "line": "Push one side further and further and at some point you run into its opposite. It is a Greek word.",
+      "lineFrom": "014",
+      "related": [
+        "compensation",
+        "libido",
+        "coniunctio",
+        "inflation"
+      ]
+    },
+    {
+      "id": "participation-mystique",
+      "term": "participation mystique",
+      "aliases": [
+        "mystical participation"
+      ],
+      "definition": "A term from Lévy-Bruhl for a state in which \"the subject cannot clearly distinguish himself from the object\": a partial identity with people, things or surroundings, left over from an original oneness of subject and object.",
+      "source": "CW 6 ¶ 781",
+      "verified": true,
+      "line": "Not being really separate from the outside world, like when early people said they could make bows because their grandfather was a bow.",
+      "lineFrom": "005",
+      "related": [
+        "projection",
+        "possession",
+        "archetype",
+        "unus-mundus"
+      ]
+    },
+    {
+      "id": "inflation",
+      "term": "inflation",
+      "aliases": [
+        "psychic inflation",
+        "inflated"
+      ],
+      "definition": "\"An extension of the personality beyond individual limits, in other words, a state of being puffed up\": the ego fills itself with contents that belong to the collective, to an office, a role or an archetype.",
+      "source": "CW 7 ¶ 227",
+      "verified": true,
+      "line": "Success is the dangerous one. You confuse your ambition, or the role, with yourself, and the ego gets inflated.",
+      "lineFrom": "047",
+      "related": [
+        "ego",
+        "persona",
+        "mana-personality",
+        "possession",
+        "archetype"
+      ]
+    },
+    {
+      "id": "possession",
+      "term": "possession",
+      "aliases": [
+        "possessed"
+      ],
+      "definition": "A change of inner structure in which \"some content, an idea or a part of the personality, obtains mastery of the individual\". It shows as stubborn convictions and plans that are not open to correction; anima, animus or a complex can be the possessor.",
+      "source": "CW 9i ¶ 220",
+      "verified": true,
+      "line": "Anger or lust feel like something taking you over. The Greeks said Ares got into someone; Jung says a complex has.",
+      "lineFrom": "057",
+      "related": [
+        "complex",
+        "inflation",
+        "anima",
+        "animus",
+        "mana-personality",
+        "shadow"
+      ]
+    },
+    {
+      "id": "mana-personality",
+      "term": "mana personality",
+      "aliases": [
+        "mana",
+        "mana-personality"
+      ],
+      "definition": "A dominant of the collective unconscious: \"the well-known archetype of the mighty man in the form of hero, chief, magician, medicine-man, saint\". An ego that believes it has conquered the anima takes over its mana and becomes one.",
+      "source": "CW 7 ¶ 377",
+      "verified": true,
+      "line": "Mana is what tribes called it; we would say charisma. People are immediately drawn to such a person and want to be close.",
+      "lineFrom": "022",
+      "related": [
+        "inflation",
+        "wise-old-man",
+        "hero",
+        "anima",
+        "possession",
+        "numinous"
+      ]
+    },
+    {
+      "id": "puer-aeternus",
+      "term": "puer aeternus",
+      "aliases": [
+        "puer",
+        "eternal boy",
+        "divine child"
+      ],
+      "definition": "The eternal boy of myth, Dionysus or Baldur, \"never anything but an anticipation of something desired and hoped for\". Psychologically a man who stays the mother's child, all promise and no landing.",
+      "source": "CW 5 ¶ 392",
+      "verified": true,
+      "line": "An archetype, which means a pattern: the eternal boy, hopeful and one-sided, and sneaky because it works over such a long time.",
+      "lineFrom": "032",
+      "related": [
+        "senex",
+        "great-mother",
+        "archetype",
+        "hero",
+        "wise-old-man"
+      ]
+    },
+    {
+      "id": "senex",
+      "term": "senex",
+      "aliases": [
+        "old man",
+        "senex-puer"
+      ],
+      "definition": "Latin for old man. Jung uses the word for the alchemists' Saturn, \"the mysterious and sinister Senex (Old Man)\", and for the old pole of the senex-puer pair: order, weight and dryness against youth and promise.",
+      "source": "CW 14 ¶ 298",
+      "verified": true,
+      "line": "The old man as a pole: order, weight, dryness. The counterpart of the eternal boy, and each one needs the other.",
+      "lineFrom": null,
+      "related": [
+        "puer-aeternus",
+        "wise-old-man",
+        "alchemy-opus",
+        "nigredo-albedo-rubedo"
+      ]
+    },
+    {
+      "id": "wise-old-man",
+      "term": "wise old man",
+      "aliases": [
+        "old wise man",
+        "archetype of the spirit"
+      ],
+      "definition": "The archetype of spirit personified as an old man, magician or teacher who appears when the hero is stuck. \"This is the archetype of meaning, just as the anima is the archetype of life itself.\"",
+      "source": "CW 9i ¶ 66",
+      "verified": true,
+      "line": "The pattern is the wise old man; the manifestation is Gandalf, Obi-Wan, your grandfather, or a coach.",
+      "lineFrom": "032",
+      "related": [
+        "spirit",
+        "mana-personality",
+        "senex",
+        "hero",
+        "anima",
+        "archetype"
+      ]
+    },
+    {
+      "id": "great-mother",
+      "term": "great mother",
+      "aliases": [
+        "mother archetype",
+        "Great Mother"
+      ],
+      "definition": "An image from comparative religion that carries the loving and the devouring mother at once. \"The symbol is obviously a derivative of the mother archetype\", which is the more inclusive concept.",
+      "source": "CW 9i ¶ 148",
+      "verified": true,
+      "line": "The mother archetype has many expressions, goddesses, witches, your own mother, that all point at something more complex in the middle.",
+      "lineFrom": "049",
+      "related": [
+        "archetype",
+        "anima",
+        "puer-aeternus",
+        "hero",
+        "nigredo-albedo-rubedo"
+      ]
+    },
+    {
+      "id": "hero",
+      "term": "hero",
+      "aliases": [
+        "heroes",
+        "hero myth",
+        "heroic"
+      ],
+      "definition": "\"The hero symbolizes a man's unconscious self\": the figure who fights the dragon, wins the treasure hard to attain and is reborn. The hero myth is the story of consciousness winning itself from the unconscious.",
+      "source": "CW 5 ¶ 516",
+      "verified": true,
+      "line": "Luke Skywalker, Harry Potter, Neo: different faces, one common core. That core is what Jung calls the heroic archetype.",
+      "lineFrom": "059",
+      "related": [
+        "archetype",
+        "shadow",
+        "great-mother",
+        "wise-old-man",
+        "self",
+        "mana-personality"
+      ]
+    },
+    {
+      "id": "trickster",
+      "term": "trickster",
+      "aliases": [
+        "trickster figure"
+      ],
+      "definition": "\"The trickster is a collective shadow figure, a summation of all the inferior traits of character in individuals.\" A mythological clown and shape-shifter who is also, in the end, a bringer of change.",
+      "source": "CW 9i ¶ 484",
+      "verified": true,
+      "line": "Mercurius is a trickster: messenger of the gods, patron of tradesmen and thieves, a shady character who still helps you.",
+      "lineFrom": "009",
+      "related": [
+        "shadow",
+        "mercurius",
+        "archetype",
+        "hero"
+      ]
+    },
+    {
+      "id": "mandala",
+      "term": "mandala",
+      "aliases": [
+        "mandalas",
+        "magic circle"
+      ],
+      "definition": "\"The Sanskrit word mandala means 'circle'\": a circle or square built around a centre, often in four parts. For Jung a symbol of the self and of order, which the psyche produces by itself in times of disorientation.",
+      "source": "CW 9i ¶ 629",
+      "verified": true,
+      "line": "Sanskrit for circle. Often round or square, often in four parts: the geometric pattern the psyche draws when it orders itself.",
+      "lineFrom": "018",
+      "related": [
+        "self",
+        "quaternity",
+        "symbol",
+        "unus-mundus",
+        "individuation"
+      ]
+    },
+    {
+      "id": "quaternity",
+      "term": "quaternity",
+      "aliases": [
+        "fourfold",
+        "quaternio"
+      ],
+      "definition": "Jung's name for the fourfold structure that marks wholeness: four functions, four elements, cross and square. In alchemy and in the unconscious there is \"always a vacillation between three and four\", and the missing fourth is the problem.",
+      "source": "CW 12 ¶ 31",
+      "verified": true,
+      "line": "Four is the number of wholeness; that is why mandalas have four parts. When you reach four, everything is in place.",
+      "lineFrom": "045",
+      "related": [
+        "mandala",
+        "self",
+        "inferior-function",
+        "god-image",
+        "alchemy-opus"
+      ]
+    },
+    {
+      "id": "coniunctio",
+      "term": "coniunctio",
+      "aliases": [
+        "conjunction",
+        "mysterium coniunctionis",
+        "chymical wedding"
+      ],
+      "definition": "The alchemical union of opposites, Jung's image for integration. \"The factors which come together in the coniunctio are conceived as opposites, either confronting one another in enmity or attracting one another in love.\"",
+      "source": "CW 14 ¶ 1",
+      "verified": true,
+      "line": "The mystery of the conjunction: bringing opposites together. Thinking and feeling, introversion and extraversion, masculine and feminine.",
+      "lineFrom": "061",
+      "related": [
+        "alchemy-opus",
+        "nigredo-albedo-rubedo",
+        "unus-mundus",
+        "transcendent-function",
+        "self",
+        "enantiodromia"
+      ]
+    },
+    {
+      "id": "alchemy-opus",
+      "term": "alchemy (the opus)",
+      "aliases": [
+        "alchemy",
+        "the opus",
+        "opus alchymicum",
+        "the work"
+      ],
+      "definition": "\"The alchemical opus deals in the main not just with chemical experiments as such, but with something resembling psychic processes expressed in pseudochemical language.\" Jung read it as a projection of individuation onto matter.",
+      "source": "CW 12 ¶ 342",
+      "verified": true,
+      "line": "The alchemists were doing a psychological experiment without knowing it. Jung read their work as a map of transformation.",
+      "lineFrom": "009",
+      "related": [
+        "nigredo-albedo-rubedo",
+        "coniunctio",
+        "mercurius",
+        "lapis",
+        "projection",
+        "individuation",
+        "active-imagination"
+      ]
+    },
+    {
+      "id": "nigredo-albedo-rubedo",
+      "term": "nigredo, albedo, rubedo",
+      "aliases": [
+        "nigredo",
+        "albedo",
+        "rubedo",
+        "citrinitas",
+        "blackening",
+        "whitening",
+        "reddening"
+      ],
+      "definition": "The colour stages of the alchemical work, \"melanosis (blackening), leukosis (whitening), xanthosis (yellowing), and iosis (reddening)\". The nigredo is the chaos at the start, which Jung likens to meeting the shadow; the rubedo is the goal.",
+      "source": "CW 12 ¶ 333",
+      "verified": true,
+      "line": "Darkness first, then dim moonlight, then the rising sun: the stages are a picture of how a psychological change actually goes.",
+      "lineFrom": "061",
+      "related": [
+        "alchemy-opus",
+        "coniunctio",
+        "shadow",
+        "lapis",
+        "mercurius"
+      ]
+    },
+    {
+      "id": "mercurius",
+      "term": "Mercurius",
+      "aliases": [
+        "Mercury",
+        "Hermes",
+        "spirit Mercurius"
+      ],
+      "definition": "The alchemists' name for the arcane substance and the spirit of the work. \"Mercurius consists of all conceivable opposites\": material and spiritual, a duality named a unity, the guide and the trickster of the process.",
+      "source": "CW 13 ¶ 284",
+      "verified": true,
+      "line": "Hermes, messenger of the gods and patron of alchemists. He visits them at work, guides their attention, helps them along.",
+      "lineFrom": "027",
+      "related": [
+        "alchemy-opus",
+        "trickster",
+        "lapis",
+        "unus-mundus",
+        "coniunctio"
+      ]
+    },
+    {
+      "id": "lapis",
+      "term": "lapis",
+      "aliases": [
+        "philosopher's stone",
+        "lapis philosophorum",
+        "the stone"
+      ],
+      "definition": "The philosopher's stone, goal of the alchemical work. \"The lapis represents the idea of a transcendent totality which coincides with what analytical psychology calls the self.\"",
+      "source": "CW 13 ¶ 134",
+      "verified": true,
+      "line": "The goal of the alchemist's work. He probably met it at the start and threw it away because he did not know its value.",
+      "lineFrom": "060",
+      "related": [
+        "self",
+        "alchemy-opus",
+        "coniunctio",
+        "mercurius",
+        "nigredo-albedo-rubedo"
+      ]
+    },
+    {
+      "id": "introversion",
+      "term": "introversion",
+      "aliases": [
+        "introvert",
+        "introverted"
+      ],
+      "definition": "\"An inward-turning of libido\" in the sense of a negative relation of subject to object: interest withdraws from the object into the subject, who is the prime motivating factor.",
+      "source": "CW 6 ¶ 769",
+      "verified": true,
+      "line": "Like handedness: you live in both worlds, but your first focus is the inner one, ideas and subjective reality.",
+      "lineFrom": "063",
+      "related": [
+        "extraversion",
+        "attitude",
+        "libido",
+        "thinking",
+        "feeling",
+        "sensation",
+        "intuition"
+      ]
+    },
+    {
+      "id": "extraversion",
+      "term": "extraversion",
+      "aliases": [
+        "extravert",
+        "extroversion",
+        "extroverted",
+        "extraverted"
+      ],
+      "definition": "\"An outward-turning of libido\", a positive movement of interest towards the object. The extravert thinks, feels and acts in relation to the outside, in a direct and observable way.",
+      "source": "CW 6 ¶ 710",
+      "verified": true,
+      "line": "Your first focus is the outside world: facts, things, the objective. The inner world is still there, it just comes second.",
+      "lineFrom": "063",
+      "related": [
+        "introversion",
+        "attitude",
+        "libido",
+        "thinking",
+        "feeling",
+        "sensation",
+        "intuition"
+      ]
+    },
+    {
+      "id": "thinking",
+      "term": "thinking",
+      "aliases": [
+        "thinking function",
+        "thinking type"
+      ],
+      "definition": "One of the four basic functions, a rational one: \"the psychological function which, following its own laws, brings the contents of ideation into conceptual connection with one another\". It judges what something is.",
+      "source": "CW 6 ¶ 830",
+      "verified": true,
+      "line": "Thinking is about what it is. A thinking type is really into labelling things and giving them names.",
+      "lineFrom": "058",
+      "related": [
+        "feeling",
+        "sensation",
+        "intuition",
+        "rational-irrational-functions",
+        "superior-function",
+        "inferior-function",
+        "eros-logos"
+      ]
+    },
+    {
+      "id": "feeling",
+      "term": "feeling",
+      "aliases": [
+        "feeling function",
+        "feeling type"
+      ],
+      "definition": "A rational function, not an emotion: a process between the ego and a content \"that imparts to the content a definite value in the sense of acceptance or rejection\". It judges whether something is agreeable or not.",
+      "source": "CW 6 ¶ 724",
+      "verified": true,
+      "line": "Feeling is how you relate to it: positive or negative, like it or not. Feeling types have very sophisticated taste.",
+      "lineFrom": "058",
+      "related": [
+        "thinking",
+        "sensation",
+        "intuition",
+        "rational-irrational-functions",
+        "superior-function",
+        "inferior-function",
+        "eros-logos"
+      ]
+    },
+    {
+      "id": "sensation",
+      "term": "sensation",
+      "aliases": [
+        "sensation function",
+        "sensation type"
+      ],
+      "definition": "\"The psychological function that mediates the perception of a physical stimulus\", outer or inner; identical with perception and strictly distinct from feeling. An irrational function: it registers that something is there.",
+      "source": "CW 6 ¶ 792",
+      "verified": true,
+      "line": "Sensation tells you that something is there: the room, your body, a mood. Awareness first, evaluation later.",
+      "lineFrom": "060",
+      "related": [
+        "intuition",
+        "thinking",
+        "feeling",
+        "rational-irrational-functions",
+        "superior-function",
+        "inferior-function"
+      ]
+    },
+    {
+      "id": "intuition",
+      "term": "intuition",
+      "aliases": [
+        "intuitive",
+        "intuitive type"
+      ],
+      "definition": "\"The function that mediates perceptions in an unconscious way\": a content presents itself whole and complete without one being able to say how it came. An irrational function, aimed at possibilities and origins.",
+      "source": "CW 6 ¶ 770",
+      "verified": true,
+      "line": "Perception through the unconscious: where something came from and where it might go, not what is in front of you.",
+      "lineFrom": "029",
+      "related": [
+        "sensation",
+        "thinking",
+        "feeling",
+        "rational-irrational-functions",
+        "superior-function",
+        "inferior-function"
+      ]
+    },
+    {
+      "id": "superior-function",
+      "term": "superior function",
+      "aliases": [
+        "primary function",
+        "dominant function",
+        "main function"
+      ],
+      "definition": "The most differentiated function, the one a person identifies with and which decides the orientation of consciousness. \"This absolute sovereignty always belongs, empirically, to one function alone.\"",
+      "source": "CW 6 ¶ 667",
+      "verified": true,
+      "line": "Your favourite hand. You do everything with it, and Jung says you have four hands and need all of them.",
+      "lineFrom": "048",
+      "related": [
+        "inferior-function",
+        "auxiliary-function",
+        "thinking",
+        "feeling",
+        "sensation",
+        "intuition",
+        "persona"
+      ]
+    },
+    {
+      "id": "inferior-function",
+      "term": "inferior function",
+      "aliases": [
+        "fourth function"
+      ],
+      "definition": "\"The function that lags behind in the process of differentiation\": the opposite of the superior one, largely unconscious and archaic, and for that reason the door to the unconscious and to renewal.",
+      "source": "CW 6 ¶ 763",
+      "verified": true,
+      "line": "Inferior does not mean bad or worthless. It just means underdeveloped: it could grow, it has not yet.",
+      "lineFrom": "053",
+      "related": [
+        "superior-function",
+        "auxiliary-function",
+        "shadow",
+        "quaternity",
+        "compensation"
+      ]
+    },
+    {
+      "id": "auxiliary-function",
+      "term": "auxiliary function",
+      "aliases": [
+        "secondary function",
+        "helper function"
+      ],
+      "definition": "\"Besides the conscious, primary function there is a relatively unconscious, auxiliary function which is in every respect different from the nature of the primary function.\" It serves the dominant function and bridges towards the inferior one.",
+      "source": "CW 6 ¶ 669",
+      "verified": true,
+      "line": "A helper function. A thinker cannot go to feeling directly; you go around, through sensation or intuition.",
+      "lineFrom": "060",
+      "related": [
+        "superior-function",
+        "inferior-function",
+        "rational-irrational-functions"
+      ]
+    },
+    {
+      "id": "rational-irrational-functions",
+      "term": "rational and irrational functions",
+      "aliases": [
+        "judging functions",
+        "perceiving functions",
+        "rational functions",
+        "irrational functions"
+      ],
+      "definition": "Thinking and feeling are rational because reflection shapes them and they judge. \"The irrational functions, sensation and intuition, are those whose aim is pure perception\": irrational means beyond reason, not against it.",
+      "source": "CW 6 ¶ 787",
+      "verified": true,
+      "line": "Sensation and intuition just perceive: things come at you unstructured, at random. Thinking and feeling judge what came.",
+      "lineFrom": "007",
+      "related": [
+        "thinking",
+        "feeling",
+        "sensation",
+        "intuition",
+        "auxiliary-function"
+      ]
+    },
+    {
+      "id": "attitude",
+      "term": "attitude",
+      "aliases": [
+        "conscious attitude",
+        "attitude type"
+      ],
+      "definition": "\"Attitude is a readiness of the psyche to act or react in a certain way.\" Introversion and extraversion are the two general attitudes; the attitude of consciousness decides how the unconscious appears.",
+      "source": "CW 6 ¶ 687",
+      "verified": true,
+      "line": "How you are prepared for things and what you expect. Towards the unconscious especially, your attitude decides what you can handle.",
+      "lineFrom": "012",
+      "related": [
+        "introversion",
+        "extraversion",
+        "compensation",
+        "persona",
+        "enantiodromia"
+      ]
+    },
+    {
+      "id": "eros-logos",
+      "term": "Eros and Logos",
+      "aliases": [
+        "Eros",
+        "Logos"
+      ],
+      "definition": "Two conceptual aids, not definitions: Eros for relatedness and connection, Logos for discrimination and cognition. \"I use Eros and Logos merely as conceptual aids\"; Jung linked Eros to the feminine and Logos to the masculine.",
+      "source": "CW 9ii ¶ 29",
+      "verified": true,
+      "line": "Logos separates and takes apart; Eros combines what belongs together. Too much of either and things die or suffocate.",
+      "lineFrom": "028",
+      "related": [
+        "anima",
+        "animus",
+        "thinking",
+        "feeling",
+        "coniunctio"
+      ]
+    },
+    {
+      "id": "numinous",
+      "term": "numinous",
+      "aliases": [
+        "numinosity",
+        "numinosum"
+      ],
+      "definition": "Rudolf Otto's word, taken over by Jung for \"a dynamic agency or effect not caused by an arbitrary act of will\" that seizes and controls a person. Religion, for Jung, is the careful observation of it.",
+      "source": "CW 11 ¶ 6",
+      "verified": true,
+      "line": "A special fascination, like making fire in the wild: it speaks to something deep in you and you did not choose it.",
+      "lineFrom": "059",
+      "related": [
+        "archetype",
+        "god-image",
+        "mana-personality",
+        "synchronicity",
+        "possession"
+      ]
+    },
+    {
+      "id": "god-image",
+      "term": "God-image",
+      "aliases": [
+        "imago Dei",
+        "image of God"
+      ],
+      "definition": "Not God, but how the psyche pictures God: \"the symbolic expression of a particular psychic state, or function\" with absolute power over the will. Empirically it cannot be told apart from a symbol of the self.",
+      "source": "CW 6 ¶ 412",
+      "verified": true,
+      "line": "Jung will not talk about God, that is metaphysics. He talks about how people have talked about God: the image.",
+      "lineFrom": "004",
+      "related": [
+        "self",
+        "numinous",
+        "quaternity",
+        "mandala",
+        "aion",
+        "projection"
+      ]
+    },
+    {
+      "id": "aion",
+      "term": "Aion",
+      "aliases": [
+        "aeon",
+        "Aeon"
+      ],
+      "definition": "Greek for an age, and the lion-headed Mithraic god of time. The title of Jung's book on the self, which reads the Christian aeon of the Fishes as two thousand years of psychic history now running out.",
+      "source": "CW 9ii, Foreword",
+      "verified": false,
+      "line": "Development happens in stages, each with its own spirit. Jung calls those stages aions, after the Mithraic god of time.",
+      "lineFrom": "040",
+      "related": [
+        "self",
+        "god-image",
+        "enantiodromia",
+        "synchronicity"
+      ]
+    },
+    {
+      "id": "unus-mundus",
+      "term": "unus mundus",
+      "aliases": [
+        "one world"
+      ],
+      "definition": "The alchemists' one world: \"the original, non-differentiated unity of the world or of Being\". For Jung the unitary ground behind psyche and matter, which mandalas picture and synchronicity points to.",
+      "source": "CW 14 ¶ 660",
+      "verified": true,
+      "line": "One of the alchemists' names for the goal, next to the stone, the elixir and the golden flower: one world behind the two.",
+      "lineFrom": "061",
+      "related": [
+        "synchronicity",
+        "psychoid",
+        "mandala",
+        "coniunctio",
+        "mercurius",
+        "lapis"
+      ]
+    },
+    {
+      "id": "psychoid",
+      "term": "psychoid",
+      "aliases": [
+        "psychoid archetype"
+      ],
+      "definition": "Jung's word for the borderline where psyche and body, inside and outside, can no longer be told apart: he assumes \"'psychoid' processes at both ends of the psychic scale\", and calls the archetype in itself psychoid.",
+      "source": "CW 8 ¶ 367",
+      "verified": true,
+      "line": "Numbers are the classic case: as much inside as outside, so you never know if they were devised or discovered.",
+      "lineFrom": "049",
+      "related": [
+        "archetype",
+        "synchronicity",
+        "unus-mundus",
+        "instinct",
+        "collective-unconscious"
+      ]
+    },
+    {
+      "id": "instinct",
+      "term": "instinct",
+      "aliases": [
+        "instincts",
+        "instinctive"
+      ],
+      "definition": "\"Instincts are typical modes of action, and wherever we meet with uniform and regularly recurring modes of action and reaction we are dealing with instinct.\" The archetypes are the images of the instincts.",
+      "source": "CW 8 ¶ 273",
+      "verified": true,
+      "line": "Raw energy from below pushing you to do things, sophisticated or not. Finding a partner is the best example.",
+      "lineFrom": "013",
+      "related": [
+        "archetype",
+        "libido",
+        "collective-unconscious",
+        "psychoid",
+        "spirit"
+      ]
+    },
+    {
+      "id": "primordial-image",
+      "term": "primordial image",
+      "aliases": [
+        "Urbild",
+        "primordial images"
+      ],
+      "definition": "Jung's earlier term for the archetype, borrowed from Burckhardt. \"The primordial image, elsewhere also termed archetype, is always collective\": an image with archaic character, in striking accord with mythological motifs.",
+      "source": "CW 6 ¶ 747",
+      "verified": true,
+      "line": "Urbild in German. Find what all the love songs in the world have in common and you have something like one.",
+      "lineFrom": "002",
+      "related": [
+        "archetype",
+        "collective-unconscious",
+        "symbol"
+      ]
+    },
+    {
+      "id": "amplification",
+      "term": "amplification",
+      "aliases": [
+        "amplify",
+        "amplificatio"
+      ],
+      "definition": "Jung's method for dreams: enlarging an obscure image with the dreamer's associations and with parallels from myth, religion and alchemy, because \"a dream is too slender a hint to be understood until it is enriched\".",
+      "source": "CW 12 ¶ 403",
+      "verified": true,
+      "line": "What does it make you think of? You dream of a horse: gather everything that comes with horse and pay attention.",
+      "lineFrom": "058",
+      "related": [
+        "dream",
+        "active-imagination",
+        "symbol",
+        "archetype",
+        "association-experiment"
+      ]
+    },
+    {
+      "id": "association-experiment",
+      "term": "association experiment",
+      "aliases": [
+        "word association test",
+        "association test"
+      ],
+      "definition": "Jung's early experiment: the experimenter calls out a word, the subject answers with the first word that comes to mind, and the reaction time is measured. Delays, slips and odd answers betray complexes.",
+      "source": "CW 8 ¶ 592",
+      "verified": true,
+      "line": "You give someone a word and time the answer. Life itself is one big association experiment, and your reactions are individual.",
+      "lineFrom": "037",
+      "related": [
+        "complex",
+        "feeling-toned-complex",
+        "amplification",
+        "personal-unconscious"
+      ]
+    },
+    {
+      "id": "feeling-toned-complex",
+      "term": "feeling-toned complex",
+      "aliases": [
+        "feeling-toned",
+        "emotionally charged complex"
+      ],
+      "definition": "Jung's full name for the complex, found through the association experiments: an emotionally charged image of a psychic situation with inner coherence and \"a relatively high degree of autonomy\".",
+      "source": "CW 8 ¶ 201",
+      "verified": true,
+      "line": "A topic with a high emotional charge, a hot button. Push it and the reaction fires off before you decide anything.",
+      "lineFrom": "034",
+      "related": [
+        "complex",
+        "association-experiment",
+        "personal-unconscious",
+        "possession"
+      ]
+    },
+    {
+      "id": "neurosis",
+      "term": "neurosis",
+      "aliases": [
+        "neurotic",
+        "neuroses",
+        "psychoneurosis"
+      ],
+      "definition": "Not an isolated symptom but a reaction of the whole person, a split between what one is and what one lives. \"A psychoneurosis must be understood, ultimately, as the suffering of a soul which has not discovered its meaning.\"",
+      "source": "CW 11 ¶ 497",
+      "verified": true,
+      "line": "A neurosis is a healing mechanism, like a fever. The fever is not the disease, it is the body fighting the virus.",
+      "lineFrom": "003",
+      "related": [
+        "complex",
+        "compensation",
+        "shadow",
+        "individuation",
+        "psyche"
+      ]
+    },
+    {
+      "id": "psyche",
+      "term": "psyche",
+      "aliases": [
+        "psychic",
+        "the psyche"
+      ],
+      "definition": "\"By psyche I understand the totality of all psychic processes, conscious as well as unconscious.\" Jung keeps it apart from soul, which he uses for a narrower, personality-like complex.",
+      "source": "CW 6 ¶ 797",
+      "verified": true,
+      "line": "Your psyche is not one thing. It is many things working at the same time, and not all of them are human.",
+      "lineFrom": "027",
+      "related": [
+        "soul",
+        "ego",
+        "self",
+        "collective-unconscious",
+        "personal-unconscious",
+        "spirit"
+      ]
+    },
+    {
+      "id": "soul",
+      "term": "soul",
+      "aliases": [
+        "souls",
+        "soul-image"
+      ],
+      "definition": "Jung separates soul from psyche: \"a clearly demarcated functional complex that can best be described as a 'personality'\". The inner attitude, which in a man is the anima and in a woman the animus.",
+      "source": "CW 6 ¶ 797",
+      "verified": true,
+      "line": "The body is the visible side of the soul, and the soul is how you experience the body: one and the same thing.",
+      "lineFrom": "031",
+      "related": [
+        "psyche",
+        "anima",
+        "animus",
+        "persona",
+        "spirit"
+      ]
+    },
+    {
+      "id": "spirit",
+      "term": "spirit",
+      "aliases": [
+        "spirits",
+        "spiritual",
+        "Geist"
+      ],
+      "definition": "Jung names three hallmarks of spirit: spontaneous movement and activity, \"the spontaneous capacity to produce images independently of sense perception\", and the autonomous manipulation of these images. It is experienced as a higher consciousness.",
+      "source": "CW 9i ¶ 393",
+      "verified": true,
+      "line": "Something acting through a person, not something they fully will: the creative spirit uses them to make something in the world.",
+      "lineFrom": "013",
+      "related": [
+        "wise-old-man",
+        "instinct",
+        "soul",
+        "psyche",
+        "mercurius"
+      ]
+    },
+    {
+      "id": "dream",
+      "term": "dream",
+      "aliases": [
+        "dreams",
+        "dreaming",
+        "dream analysis"
+      ],
+      "definition": "\"The dream is a spontaneous self-portrayal, in symbolic form, of the actual situation in the unconscious.\" It does not hide a wish, it compensates the conscious attitude; Jung reads it on the subjective level, where every figure is the dreamer.",
+      "source": "CW 8 ¶ 505",
+      "verified": true,
+      "line": "Everything in the dream is you. The people, the places, the situations: you are experiencing yourself.",
+      "lineFrom": "056",
+      "related": [
+        "compensation",
+        "symbol",
+        "amplification",
+        "active-imagination",
+        "shadow",
+        "anima"
+      ]
+    }
+  ]
+}

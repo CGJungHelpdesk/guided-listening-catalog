@@ -188,7 +188,14 @@
           "why": "Life begins as a child's"
         }
       ],
-      "loudness": -18.1
+      "loudness": -18.1,
+      "takeaways": [
+        "Jung draws a life like the sun's day: it rises out of the horizon, stands at noon, and goes down again.",
+        "A small child has almost no ego; consciousness surfaces slowly, like a little island coming out of the sea.",
+        "The first half of life is for getting out of your parents' basement and establishing yourself in the world.",
+        "Around 38 the old solutions stop working and the unconscious pushes you inward; today we call it the midlife crisis.",
+        "Consciousness lags behind the unconscious the way you hear a plane where it was, not where it is."
+      ]
     },
     "002": {
       "territory": "psyche",
@@ -209,7 +216,14 @@
           "why": "Where the primordial images become art"
         }
       ],
-      "loudness": -18.2
+      "loudness": -18.2,
+      "takeaways": [
+        "Freud's unconscious is the cellar under your house; Jung says all the cellars are connected, and that is the collective unconscious.",
+        "An archetype is a primordial image and a pattern of behaviour, inborn the way a bird knows how to build a nest.",
+        "Every culture has a dragon and nobody ever saw one; coincidences like that across cultures pointed Jung to archetypes.",
+        "You never meet an archetype directly; you see what it structures, like a crystal forming out of water.",
+        "Archetypes bring fascination or fear and are stronger than you; culture and ritual are the safety nets for living them."
+      ]
     },
     "003": {
       "territory": "psyche",
@@ -234,7 +248,14 @@
           "why": "The psychiatric years before Freud"
         }
       ],
-      "loudness": -17.9
+      "loudness": -17.9,
+      "takeaways": [
+        "A complex is a gremlin in the mind: an emotion tied to associations, the buttons someone knows how to push.",
+        "Having complexes is normal, like cancer cells the immune system clears every day; a neurosis is the trash you never took out.",
+        "In Jaws the shark keeps coming closer until Brody turns and faces it; an ignored problem does the same.",
+        "The problem is in the present, not the childhood; blocked libido flows back, and the neurosis itself is a healing mechanism, like a fever.",
+        "Hysteria is a complex grown into a second personality; psychosis and schizophrenia are the collective unconscious breaking through and replacing reality."
+      ]
     },
     "004": {
       "territory": "jung",
@@ -260,7 +281,14 @@
           "to": "002"
         }
       ],
-      "loudness": -18.3
+      "loudness": -18.3,
+      "takeaways": [
+        "Jung's writing comes in three blocks, the psychoanalytic years, the collective unconscious, then alchemy, and each one builds on the last.",
+        "Start with Memories, Dreams, Reflections; understanding his life makes the work easier to understand.",
+        "The collections of short talks and essays are easier than the big books, because Jung was a better talker than writer.",
+        "For any alchemy book, read the last chapter first; that is where he says what he was trying to get at.",
+        "If a Jung book has dream in the title, get it; the dream seminars are the best reading he left."
+      ]
     },
     "005": {
       "territory": "psyche",
@@ -281,7 +309,14 @@
           "why": "From the history of consciousness to how it perceives"
         }
       ],
-      "loudness": -18.1
+      "loudness": -18.1,
+      "takeaways": [
+        "Consciousness, for Jung, is the ability to discriminate: switch the light on and the dark room becomes a bed, a cupboard, a pillow.",
+        "Early humans lived in participation mystique: the Pueblo Indians believed their morning ritual made the sun rise.",
+        "The Greeks were not angry, Ares drove into them: emotions were met outside as gods before anyone owned them inside.",
+        "Taboos, politeness and laws were the first workouts for a fragile consciousness; a taboo trains you to watch yourself.",
+        "Psychology appeared only when religion stopped doing its job and people were left alone with their own psyche."
+      ]
     },
     "006": {
       "territory": "psyche",
@@ -302,7 +337,14 @@
           "why": "Libido, felt in the body"
         }
       ],
-      "loudness": -18.1
+      "loudness": -18.1,
+      "takeaways": [
+        "Libido for Jung is not sex drive but psychic energy: neutral like the sun, it cannot get lost, only move somewhere else.",
+        "Consciousness is born out of the unconscious; hit your head, or crash the car, and you are suddenly fully awake.",
+        "The sea's surface is the threshold; sleep, stress, alcohol or meditation lower it, and in dreams the fish come up.",
+        "His dreams of a schoolgirl from years ago turned out to be a billboard he drove past every day without noticing.",
+        "Raising something from the unconscious takes energy: remembering, reflecting, looking at a church a little longer, or active imagination."
+      ]
     },
     "007": {
       "territory": "psyche",
@@ -333,7 +375,14 @@
           "to": "010"
         }
       ],
-      "loudness": -18.2
+      "loudness": -18.2,
+      "takeaways": [
+        "Extraversion and introversion are Jung's own words: one orients to the objects outside, the other to the subject inside.",
+        "Four functions feed the ego: sensation says what is there, thinking what it is, feeling its value, intuition where it might go.",
+        "Your strongest function is the superior one; its opposite becomes the inferior function, as clumsy as brushing your teeth left-handed.",
+        "The inferior function is the fun part, Jung says, because the most potential sits in what you have always ignored.",
+        "People pick partners who cover their inferior side, the thinker a feeler, the businessman an artist; types are instruments, not boxes."
+      ]
     },
     "008": {
       "territory": "everyday",
@@ -354,7 +403,14 @@
           "why": "When the child refuses to grow up"
         }
       ],
-      "loudness": -18.9
+      "loudness": -18.9,
+      "takeaways": [
+        "A neurotic small child is never the child's problem; unfiltered, it picks up what the parents have not dealt with, their unlived life.",
+        "Logos separates like a sword, Eros joins; the side foreign to you turns up as anima or animus, and in the partner you fall for.",
+        "Projection heaps what you will not admit about yourself onto the people closest to you, and the partner is the first victim.",
+        "In education what you do counts more than what you say; children react to who you are.",
+        "A mother complex makes the Don Juan who hunts the mother in every woman, or the good boy who never leaves the basement."
+      ]
     },
     "009": {
       "territory": "numinous",
@@ -375,7 +431,14 @@
           "why": "When active imagination becomes art"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "Jung spent thirteen secret years on The Red Book; the alchemists turned out to be his control group, and a thirty-year obsession began.",
+        "They saw lions and dragons in their flames and acids; they were projecting their own psyche onto matter without knowing it.",
+        "Chemistry threw alchemy out as nonsense, but Jung says chemists were the wrong readers: the texts describe psychology, not materials.",
+        "The lapis, the incorruptible gold, is the Self: what you are, unified with everything you have not yet integrated.",
+        "Active imagination is confronting your fantasies on your own terms, holding one still and uncritically, exactly as the alchemists did."
+      ]
     },
     "010": {
       "territory": "numinous",
@@ -395,7 +458,14 @@
           "why": "Where synchronicity meets physics"
         }
       ],
-      "loudness": -18.5
+      "loudness": -18.5,
+      "takeaways": [
+        "Young Jung was a mythbuster: the medium moved the table herself, and the haunted room held traces his nose picked up.",
+        "Causality asks how the hat got onto the beach; synchronicity asks what it means that hat, kissing couple and birds are there now.",
+        "Astrology, for Jung, is the first psychology: people projected their psyche onto blinking lights and named them after gods.",
+        "The signs have drifted 4,000 years, so if birth time shapes personality, it is time inside the psyche, not the stars.",
+        "Aions are the collective unconscious ageing: when Pisces began, fish-centred Christians replaced achievement-mad Rome within two centuries."
+      ]
     },
     "011": {
       "territory": "numinous",
@@ -426,7 +496,14 @@
           "to": "008"
         }
       ],
-      "loudness": -18.3
+      "loudness": -18.3,
+      "takeaways": [
+        "Kekulé dreamt the benzene ring, Watson the double helix, and a truck driver dreamt The Terminator; dreams are not random.",
+        "A dream is a natural product, like a deer in the forest: it does not care about you and it is not a facade.",
+        "Dreams compensate the conscious attitude, so Jung first learned the dreamer's life, then asked for a series of fifty to a hundred dreams.",
+        "A sewing machine in a dream is a sewing machine, not a substitute; you follow the image, you do not swap it.",
+        "Read a dream as if it is making fun of you: whatever you overvalue, it shows as small."
+      ]
     },
     "012": {
       "territory": "psyche",
@@ -446,7 +523,14 @@
           "why": "The types that do the filtering"
         }
       ],
-      "loudness": -18.8
+      "loudness": -18.8,
+      "takeaways": [
+        "Consciousness is a problem solver like Mr. Meeseeks: it shows up for the task, tires fast, and nobody becomes conscious without hitting their head.",
+        "We see colours, not wavelengths; everything arrives pre-filtered, and only what can dock onto something already known gets through.",
+        "Real is what works: a vision that changes how someone acts is as real as walking into a tree, only from inside.",
+        "Inside and outside land in one pot of psychic images; the ancients mislabelled it as gods in rivers and scales in the sky.",
+        "Consciousness pulls single colours out of the brown soup, and individuation is getting every colour back out."
+      ]
     },
     "013": {
       "territory": "numinous",
@@ -466,7 +550,14 @@
           "why": "Pop art with a psychology to confess"
         }
       ],
-      "loudness": -18.4
+      "loudness": -18.4,
+      "takeaways": [
+        "Past the midpoint of life Jung let established patients paint, to watch something in them create without their planning it.",
+        "Creation comes out of the unconscious; people do not have ideas, ideas have people, as with Ramanujan and Tesla.",
+        "An artist is not just flooded like a psychotic; the artist translates ancient collective material into the zeitgeist, sugar around the pill.",
+        "Before a creative burst the energy recedes like water before a tsunami, which from inside looks like depression.",
+        "Nothing wholly new is required; Da Vinci painted the Last Supper and nobody asked why he had no original story."
+      ]
     },
     "014": {
       "territory": "numinous",
@@ -497,7 +588,14 @@
           "to": "011"
         }
       ],
-      "loudness": -18.3
+      "loudness": -18.3,
+      "takeaways": [
+        "Jung sees opposites everywhere; like a battery's two poles, the tension between them is where things happen, and stories run on it.",
+        "Push one opposite far enough and it flips into the other; Jung calls that enantiodromia, and the word best comes from bad.",
+        "Opposites cannot meet directly; they need a third, the child of man and woman, the hero who belongs to both worlds, like Luke Skywalker.",
+        "A symbol is the third between consciousness and the unconscious: known pieces arranged strangely, a mermaid, or a horse called a tall pig.",
+        "Water is the unconscious, fire libido, light consciousness; the West kills its dragons, the East integrates them."
+      ]
     },
     "015": {
       "territory": "shadow",
@@ -518,7 +616,14 @@
           "why": "The price of wholeness"
         }
       ],
-      "loudness": -18.3
+      "loudness": -18.3,
+      "takeaways": [
+        "Individuation means becoming a whole, indivisible individual; the oak is already in the acorn, and it happens whether you join in or not.",
+        "The first half of life is field research with collective goals; in the second your superior function fails and you must use your other hand.",
+        "The first stop is the shadow, projected onto people you cannot stand; owning it is a moral effort, and cynicism beats not being home.",
+        "The path is a spiral, not a line: do the next necessary thing, follow interest and fear, and do it with real people.",
+        "Integration costs an ego death, the phoenix, or Jack shooting himself in Fight Club; afterwards you hold the conflict without being pulled under."
+      ]
     },
     "016": {
       "territory": "shadow",
@@ -535,7 +640,14 @@
           "why": "When possession turns malignant"
         }
       ],
-      "loudness": -18.4
+      "loudness": -18.4,
+      "takeaways": [
+        "Consciousness runs on small batteries; the ego's libido is spare change next to what the unconscious has in the back.",
+        "Inflation begins when what you can see looks like all there is: Dunning-Kruger in a hall of mirrors, driving fast with dirty windshields.",
+        "An activated archetype puts your life on rails, as love does, as lizard people did for one man, as the creative spirit did for Nietzsche.",
+        "Anima possession makes men driven and moody; animus possession gives women opinions out of nowhere; both are a veil over the eyes.",
+        "It starts as fascination, feels like endless power, and burns you out; the way back is a modest doubt: why has this idea taken me?"
+      ]
     },
     "017": {
       "territory": "shadow",
@@ -556,7 +668,14 @@
           "why": "The misunderstandings, cleared up"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "The shadow is everything consciousness pushed aside: the shameful parts, but also good qualities you never noticed you had.",
+        "Nothing in the psyche gets lost; what you ignore gathers in the dark and grows stronger the longer you ignore it.",
+        "You see other people's shadow at once and your own almost never; ask close friends, or watch yourself drunk, ill or stressed.",
+        "Projection is normal perception: colors are not in the wavelengths, and the burglar in the night noise is in you.",
+        "What you hate points to your shadow; evil always lies just across the Rhine, and killing Vader only shows Luke his own face."
+      ]
     },
     "018": {
       "territory": "shadow",
@@ -583,7 +702,14 @@
           "to": "021"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "The Self is the whole psyche, conscious and unconscious together; the ego circles it like a planet around the sun.",
+        "It is a marked-off, personal part of the collective unconscious: the oak already inside the acorn, a future you.",
+        "Your interests are the Self calling consciousness to come and grow; even the situations you land in are assembled by it.",
+        "Mandala is Sanskrit for circle: the symmetrical four-part patterns that appear in dreams and drawings when life is most chaotic.",
+        "It need not be drawn; a mosh pit or the circling at Mecca is already a mandala, but consciousness still has to unpack it."
+      ]
     },
     "019": {
       "territory": "movies",
@@ -604,7 +730,14 @@
           "why": "The projection of unconscious femininity"
         }
       ],
-      "loudness": -19.2
+      "loudness": -19.2,
+      "takeaways": [
+        "Consciousness is the bird, the unconscious the snake; the unconscious keeps interfering with your plans, and consciousness keeps repressing what does not fit.",
+        "Barbieland is sterile: no water, no animals, no death, every day the best day, which no real human could stand for long.",
+        "Barbie's thoughts of death are her inferior Logos surfacing; flat feet on the ground are the body pulling her down to earth.",
+        "Ken gets intrusive feelings instead, and with no man to explain the real world he copies the shiny surface: possession and inflation.",
+        "The outcasts save Barbieland, as repressed things do, and Barbie ends like Pinocchio: for the first time she wants something."
+      ]
     },
     "020": {
       "territory": "jung",
@@ -639,7 +772,14 @@
           "to": "034"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Jung's association test found words that made patients stall and forget; Freud's unconscious was the first concept that explained the data.",
+        "They talked thirteen hours at their first meeting; it ended, as professors end friendships, with a book Freud did not want.",
+        "Freud reduced everything to sexuality and the incest complex; Jung made libido a neutral psychic energy and asked why a fairy, not a mother.",
+        "For Jung a neurosis is a task failed now, not a childhood wound; you catch tuberculosis today, not from a childhood contact.",
+        "Freud found the cellar under the house; Jung found the tunnels connecting all cellars, and we are all Freudians now anyway."
+      ]
     },
     "021": {
       "territory": "jung",
@@ -664,7 +804,14 @@
           "why": "The controversial Jung, continued"
         }
       ],
-      "loudness": -18.8
+      "loudness": -18.8,
+      "takeaways": [
+        "Consciousness grows by narrowing its focus, in a child and in a culture; what it leaves out pushes back to be lived.",
+        "Christianity was put on top of pagan Europe rather than growing from it, so the West has to force itself to believe.",
+        "India has five thousand uninterrupted years of elaborating the psyche; the West has a fragmented two thousand, and no school for life after forty.",
+        "East and West are each other's shadow: causality against synchronicity, the dragon killed against the dragon befriended, the cross against the Buddha under his tree.",
+        "You cannot copy the other side's homework; Westerners doing yoga stay on the surface, and the West's own yoga was alchemy."
+      ]
     },
     "022": {
       "territory": "movies",
@@ -695,7 +842,14 @@
           "to": "021"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "Jack is trapped in Logos: insurance job, planes, apartment in the sky; his libido sits in the unconscious, so he is depressed and sleepless.",
+        "He hates Marla because she plays his own fraud back at him; the penguin in his cave says she is the mate for life.",
+        "Tyler is Marla in male form, a sugar-coated anima: he burns the apartment, takes Jack below ground, makes him stay with pain.",
+        "You can only sacrifice what you truly have; when Jack pulls the trigger Tyler vanishes and Marla is the one left holding his hand.",
+        "Tyler is also a collective shadow; Project Mayhem spreads like Wotan did in Weimar Germany, an archetype gripping a whole society."
+      ]
     },
     "023": {
       "territory": "jung",
@@ -720,7 +874,14 @@
           "why": "The test for what is really Jung's"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Jung wrote hard on purpose, for academics; the academics ignored him and ordinary people wrote him letters, so read Man and His Symbols first.",
+        "There is no diagram of Jung: he saw himself as a botanist describing what grows, so even UFOs and haunted rooms get a psychological reading.",
+        "He says unconscious, never subconscious, and it is not a wonderland to visit; it comes by itself, like weather or a wolf.",
+        "Extraversion is not sociability, feeling is not emotion, the shadow is not just evil, and archetypes are patterns of behavior, uncounted.",
+        "Individuation has no numbered stages, only the next step, and none of it is an ought; he described, he did not prescribe."
+      ]
     },
     "024": {
       "territory": "shadow",
@@ -736,7 +897,14 @@
           "why": "Secrets keep you from dissolving into the group"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Persona is the actor's mask with a mouthpiece, per sonare; it is the reduced version of you that the outside world deals with.",
+        "You need one, like the cashier or the polite 'I'm fine', and alone at home you drop it and sing to yourself.",
+        "The pitfall is hiding behind it, the LinkedIn profile or the title, until the inner life goes unattended and compensates.",
+        "A group is dumber than its members: watercolors mixed turn brown, a concert boils down to yay and boo, a crowd becomes a stampede.",
+        "People do not have ideas, ideas have people; you cannot preach to a group, only talk to the individual in it."
+      ]
     },
     "025": {
       "territory": "movies",
@@ -753,7 +921,14 @@
           "why": "Leaving the bosom of the family"
         }
       ],
-      "loudness": -18.5
+      "loudness": -18.5,
+      "takeaways": [
+        "Everyone has Eros and Logos, binding and separating, like two hands; the one you favor is conscious, the other waits in the unconscious.",
+        "Jack is Rose's animus, the inner image of the other sex; love at first sight is recognizing that image in someone.",
+        "Trapped and about to jump, Rose wants to become unconscious, like Sleeping Beauty; the animus appears at exactly that moment to wake her.",
+        "She takes on his traits, spitting, lying, riding like a man, and she has to save herself; nobody can do that step for you.",
+        "Once integrated, Jack sinks back into the water, the unconscious, like Tyler vanishing; the ship itself is conscious hubris afloat on the deep."
+      ]
     },
     "026": {
       "territory": "everyday",
@@ -780,7 +955,14 @@
           "to": "020"
         }
       ],
-      "loudness": -18.5
+      "loudness": -18.5,
+      "takeaways": [
+        "Not medical advice: Jung's therapy is a hundred years old, and the aim was never superhumans but getting people back into normal life.",
+        "Libido that is not spent where life asks for it, the cow left unmilked, ends up in the unconscious as a complex or depression.",
+        "There is no illness that is not also a failed cure; the aim is steadfast patience in the face of suffering, not happiness.",
+        "The therapist sits in the foreground with opinions and admits not knowing; against shadow plus anima it is then two against two.",
+        "Let people talk until they hit a complex, then push there; drawing it out and asking friends about your shadow brings chaos into the open."
+      ]
     },
     "027": {
       "territory": "movies",
@@ -801,7 +983,14 @@
           "why": "The sea beneath the island"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Brody's flaw is avoidance: he warns instead of acting, fled New York to an island though he fears water, and needs a slap to wake.",
+        "Water is the unconscious and the island is consciousness; the shark is what Brody ignored, surfacing bigger and closer until it reaches his son.",
+        "Sharks eat everything, says Hooper, and so does a complex: discarded things gather in the dark, dead-eyed until libido feeds them.",
+        "Hooper brings knowledge, Quint brings the shadow, abrasive, shark-like and possessed; Brody copies Quint and learns the knots, the swearing, the shooting.",
+        "The hero kills the dragon alone, with Quint's fire, Hooper's air and the shark's water; earth, the missing fourth, is his wife on land."
+      ]
     },
     "028": {
       "territory": "jung",
@@ -822,7 +1011,14 @@
           "why": "Where simplified Jung starts to hurt"
         }
       ],
-      "loudness": -19.0
+      "loudness": -19.0,
+      "takeaways": [
+        "Jung's work is incredibly coherent over sixty years, but his symbol readings rest on a fixed dataset of myths with no way to test them.",
+        "The bear meant the feminine because the myth said so first; that is the sharpshooter who paints the target after the shot.",
+        "He warns the unconscious is bad weather and then makes it sound incredibly cool; he preaches the body and prescribes only talking.",
+        "Logos, thinking, male, conscious on one side and Eros, feeling, female, unconscious on the other overlap so much they may be one thing.",
+        "One dream image can take him fifty pages, nobody else could repeat that, and his synchronicity leans on a misread of quantum physics."
+      ]
     },
     "029": {
       "territory": "psyche",
@@ -849,7 +1045,14 @@
           "to": "024"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "Four ways information reaches you: sensation says there is something, thinking says what, feeling says whether you like it, intuition says what it could be.",
+        "Intuition is perception through the unconscious, Ahnung in German; Ramanujan got the solution first and worked out the proof afterwards.",
+        "Extraverted intuitives become hunters, gamblers, bankers and leaders; introverted ones become artists and prophets, and wisely keep quiet about it.",
+        "The intuitive sees the next peak through a telescope and feels already there; anything realized becomes a prison, and the stomach eventually sends the bill.",
+        "Down-to-earth sensation types get intuition as their inferior function, which is why they are the ones who see UFOs."
+      ]
     },
     "030": {
       "territory": "shadow",
@@ -872,7 +1075,14 @@
           "to": "017"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Evil is not the absence of good but its own force in the psyche; a tiger cannot be evil, only a human who can choose.",
+        "When instinct emerges, so does evil: what surfaces looks archaic first, and consciousness refines it, a river turned into a power plant.",
+        "A dream animal chasing you means you are at odds with an instinct; accept it and the explosion becomes a lion, then a cat.",
+        "Try hard to be wonderful and the shadow turns blacker, landing on a neighbor or a nation; we love villains because they carry it.",
+        "Christianity put body, earth, woman and devil in the same box below the Trinity; a God who is all-powerful cannot be only good."
+      ]
     },
     "031": {
       "territory": "everyday",
@@ -897,7 +1107,14 @@
           "why": "Fear lives in the body first"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "Jung explains the psyche through the body: you inherit a nose from one relative and a complex from another, and most of both runs unconsciously.",
+        "Body and soul are one thing; people who will not give something away get constipated, and a truth you cannot swallow shows in the throat.",
+        "The body pins you to one place and time, and that restriction is what makes consciousness possible at all; ears everywhere would hear nothing.",
+        "Libido has to manifest somewhere; the creative person who stops creating is the cow nobody milks, and secrets bottle it up the same way.",
+        "Christianity despised the body and the West is now rediscovering it, gyms, supplements, nude beaches; Jung noticed all this and still gave no bodily advice."
+      ]
     },
     "032": {
       "territory": "shadow",
@@ -928,7 +1145,14 @@
           "to": "036"
         }
       ],
-      "loudness": -18.5
+      "loudness": -18.5,
+      "takeaways": [
+        "The puer aeternus, the eternal boy, is an archetype: adolescent energy, hopeful one-sidedness, life in blind sprouting forms.",
+        "Become too reasonable and adapted and the boy turns up in your dreams to compensate, so you do not dry up in your own adaptation.",
+        "What breaks the eternal boy is the anima: Simba leaves Timon and Pumbaa when Nala arrives, and the LAN party showers when girls show up.",
+        "Jung read Nazi Germany as a whole nation gripped by the puer, east of the Rhine where the wise old man was missing.",
+        "Beware of children in your dreams: a two-year-old points to something born in your psyche two years ago, like the patient's buried feeling."
+      ]
     },
     "033": {
       "territory": "psyche",
@@ -949,7 +1173,14 @@
           "why": "Where the podcast began: Jung's view of a life"
         }
       ],
-      "loudness": -18.8
+      "loudness": -18.8,
+      "takeaways": [
+        "Jung splits everything into opposites, male and female, conscious and unconscious, because the tension between two poles is what makes anything move.",
+        "Whatever you label strongly, liked or disliked, carries value; the disagreeable side is where development runs, which is why not everybody is enlightened.",
+        "Alchemy interested him because turning lead into gold is a picture of the psyche: the value is already in the common thing.",
+        "Nothing is a coincidence for Jung: a fairy in your dream is there for a reason, and everything connects through patterns he calls archetypes.",
+        "He starts from the phenomenon and builds the theory after; Freud stopped at his model, Jung never stopped, which makes him hard to grasp."
+      ]
     },
     "034": {
       "territory": "psyche",
@@ -970,7 +1201,14 @@
           "why": "The complex, seen in his patients"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "A complex is a gremlin in the psyche, a split-off part with its own agenda, and Jung called his whole psychology complex psychology.",
+        "You notice complexes before anything else: slips of the tongue, accidents, forgetting mid-sentence, being in love, or rattling on for thirty minutes about one topic.",
+        "Complexes are normal, like gut bacteria; ignored, they grow in the dark like a cancer and drain the energy you feel missing as depression.",
+        "In the unconscious a complex stays frozen like a wound that never closed; it is only overcome when lived out to the full.",
+        "Jung found complexes with a stopwatch: in the association experiment, the words people answered slowly were the ones they could not repeat."
+      ]
     },
     "035": {
       "territory": "everyday",
@@ -1001,7 +1239,14 @@
           "to": "032"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "Go deep enough into the psyche and it becomes nature, and nature is autonomous and unconscious: it rains whether you want it or not.",
+        "Nature never preserves: consciousness is a net, and a diamond you do not recognize gets carried off by the river and ground to dust.",
+        "Consciousness is a deviation from nature, the Lucifer and Prometheus story, and we build ourselves a second nature of straight lines and right angles.",
+        "The unconscious is a compass needle, not a loving father; waiting for the right dream before you decide is the wrong idea.",
+        "Going to the woods makes you a little unconscious, a relief from the city, which is why the church lost missionaries to the Matterhorn."
+      ]
     },
     "036": {
       "territory": "everyday",
@@ -1028,7 +1273,14 @@
           "to": "011"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "A newborn has no ego or will, just impulses, but it is no blank slate; the personality is already there, dormant like handedness.",
+        "A child is the child of two families, not two parents, and the black sheep is often the one closest to the family spirit.",
+        "Children perceive what parents do, not what they say, and live out the unlived life of their parents.",
+        "So Jung says a child is never neurotic: the fever belongs to the parents, and when their problem is solved the child's symptoms disappear.",
+        "Fairy tales are not indoctrination; they give order to what already comes up in a child, like anger, as religion does for adults."
+      ]
     },
     "037": {
       "territory": "psyche",
@@ -1049,7 +1301,14 @@
           "why": "The patients of the word-association tests"
         }
       ],
-      "loudness": -18.5
+      "loudness": -18.5,
+      "takeaways": [
+        "The association experiment is early Jung, fresh from university, in a dry book full of tables that made him famous in America before Freud.",
+        "The setup is like sonar: a hundred stimulus words, say the first thing that comes to mind, and a Swiss watch timing every answer.",
+        "Run the list twice: quick answers repeat, slow ones do not, and the slow spots mark something hidden that he would later call a complex.",
+        "Adding skin conductivity made Jung the father of the lie detector; his side career as police investigator ended when he got the wrong man jailed.",
+        "A dream is the association experiment turned inside out: it supplies the stimulus words, and life itself is one big association experiment."
+      ]
     },
     "038": {
       "territory": "everyday",
@@ -1070,7 +1329,14 @@
           "why": "A secret life in a tailored suit"
         }
       ],
-      "loudness": -18.4
+      "loudness": -18.4,
+      "takeaways": [
+        "Jung calls secrecy a cancer in society, yet we love secrets in stories; Breaking Bad works because we know Walter White's must come out.",
+        "A repressed secret is not gone; it sits in the personal unconscious like an ignored animal in the apartment, and the trouble is neurosis.",
+        "The patient dreaming of a fiery wheel thought he was crazy until Jung handed him a 400-year-old alchemy book with the same picture.",
+        "Loneliness is not having no people around but being unable to say what matters; confession, drawing or a therapist gets the trapped libido moving again.",
+        "Secrets do have one use: having one to guard is a first, clumsy step toward individuation, which is why people invent secret societies."
+      ]
     },
     "039": {
       "territory": "shadow",
@@ -1087,7 +1353,14 @@
           "why": "Logos and Eros, the principles behind the figures"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "The other is an alien will inside you with its own agenda; every figure in your dream is a split-off part of your psyche.",
+        "The unconscious shows up with a face because humans put faces on everything, from Teletubbies to deli meat to humanoid robots.",
+        "Shadow, anima and Self are not separate beings; like pulling yellow back out of brown watercolor, what is left looks different each time.",
+        "Your attitude decides how the other looks: for a shell-shocked soldier the bang became a lion, then a kitten you could play with.",
+        "Integration happens outside too: the neighbor you hate out of eight billion people is showing you your own shadow."
+      ]
     },
     "040": {
       "territory": "numinous",
@@ -1108,7 +1381,14 @@
           "why": "Archetypes on the scale of ages"
         }
       ],
-      "loudness": -16.2
+      "loudness": -16.2,
+      "takeaways": [
+        "An Aion is roughly 2,000 years, one twelfth of the sun's own circle, and Jung says humanity develops in stages that match the zodiac signs.",
+        "The Egyptians had a battery and the Greeks a steam device, but nothing caught on; the seed was there, the ground was not ready.",
+        "Astrology is not stars influencing you; it is the collective psyche projected onto shiny lights in the night sky 3,500 years ago.",
+        "People wanted to talk about fish before Jesus arrived; Pisces has two fish, a vertical spiritual millennium and a horizontal material one.",
+        "Aquarius carries both fish in one vessel, its symbol the hermaphrodite; Jung wrote it decades before today's gender debate, a tough pill to swallow."
+      ]
     },
     "041": {
       "territory": "psyche",
@@ -1124,7 +1404,14 @@
           "why": "Real is what has an effect, fantasy included"
         }
       ],
-      "loudness": -18.8
+      "loudness": -18.8,
+      "takeaways": [
+        "Real is what has an effect, Wirklichkeit ist was wirkt; it does not matter whether the thing is outside or inside you.",
+        "Jodie Foster in Contact was gone less than a second and nobody believed her; Jung took such experiences seriously, that is the whole talking cure.",
+        "You never meet reality directly; millions of impressions get filtered through your psyche, and changing the filter changes the world you live in.",
+        "Consciousness adapts like the immune system, many wiggly arms until one grips; it has to break and heal again every time something new arrives.",
+        "Plato wants you out of the cave into the sun; Jung says you only ever move to a nicer cave, and that is fine."
+      ]
     },
     "042": {
       "territory": "numinous",
@@ -1147,7 +1434,14 @@
           "to": "014"
         }
       ],
-      "loudness": -18.5
+      "loudness": -18.5,
+      "takeaways": [
+        "Fantasies are waking dreams, and nothing man-made exists that did not start as one; the depth comes from the collective unconscious, not from consciousness.",
+        "When you have tried everything and are stuck, the leap of insight that arrives is the transcendent function: write drunk, edit sober.",
+        "Libido that hits an obstacle flows back into fantasy like a car with the handbrake on; the fantasy shows you what you are shirking.",
+        "Three ways to meet a fantasy: be overwhelmed, indulge it, or confront and materialize it; sometimes a good smack, Jung says, breaks the fascination.",
+        "Individuation is only ever the next logical step; clean the apartment and the next thing to fix appears, like Jacob's Ladder."
+      ]
     },
     "043": {
       "territory": "movies",
@@ -1172,7 +1466,14 @@
           "why": "Bateman's violence as fantasy"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "Bateman's last line, this confession has meant nothing, is the point: no catharsis, and Jung says isolation is what drives people crazy.",
+        "He is all persona, the mask you speak through, and sensitiveness is a sure sign of inferiority: a better business card means murder.",
+        "Luis kissing his hand is the shadow offering love instead of hate, a first integration, and it freaks him out more than anything.",
+        "He is pure Logos, dissecting people and bodies while creating nothing; the cut-up women in his calendar point to a mother complex.",
+        "The movie mirrors a modern condition, all consciousness and no contact with the psyche, which is why Bateman memes and morning routines are everywhere."
+      ]
     },
     "044": {
       "territory": "psyche",
@@ -1193,7 +1494,14 @@
           "why": "Waking up, as consciousness does"
         }
       ],
-      "loudness": -18.5
+      "loudness": -18.5,
+      "takeaways": [
+        "The ego is the I at the center, and consciousness is everything connected to it, like a spider in its web; the rest is unconscious.",
+        "Jung never says subconscious; the unconscious is not below you, it is all around, and your future is in it as much as your past.",
+        "Consciousness separates, sorts and gives direction; it lets you willfully do things and willfully not do them, which a lion cannot.",
+        "No one gets conscious without suffering: consciousness switches on when the motor stops on the way to work, not while everything runs.",
+        "It is limited, one-sided and easily exhausted, a net with big holes; dreams are the partner who noticed what you missed all day."
+      ]
     },
     "045": {
       "territory": "movies",
@@ -1222,7 +1530,14 @@
           "why": "Two films about a woman finding out who is doing the choosing"
         }
       ],
-      "loudness": -18.1
+      "loudness": -18.1,
+      "takeaways": [
+        "Maggie likes her eggs however her fiancé likes them; Eros without Logos is blind relatedness, and the eggs Benedict scene is her finding herself.",
+        "Until you make the unconscious conscious it directs your life and you call it fate; she needs Ike, an outsider, to see her own pattern.",
+        "Ike is Logos, a writer in a penthouse with white hair; Maggie is Eros, brown-eyed on a farm; only different things can enter relationship.",
+        "Three failed weddings and a fourth that works differently is the alchemists' three-plus-one problem; four is wholeness, and the fourth is always the strange one.",
+        "Nobody individuates alone at home; it happens through other people, and the kiss followed by we need to talk is the grown-up part."
+      ]
     },
     "046": {
       "territory": "numinous",
@@ -1249,7 +1564,14 @@
           "to": "050"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "You only have emotions where you are not adapted; suffering is feedback, and hitting your head is the fastest way to become conscious.",
+        "Not all suffering is the same: behind a neurosis hides the natural suffering you were unwilling to bear, so it does not fix itself.",
+        "Sacrifice is a deliberate surrender, not being taken; it proves you have a self to give, like befriending the rabid dog in your apartment.",
+        "The hero needs a self-destructive streak; firefighters run in when everyone runs out, and the dragon gets fought because it stared long enough.",
+        "The crucifixion happens where you believe most in yourself: Jung's own intellect had to die, his vision of Siegfried, before the Red Book could come."
+      ]
     },
     "047": {
       "territory": "movies",
@@ -1274,7 +1596,14 @@
           "why": "Evil with a Cuban accent"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Tony Montana is a man possessed by his anima, the feminine side that makes worldly things magical and sends him anywhere to get them.",
+        "The restaurant speech, is this it, is the midpoint shift; the first half of life expands outward, the afternoon must look within.",
+        "The hardest thing to stand is not suffering but success; it inflates the ego like a balloon, and down you come with a crash.",
+        "Elvira is empty achievement, Manny the contentment Tony cannot reach; killing Manny kills his last link to humanity, and you see it in his face.",
+        "We love villains because someone else carries our devil; Jung even names Al Capone, whose nickname was Scarface."
+      ]
     },
     "048": {
       "territory": "numinous",
@@ -1299,7 +1628,14 @@
           "why": "Intuition, the irrational function"
         }
       ],
-      "loudness": -18.4
+      "loudness": -18.4,
+      "takeaways": [
+        "After the break with Freud, a successful man near forty sat at the lakeshore building sandcastles because that is what occurred to him.",
+        "Sensation and intuition are the irrational functions, not unreasonable but empirical: a dream walks in like a deer in the woods.",
+        "A patient too set in her ways dreams of a scarab, a beetle taps the window, and the weirdness finally opens her up.",
+        "Smile at the talking squirrel but do not make a system of it, or the goblins disappear and you get ghosts instead.",
+        "A letter promises Freud he will return from astrology and the occult with rich booty; he never did, and the sandcastles became the Red Book."
+      ]
     },
     "049": {
       "territory": "numinous",
@@ -1328,7 +1664,14 @@
           "why": "Pauli, physics and the alchemical process"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "Einstein needed only paper, pencil and thought experiments to anticipate what Michelson and Morley spent millions failing to measure.",
+        "Jung's reading of quantum observation: look long enough into a dark hole and you perceive what is looking in.",
+        "An archetype is like gravity, never measured directly, only inferred from the many expressions it leaves behind.",
+        "Synchronicity, worked out with the physicist Pauli, names coincidences connected by meaning rather than cause, like three hurt arms in three days.",
+        "Odd numbers move and even numbers rest, which is why the play button is a triangle and stop is a square."
+      ]
     },
     "050": {
       "territory": "numinous",
@@ -1355,7 +1698,14 @@
           "to": "046"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "What dies goes into the dark of the unconscious, like a seed into the earth, and gathers strength to return.",
+        "Osiris, Dionysus and Christ tell one story of being torn apart and reassembled, which Jung reads as a pattern of the psyche.",
+        "You begin life scattered, and analysis is gathering your projected parts back into one functioning center.",
+        "Rebirth does not end conflict; individuation means standing in the turmoil without being swallowed by it.",
+        "One rebirth is never enough; you develop in a spiral, passing the same point again but never at the same height."
+      ]
     },
     "051": {
       "territory": "everyday",
@@ -1384,7 +1734,14 @@
           "why": "A love story read as projection"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "You cannot see the world without seeing yourself; what you notice in other people passes through your own psyche first.",
+        "Falling in love is projection: the anima or animus turns the other person into a screen for your missing half.",
+        "The neighbor or colleague you hate most is often carrying a piece of your shadow that you would rather not own.",
+        "The figures inside you are like a dog in the apartment; ignore it and you both have a bad time.",
+        "There is no individuation on top of Mount Everest; relationships are what force you to hold on to yourself."
+      ]
     },
     "052": {
       "territory": "numinous",
@@ -1409,7 +1766,14 @@
           "why": "Modern myths, from saucers to the Matrix"
         }
       ],
-      "loudness": -18.4
+      "loudness": -18.4,
+      "takeaways": [
+        "Jung's one book on UFOs spends five of 150 pages on whether they are real; the rest asks why people see them.",
+        "When the psyche is in chaos it sends round symbols of order, mandalas; a disconnected age sees them in the sky instead.",
+        "The religious instinct did not vanish with the trolls under bridges; it now looks upward for wiser visitors with better technology.",
+        "Medieval sky paintings show someone watching the thing; modern UFO pictures show only the object, the body removed.",
+        "The down-to-earth witness proves nothing to Jung; precisely such a rational person needs something overwhelming to pull him back toward the center."
+      ]
     },
     "053": {
       "territory": "shadow",
@@ -1440,7 +1804,14 @@
           "to": "014"
         }
       ],
-      "loudness": -19.2
+      "loudness": -19.2,
+      "takeaways": [
+        "Logos divides, judges and clarifies; Eros relates, gathers and interweaves; Jung means principles everyone carries, not men and women.",
+        "To read a symbol, forget H2O and start from the body: water is wet, deep and hides things, so it means the unconscious.",
+        "The holiday meal is the interplay: you cut and separate the ingredients, then everyone eats one dish and becomes one body.",
+        "The neglected side comes back raw: Runaway Bride dissolves into her partner, and men try to replace Eros with reason.",
+        "From the Red Book: if you go to thinking, take your heart with you; if you go to love, take your head."
+      ]
     },
     "054": {
       "territory": "numinous",
@@ -1465,7 +1836,14 @@
           "why": "Why the irrational is not nonsense"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Jung said almost nothing about tarot: one passage calling it a picture of the flow of the unconscious, like the I Ching.",
+        "Marcus draws one card each morning; by evening it describes the day surprisingly often, and his mother now does the same.",
+        "The card matters less than your reaction to it; that reaction is projection, and projection is how you learn about yourself.",
+        "The Major Arcana are archetypal situations; drawing the Lovers reminds you that your heartbreak is not the first in history.",
+        "The golden scarab tapping on Jung's window shows the openness a reading needs: synchronicity, meaning that arrives by timing, not cause."
+      ]
     },
     "055": {
       "territory": "movies",
@@ -1486,7 +1864,14 @@
           "why": "The evil the inner voice knows"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Trinity's line, you have to see it to believe it, matches Jung's I don't need to believe, I know: that is gnosis.",
+        "The Gnostics turned Genesis around: the serpent that brought consciousness was the savior, and the Matrix tells the same story.",
+        "Morpheus is the Self, the inner voice that calls Neo awake; he even wears the serpent's snakeskin coat.",
+        "Cypher wants back into the illusion, like Jung's patient who said, now you have dragged me into this filthy world.",
+        "Trinity meets Neo first because the anima comes before the Self, and her kiss is the last push into rebirth."
+      ]
     },
     "056": {
       "territory": "shadow",
@@ -1507,7 +1892,14 @@
           "why": "A shadow that takes over completely"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Two familiar definitions of shadow: the Mr. Hyde dark side, and everything the ego is not, like the hippie to the soldier.",
+        "Each figure from the unconscious carries the whole behind it; catch your fish without pulling up the entire lake.",
+        "People who live in the shadow, like Ross from Friends, are decent folk who put the wrong foot forward and doubt themselves.",
+        "Gaston has no shadow at all: white as milk, never wrong, and for that reason possessed by what he cannot see.",
+        "A shadow makes a flat letter look three-dimensional; a person with a visible shadow is complete, not perfect."
+      ]
     },
     "057": {
       "territory": "numinous",
@@ -1528,7 +1920,14 @@
           "why": "The circle dance and the mandala"
         }
       ],
-      "loudness": -18.7
+      "loudness": -18.7,
+      "takeaways": [
+        "Circle pits, techno raves and Fight Club answer the same need: a culture living in its head rediscovers the body.",
+        "A ritual only works when you do it fully conscious; you can eat bread half asleep, but you cannot take communion in a dream.",
+        "Dancers whip themselves into the hunting mood before the hunt; we do the same when we circle a goal to charge it with energy.",
+        "Analysis is circumambulation: you walk around a problem or a dream from all sides until the meaning in the middle comes out.",
+        "The soul's natural movement is not a straight line; you circle the Self, and your actions slowly bring it forth."
+      ]
     },
     "058": {
       "territory": "everyday",
@@ -1559,7 +1958,14 @@
           "to": "057"
         }
       ],
-      "loudness": -18.9
+      "loudness": -18.9,
+      "takeaways": [
+        "The one-line version of 57 books: life is about experiencing yourself.",
+        "Marcus fixed three things in his apartment and suddenly saw twenty more; what you have integrated changes what you can perceive.",
+        "Do the next most necessary thing with conviction, like the Hermit who sees no further than his own lamp.",
+        "Break what comes up into Jung's four functions: what is present, what it is, how you relate to it, where it leads.",
+        "Give it form: patients who wrote down their plans healed faster, and Jung built sandcastles when his career fell apart."
+      ]
     },
     "059": {
       "territory": "psyche",
@@ -1584,7 +1990,14 @@
           "why": "The archetype of an age"
         }
       ],
-      "loudness": -18.6
+      "loudness": -18.6,
+      "takeaways": [
+        "Jung uses archetype three ways: a recurring image like the hero, a pattern like falling in love, a situation like the king's death.",
+        "An archetype needs both image and emotion; protesters in Indonesia and Nepal raise the One Piece flag because it stirs something.",
+        "When you reach the end of your wits the archetype steps in, like Tom Hanks making fire in Cast Away or landing on the Hudson.",
+        "Nobody has seen an archetype, and nobody had seen an atom either; both are known by their effects.",
+        "Inflation means the archetype rides you; Tristan and Isolde starving in the woods is romantic to read and madness to live."
+      ]
     },
     "060": {
       "territory": "psyche",
@@ -1605,7 +2018,14 @@
           "why": "The attitude types behind the functions"
         }
       ],
-      "loudness": -19.6
+      "loudness": -19.6,
+      "takeaways": [
+        "You have four ways of taking in the world, sensation, thinking, feeling and intuition, and one favorite hand among them.",
+        "The opposite of your favorite is the inferior function: childlike, obsessive, and strong enough to walk you on a leash like the Devil card.",
+        "Pauli drank and fought in bars, Marx had no money and bad hygiene: the neglected side runs loose in brilliant people too.",
+        "You cannot go straight at the inferior function; a thinker reaches feeling by way of the body or intuition first.",
+        "Leave everything in the superior function and it sucks you dry; go where you are most afraid, that is where life is."
+      ]
     },
     "061": {
       "territory": "numinous",
@@ -1636,7 +2056,14 @@
           "to": "060"
         }
       ],
-      "loudness": -18.9
+      "loudness": -18.9,
+      "takeaways": [
+        "Alchemy is projected psychology: staring into the vapors, the alchemists saw not the miracle in the metal but the one inside themselves.",
+        "The gold is already in the lead; coal and diamond are the same carbon, rearranged into a higher order.",
+        "Four stages run black, white, red, yellow, the podcast's logo colors; the nigredo is the depression where the work begins.",
+        "The albedo is pure but sterile; the rubedo adds blood, bringing the separated opposites back together, which Jung calls the coniunctio.",
+        "The stone is found on the road and the dung heap: what you end with was there at the start, before you could see it."
+      ]
     },
     "062": {
       "territory": "jung",
@@ -1674,7 +2101,14 @@
           "to": "008"
         }
       ],
-      "loudness": -18.8
+      "loudness": -18.8,
+      "takeaways": [
+        "A girl who no longer heard her footsteps had never seen her body; Jung sent her home to look in the mirror.",
+        "The officer's heartache and lump in the throat were swallowed tears for a girl he claimed did not matter.",
+        "The golden scarab beetle at the window broke a rationalist patient's resistance; the therapy ran smoothly after that.",
+        "A patient on her way to drown herself bought a pair of shoes and was cured for three weeks; Jung told her to buy another.",
+        "Two patients each claimed to be Jesus; Jung put them in one room, and each saw at once that the other was mad."
+      ]
     },
     "063": {
       "territory": "psyche",
@@ -1709,7 +2143,14 @@
           "to": "015"
         }
       ],
-      "loudness": -18.8
+      "loudness": -18.8,
+      "takeaways": [
+        "Jung coined the terms and insists on extraversion; extroversion, he said, is bad Latin.",
+        "Introversion and extraversion are not about sociability; they say which world you turn to first, the one within or the one without.",
+        "The extravert acts because the outside world seems dead without him; the introvert holds back because it seems far too alive.",
+        "Two youths at a castle: the introvert thrills at old manuscripts while the extravert yawns, and each goes home annoyed.",
+        "Neither attitude is wrong; the other side is still there, and ignored it bites from behind as obsessions or tactless judgments."
+      ]
     }
   },
   "featured": [
