@@ -187,7 +187,8 @@
           "to": "036",
           "why": "Life begins as a child's"
         }
-      ]
+      ],
+      "loudness": -18.1
     },
     "002": {
       "territory": "psyche",
@@ -207,7 +208,8 @@
           "to": "013",
           "why": "Where the primordial images become art"
         }
-      ]
+      ],
+      "loudness": -18.2
     },
     "003": {
       "territory": "psyche",
@@ -231,7 +233,8 @@
           "to": "020",
           "why": "The psychiatric years before Freud"
         }
-      ]
+      ],
+      "loudness": -17.9
     },
     "004": {
       "territory": "jung",
@@ -250,7 +253,14 @@
           "to": "002",
           "why": "The archetypes talk this one builds on"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 1540.5,
+          "to": "002"
+        }
+      ],
+      "loudness": -18.3
     },
     "005": {
       "territory": "psyche",
@@ -270,7 +280,8 @@
           "to": "012",
           "why": "From the history of consciousness to how it perceives"
         }
-      ]
+      ],
+      "loudness": -18.1
     },
     "006": {
       "territory": "psyche",
@@ -290,7 +301,8 @@
           "to": "031",
           "why": "Libido, felt in the body"
         }
-      ]
+      ],
+      "loudness": -18.1
     },
     "007": {
       "territory": "psyche",
@@ -314,7 +326,14 @@
           "to": "010",
           "why": "The astrology evening he promised here"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 2862.5,
+          "to": "010"
+        }
+      ],
+      "loudness": -18.2
     },
     "008": {
       "territory": "everyday",
@@ -334,7 +353,8 @@
           "to": "032",
           "why": "When the child refuses to grow up"
         }
-      ]
+      ],
+      "loudness": -18.9
     },
     "009": {
       "territory": "numinous",
@@ -354,7 +374,8 @@
           "to": "013",
           "why": "When active imagination becomes art"
         }
-      ]
+      ],
+      "loudness": -18.7
     },
     "010": {
       "territory": "numinous",
@@ -373,7 +394,8 @@
           "to": "049",
           "why": "Where synchronicity meets physics"
         }
-      ]
+      ],
+      "loudness": -18.5
     },
     "011": {
       "territory": "numinous",
@@ -397,7 +419,14 @@
           "to": "008",
           "why": "The mechanics behind it, told in Mother, Father, Child"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 3138.5,
+          "to": "008"
+        }
+      ],
+      "loudness": -18.3
     },
     "012": {
       "territory": "psyche",
@@ -416,7 +445,8 @@
           "to": "007",
           "why": "The types that do the filtering"
         }
-      ]
+      ],
+      "loudness": -18.8
     },
     "013": {
       "territory": "numinous",
@@ -435,7 +465,8 @@
           "to": "019",
           "why": "Pop art with a psychology to confess"
         }
-      ]
+      ],
+      "loudness": -18.4
     },
     "014": {
       "territory": "numinous",
@@ -459,7 +490,14 @@
           "to": "011",
           "why": "The symbols he saved up since the dreams talk"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 1299.5,
+          "to": "011"
+        }
+      ],
+      "loudness": -18.3
     },
     "015": {
       "territory": "shadow",
@@ -479,7 +517,8 @@
           "to": "046",
           "why": "The price of wholeness"
         }
-      ]
+      ],
+      "loudness": -18.3
     },
     "016": {
       "territory": "shadow",
@@ -495,7 +534,8 @@
           "to": "030",
           "why": "When possession turns malignant"
         }
-      ]
+      ],
+      "loudness": -18.4
     },
     "017": {
       "territory": "shadow",
@@ -515,7 +555,8 @@
           "to": "056",
           "why": "The misunderstandings, cleared up"
         }
-      ]
+      ],
+      "loudness": -18.7
     },
     "018": {
       "territory": "shadow",
@@ -535,7 +576,14 @@
           "to": "009",
           "why": "Mandala drawing as active imagination"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 2522.5,
+          "to": "021"
+        }
+      ],
+      "loudness": -18.7
     },
     "019": {
       "territory": "movies",
@@ -555,7 +603,8 @@
           "to": "039",
           "why": "The projection of unconscious femininity"
         }
-      ]
+      ],
+      "loudness": -19.2
     },
     "020": {
       "territory": "jung",
@@ -583,7 +632,14 @@
           "to": "004",
           "why": "Which books to read after the quarrel"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 2231.5,
+          "to": "034"
+        }
+      ],
+      "loudness": -18.6
     },
     "021": {
       "territory": "jung",
@@ -607,7 +663,8 @@
           "to": "028",
           "why": "The controversial Jung, continued"
         }
-      ]
+      ],
+      "loudness": -18.8
     },
     "022": {
       "territory": "movies",
@@ -631,7 +688,14 @@
           "to": "021",
           "why": "The side note that came out of the East and West evening"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 3742.5,
+          "to": "021"
+        }
+      ],
+      "loudness": -18.7
     },
     "023": {
       "territory": "jung",
@@ -655,7 +719,8 @@
           "to": "033",
           "why": "The test for what is really Jung's"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "024": {
       "territory": "shadow",
@@ -670,7 +735,8 @@
           "to": "038",
           "why": "Secrets keep you from dissolving into the group"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "025": {
       "territory": "movies",
@@ -686,7 +752,8 @@
           "to": "008",
           "why": "Leaving the bosom of the family"
         }
-      ]
+      ],
+      "loudness": -18.5
     },
     "026": {
       "territory": "everyday",
@@ -706,7 +773,14 @@
           "to": "020",
           "why": "Where therapy still looks like psychoanalysis"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 250.5,
+          "to": "020"
+        }
+      ],
+      "loudness": -18.5
     },
     "027": {
       "territory": "movies",
@@ -726,7 +800,8 @@
           "to": "006",
           "why": "The sea beneath the island"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "028": {
       "territory": "jung",
@@ -746,7 +821,8 @@
           "to": "058",
           "why": "Where simplified Jung starts to hurt"
         }
-      ]
+      ],
+      "loudness": -19.0
     },
     "029": {
       "territory": "psyche",
@@ -766,7 +842,14 @@
           "to": "024",
           "why": "Groups and their ground psychology, said there first"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 1829.5,
+          "to": "024"
+        }
+      ],
+      "loudness": -18.7
     },
     "030": {
       "territory": "shadow",
@@ -782,7 +865,14 @@
           "to": "017",
           "why": "Evil's home address: the shadow"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 69.5,
+          "to": "017"
+        }
+      ],
+      "loudness": -18.6
     },
     "031": {
       "territory": "everyday",
@@ -806,7 +896,8 @@
           "to": "027",
           "why": "Fear lives in the body first"
         }
-      ]
+      ],
+      "loudness": -18.7
     },
     "032": {
       "territory": "shadow",
@@ -830,7 +921,14 @@
           "to": "058",
           "why": "The eternal youth of self-improvement"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 1477.5,
+          "to": "036"
+        }
+      ],
+      "loudness": -18.5
     },
     "033": {
       "territory": "psyche",
@@ -850,7 +948,8 @@
           "to": "001",
           "why": "Where the podcast began: Jung's view of a life"
         }
-      ]
+      ],
+      "loudness": -18.8
     },
     "034": {
       "territory": "psyche",
@@ -870,7 +969,8 @@
           "to": "062",
           "why": "The complex, seen in his patients"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "035": {
       "territory": "everyday",
@@ -894,7 +994,14 @@
           "to": "027",
           "why": "Nature with teeth"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 554.5,
+          "to": "032"
+        }
+      ],
+      "loudness": -18.7
     },
     "036": {
       "territory": "everyday",
@@ -914,7 +1021,14 @@
           "to": "035",
           "why": "Children and the natural mind"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 1586.5,
+          "to": "011"
+        }
+      ],
+      "loudness": -18.6
     },
     "037": {
       "territory": "psyche",
@@ -934,7 +1048,8 @@
           "to": "062",
           "why": "The patients of the word-association tests"
         }
-      ]
+      ],
+      "loudness": -18.5
     },
     "038": {
       "territory": "everyday",
@@ -954,7 +1069,8 @@
           "to": "043",
           "why": "A secret life in a tailored suit"
         }
-      ]
+      ],
+      "loudness": -18.4
     },
     "039": {
       "territory": "shadow",
@@ -970,7 +1086,8 @@
           "to": "053",
           "why": "Logos and Eros, the principles behind the figures"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "040": {
       "territory": "numinous",
@@ -990,7 +1107,8 @@
           "to": "002",
           "why": "Archetypes on the scale of ages"
         }
-      ]
+      ],
+      "loudness": -16.2
     },
     "041": {
       "territory": "psyche",
@@ -1005,7 +1123,8 @@
           "to": "042",
           "why": "Real is what has an effect, fantasy included"
         }
-      ]
+      ],
+      "loudness": -18.8
     },
     "042": {
       "territory": "numinous",
@@ -1021,7 +1140,14 @@
           "to": "014",
           "why": "The symbols evening this leans on"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 1982.5,
+          "to": "014"
+        }
+      ],
+      "loudness": -18.5
     },
     "043": {
       "territory": "movies",
@@ -1045,7 +1171,8 @@
           "to": "042",
           "why": "Bateman's violence as fantasy"
         }
-      ]
+      ],
+      "loudness": -18.7
     },
     "044": {
       "territory": "psyche",
@@ -1065,7 +1192,8 @@
           "to": "055",
           "why": "Waking up, as consciousness does"
         }
-      ]
+      ],
+      "loudness": -18.5
     },
     "045": {
       "territory": "movies",
@@ -1089,7 +1217,8 @@
           "to": "025",
           "why": "From Rose to Maggie: two women choosing a self"
         }
-      ]
+      ],
+      "loudness": -18.1
     },
     "046": {
       "territory": "numinous",
@@ -1109,7 +1238,14 @@
           "to": "025",
           "why": "A sacrifice at the end of the voyage"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 2093.5,
+          "to": "050"
+        }
+      ],
+      "loudness": -18.7
     },
     "047": {
       "territory": "movies",
@@ -1133,7 +1269,8 @@
           "to": "030",
           "why": "Evil with a Cuban accent"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "048": {
       "territory": "numinous",
@@ -1157,7 +1294,8 @@
           "to": "029",
           "why": "Intuition, the irrational function"
         }
-      ]
+      ],
+      "loudness": -18.4
     },
     "049": {
       "territory": "numinous",
@@ -1185,7 +1323,8 @@
           "to": "061",
           "why": "Pauli, physics and the alchemical process"
         }
-      ]
+      ],
+      "loudness": -18.7
     },
     "050": {
       "territory": "numinous",
@@ -1205,7 +1344,14 @@
           "to": "040",
           "why": "The age of Pisces and its Christ"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 139.5,
+          "to": "046"
+        }
+      ],
+      "loudness": -18.6
     },
     "051": {
       "territory": "everyday",
@@ -1233,7 +1379,8 @@
           "to": "025",
           "why": "A love story read as projection"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "052": {
       "territory": "numinous",
@@ -1257,7 +1404,8 @@
           "to": "055",
           "why": "Modern myths, from saucers to the Matrix"
         }
-      ]
+      ],
+      "loudness": -18.4
     },
     "053": {
       "territory": "shadow",
@@ -1277,7 +1425,18 @@
           "to": "060",
           "why": "The inferior function, from the evening before"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 4527.5,
+          "to": "060"
+        },
+        {
+          "at": 4548.5,
+          "to": "014"
+        }
+      ],
+      "loudness": -19.2
     },
     "054": {
       "territory": "numinous",
@@ -1301,7 +1460,8 @@
           "to": "048",
           "why": "Why the irrational is not nonsense"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "055": {
       "territory": "movies",
@@ -1321,7 +1481,8 @@
           "to": "030",
           "why": "The evil the inner voice knows"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "056": {
       "territory": "shadow",
@@ -1341,7 +1502,8 @@
           "to": "047",
           "why": "A shadow that takes over completely"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "057": {
       "territory": "numinous",
@@ -1361,7 +1523,8 @@
           "to": "018",
           "why": "The circle dance and the mandala"
         }
-      ]
+      ],
+      "loudness": -18.7
     },
     "058": {
       "territory": "everyday",
@@ -1385,7 +1548,14 @@
           "to": "057",
           "why": "A month after dancing and movement, the follow-up"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 3092.5,
+          "to": "057"
+        }
+      ],
+      "loudness": -18.9
     },
     "059": {
       "territory": "psyche",
@@ -1409,7 +1579,8 @@
           "to": "040",
           "why": "The archetype of an age"
         }
-      ]
+      ],
+      "loudness": -18.6
     },
     "060": {
       "territory": "psyche",
@@ -1429,7 +1600,8 @@
           "to": "063",
           "why": "The attitude types behind the functions"
         }
-      ]
+      ],
+      "loudness": -19.6
     },
     "061": {
       "territory": "numinous",
@@ -1453,7 +1625,14 @@
           "to": "060",
           "why": "The cognitive functions, explained in depth there"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 3017.5,
+          "to": "060"
+        }
+      ],
+      "loudness": -18.9
     },
     "062": {
       "territory": "jung",
@@ -1480,7 +1659,18 @@
           "to": "003",
           "why": "The diagnoses behind the patient stories"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 3315.5,
+          "to": "026"
+        },
+        {
+          "at": 3378.5,
+          "to": "008"
+        }
+      ],
+      "loudness": -18.8
     },
     "063": {
       "territory": "psyche",
@@ -1496,7 +1686,18 @@
           "to": "007",
           "why": "The personality evening this one deepens"
         }
-      ]
+      ],
+      "mentions": [
+        {
+          "at": 2666.5,
+          "to": "007"
+        },
+        {
+          "at": 2690.5,
+          "to": "015"
+        }
+      ],
+      "loudness": -18.8
     }
   },
   "featured": [
@@ -1558,5 +1759,8 @@
     "intro": 33.5,
     "outro": 29.0
   },
-  "trimNote": "Seconds, decimals allowed. insert = what RedCircle prepends (also the transcript offset). intro = where playback starts (>= insert). outro = how early to wrap up. Per-episode: add \"trim\": {\"intro\": 24.5} inside an episode entry to override any field. Phones pick changes up on next launch."
+  "trimNote": "Seconds, decimals allowed. insert = what RedCircle prepends (also the transcript offset). intro = where playback starts (>= insert). outro = how early to wrap up. Per-episode: add \"trim\": {\"intro\": 24.5} inside an episode entry to override any field. Phones pick changes up on next launch.",
+  "mentionsNote": "mentions: moments (delivered-audio seconds) where Marcus points to another episode without saying its number; the app shows a door chip under that transcript paragraph. Explicit 'episode N' is linked automatically.",
+  "loudnessTarget": -18.8,
+  "loudnessNote": "loudness: speech level in dBFS measured by tools/loudness/run.py (minutes 1-8 past the pre-roll). The app turns episodes above loudnessTarget down to it; quieter ones stay."
 }
