@@ -22,7 +22,9 @@
         "wise-old-man",
         "puer-aeternus",
         "self"
-      ]
+      ],
+      "tag": "archetypes",
+      "kind": "jung"
     },
     {
       "id": "collective-unconscious",
@@ -42,7 +44,9 @@
         "primordial-image",
         "instinct",
         "psychoid"
-      ]
+      ],
+      "tag": "collective_unconscious",
+      "kind": "jung"
     },
     {
       "id": "personal-unconscious",
@@ -58,7 +62,9 @@
         "complex",
         "collective-unconscious",
         "feeling-toned-complex"
-      ]
+      ],
+      "tag": "personal_unconscious",
+      "kind": "jung"
     },
     {
       "id": "self",
@@ -80,14 +86,17 @@
         "god-image",
         "lapis",
         "coniunctio"
-      ]
+      ],
+      "tag": "self",
+      "kind": "jung"
     },
     {
       "id": "ego",
       "term": "ego",
       "aliases": [
         "ego-complex",
-        "I"
+        "I",
+        "the ego complex"
       ],
       "definition": "\"A complex of ideas which constitutes the centre of my field of consciousness\", with a high degree of continuity and identity. One complex among others, not the whole psyche: the ego is the subject of consciousness, the self is the subject of the whole.",
       "source": "CW 6 ¶ 706",
@@ -100,7 +109,8 @@
         "shadow",
         "complex",
         "inflation"
-      ]
+      ],
+      "tag": "the_ego_complex"
     },
     {
       "id": "persona",
@@ -121,7 +131,9 @@
         "animus",
         "inflation",
         "attitude"
-      ]
+      ],
+      "tag": "persona",
+      "kind": "jung"
     },
     {
       "id": "shadow",
@@ -143,7 +155,9 @@
         "nigredo-albedo-rubedo",
         "ego",
         "complex"
-      ]
+      ],
+      "tag": "shadow",
+      "kind": "jung"
     },
     {
       "id": "anima",
@@ -164,7 +178,9 @@
         "persona",
         "eros-logos",
         "possession"
-      ]
+      ],
+      "tag": "anima",
+      "kind": "jung"
     },
     {
       "id": "animus",
@@ -184,7 +200,9 @@
         "projection",
         "eros-logos",
         "possession"
-      ]
+      ],
+      "tag": "animus",
+      "kind": "jung"
     },
     {
       "id": "individuation",
@@ -206,7 +224,9 @@
         "transcendent-function",
         "alchemy-opus",
         "mandala"
-      ]
+      ],
+      "tag": "individuation",
+      "kind": "jung"
     },
     {
       "id": "complex",
@@ -226,7 +246,9 @@
         "possession",
         "neurosis",
         "ego"
-      ]
+      ],
+      "tag": "complex",
+      "kind": "jung"
     },
     {
       "id": "libido",
@@ -246,7 +268,9 @@
         "introversion",
         "extraversion",
         "instinct"
-      ]
+      ],
+      "tag": "libido",
+      "kind": "jung"
     },
     {
       "id": "projection",
@@ -268,7 +292,9 @@
         "participation-mystique",
         "alchemy-opus",
         "god-image"
-      ]
+      ],
+      "tag": "projection",
+      "kind": "jung"
     },
     {
       "id": "compensation",
@@ -288,7 +314,9 @@
         "libido",
         "neurosis",
         "inferior-function"
-      ]
+      ],
+      "tag": "compensation",
+      "kind": "jung"
     },
     {
       "id": "symbol",
@@ -309,7 +337,9 @@
         "mandala",
         "amplification",
         "archetype"
-      ]
+      ],
+      "tag": "symbol",
+      "kind": "jung"
     },
     {
       "id": "sign",
@@ -359,7 +389,9 @@
         "dream",
         "alchemy-opus",
         "symbol"
-      ]
+      ],
+      "tag": "active_imagination",
+      "kind": "jung"
     },
     {
       "id": "synchronicity",
@@ -378,7 +410,9 @@
         "psychoid",
         "archetype",
         "numinous"
-      ]
+      ],
+      "tag": "synchronicity",
+      "kind": "jung"
     },
     {
       "id": "enantiodromia",
@@ -432,7 +466,9 @@
         "mana-personality",
         "possession",
         "archetype"
-      ]
+      ],
+      "tag": "inflation",
+      "kind": "jung"
     },
     {
       "id": "possession",
@@ -452,7 +488,9 @@
         "animus",
         "mana-personality",
         "shadow"
-      ]
+      ],
+      "tag": "possession",
+      "kind": "jung"
     },
     {
       "id": "mana-personality",
@@ -473,7 +511,9 @@
         "anima",
         "possession",
         "numinous"
-      ]
+      ],
+      "tag": "mana",
+      "kind": "jung"
     },
     {
       "id": "puer-aeternus",
@@ -576,7 +616,9 @@
         "wise-old-man",
         "self",
         "mana-personality"
-      ]
+      ],
+      "tag": "hero",
+      "kind": "jung"
     },
     {
       "id": "trickster",
@@ -614,7 +656,9 @@
         "symbol",
         "unus-mundus",
         "individuation"
-      ]
+      ],
+      "tag": "mandala",
+      "kind": "jung"
     },
     {
       "id": "quaternity",
@@ -642,7 +686,8 @@
       "aliases": [
         "conjunction",
         "mysterium coniunctionis",
-        "chymical wedding"
+        "chymical wedding",
+        "unification"
       ],
       "definition": "The alchemical union of opposites, Jung's image for integration. \"The factors which come together in the coniunctio are conceived as opposites, either confronting one another in enmity or attracting one another in love.\"",
       "source": "CW 14 ¶ 1",
@@ -656,7 +701,8 @@
         "transcendent-function",
         "self",
         "enantiodromia"
-      ]
+      ],
+      "tag": "unification"
     },
     {
       "id": "alchemy-opus",
@@ -680,7 +726,9 @@
         "projection",
         "individuation",
         "active-imagination"
-      ]
+      ],
+      "tag": "alchemy",
+      "kind": "jung"
     },
     {
       "id": "nigredo-albedo-rubedo",
@@ -726,7 +774,9 @@
         "lapis",
         "unus-mundus",
         "coniunctio"
-      ]
+      ],
+      "tag": "mercurius",
+      "kind": "jung"
     },
     {
       "id": "lapis",
@@ -769,7 +819,9 @@
         "feeling",
         "sensation",
         "intuition"
-      ]
+      ],
+      "tag": "introversion",
+      "kind": "jung"
     },
     {
       "id": "extraversion",
@@ -793,7 +845,9 @@
         "feeling",
         "sensation",
         "intuition"
-      ]
+      ],
+      "tag": "extroversion",
+      "kind": "jung"
     },
     {
       "id": "thinking",
@@ -815,7 +869,9 @@
         "superior-function",
         "inferior-function",
         "eros-logos"
-      ]
+      ],
+      "tag": "thinking",
+      "kind": "jung"
     },
     {
       "id": "feeling",
@@ -837,7 +893,9 @@
         "superior-function",
         "inferior-function",
         "eros-logos"
-      ]
+      ],
+      "tag": "feeling",
+      "kind": "jung"
     },
     {
       "id": "sensation",
@@ -858,7 +916,9 @@
         "rational-irrational-functions",
         "superior-function",
         "inferior-function"
-      ]
+      ],
+      "tag": "sensation",
+      "kind": "jung"
     },
     {
       "id": "intuition",
@@ -879,7 +939,9 @@
         "rational-irrational-functions",
         "superior-function",
         "inferior-function"
-      ]
+      ],
+      "tag": "intuition",
+      "kind": "jung"
     },
     {
       "id": "superior-function",
@@ -908,7 +970,8 @@
       "id": "inferior-function",
       "term": "inferior function",
       "aliases": [
-        "fourth function"
+        "fourth function",
+        "inferior"
       ],
       "definition": "\"The function that lags behind in the process of differentiation\": the opposite of the superior one, largely unconscious and archaic, and for that reason the door to the unconscious and to renewal.",
       "source": "CW 6 ¶ 763",
@@ -921,7 +984,8 @@
         "shadow",
         "quaternity",
         "compensation"
-      ]
+      ],
+      "tag": "inferior"
     },
     {
       "id": "auxiliary-function",
@@ -1001,7 +1065,9 @@
         "thinking",
         "feeling",
         "coniunctio"
-      ]
+      ],
+      "tag": "eros",
+      "kind": "jung"
     },
     {
       "id": "numinous",
@@ -1061,7 +1127,9 @@
         "god-image",
         "enantiodromia",
         "synchronicity"
-      ]
+      ],
+      "tag": "aion",
+      "kind": "jung"
     },
     {
       "id": "unus-mundus",
@@ -1120,7 +1188,9 @@
         "collective-unconscious",
         "psychoid",
         "spirit"
-      ]
+      ],
+      "tag": "instinct",
+      "kind": "jung"
     },
     {
       "id": "primordial-image",
@@ -1177,7 +1247,9 @@
         "feeling-toned-complex",
         "amplification",
         "personal-unconscious"
-      ]
+      ],
+      "tag": "association_experiment",
+      "kind": "jung"
     },
     {
       "id": "feeling-toned-complex",
@@ -1217,7 +1289,9 @@
         "shadow",
         "individuation",
         "psyche"
-      ]
+      ],
+      "tag": "neurosis",
+      "kind": "jung"
     },
     {
       "id": "psyche",
@@ -1238,7 +1312,9 @@
         "collective-unconscious",
         "personal-unconscious",
         "spirit"
-      ]
+      ],
+      "tag": "psyche",
+      "kind": "jung"
     },
     {
       "id": "soul",
@@ -1258,7 +1334,9 @@
         "animus",
         "persona",
         "spirit"
-      ]
+      ],
+      "tag": "soul",
+      "kind": "jung"
     },
     {
       "id": "spirit",
@@ -1301,7 +1379,711 @@
         "active-imagination",
         "shadow",
         "anima"
-      ]
+      ],
+      "tag": "dreams",
+      "kind": "jung"
+    },
+    {
+      "id": "affect",
+      "term": "Affect",
+      "aliases": [],
+      "definition": "An emotion strong enough to change the body and disturb thinking; Jung uses affect and emotion as one word. It is the charge that holds a complex together.",
+      "source": "CW 6, Definitions (Affect)",
+      "verified": false,
+      "line": "Hit a hot topic and someone rattles on for half an hour: that emotional charge is affect, the core of every complex.",
+      "lineFrom": "034",
+      "related": [],
+      "kind": "jung",
+      "tag": "affect"
+    },
+    {
+      "id": "analytical-psychology",
+      "term": "Analytical psychology",
+      "aliases": [],
+      "definition": "The name Jung gave his psychology after the break with Freud, to set it apart from psychoanalysis. It keeps the personal unconscious and adds the collective unconscious, the archetypes and individuation.",
+      "source": "CW 7, Two Essays on Analytical Psychology",
+      "verified": false,
+      "line": "Jung's own brand of therapy after the split with Freud: still the talking cure, but reaching past personal problems into the collective unconscious.",
+      "lineFrom": "026",
+      "related": [],
+      "kind": "jung",
+      "tag": "analytical_psychology"
+    },
+    {
+      "id": "astrology",
+      "term": "Astrology",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "People looked at blinking lights in the sky and named them after gods: for Jung, astrology was the first psychology, the psyche projected upwards.",
+      "lineFrom": "010",
+      "related": [],
+      "kind": "keyword",
+      "tag": "astrology"
+    },
+    {
+      "id": "consciousness",
+      "term": "Consciousness",
+      "aliases": [],
+      "definition": "The relation of psychic contents to the ego, in so far as the ego registers it. Consciousness grows out of the unconscious and works by discrimination; whatever is not related to the ego stays unconscious.",
+      "source": "CW 6, Definitions (Consciousness)",
+      "verified": false,
+      "line": "Switch the light on and the dark room becomes a bed, a cupboard, a pillow: consciousness is the part of you that separates and sorts.",
+      "lineFrom": "005",
+      "related": [],
+      "kind": "jung",
+      "tag": "consciousness"
+    },
+    {
+      "id": "countries",
+      "term": "Countries",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "India has five thousand unbroken years of working on the psyche, Europe a fragmented two thousand; Jung reads countries the way he reads a person.",
+      "lineFrom": "021",
+      "related": [],
+      "kind": "keyword",
+      "tag": "countries"
+    },
+    {
+      "id": "creative",
+      "term": "Creative",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "People do not have ideas, ideas have people: for Jung creation comes up from the unconscious, and the artist translates it for the times.",
+      "lineFrom": "013",
+      "related": [],
+      "kind": "keyword",
+      "tag": "creative"
+    },
+    {
+      "id": "culture",
+      "term": "Culture",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "When a film or a story speaks to a lot of people, Jung would say it touches the collective unconscious, where culture happens.",
+      "lineFrom": "043",
+      "related": [],
+      "kind": "keyword",
+      "tag": "culture"
+    },
+    {
+      "id": "differentiation",
+      "term": "Differentiation",
+      "aliases": [],
+      "definition": "The development of differences, the separating of parts from a whole. An undifferentiated function is still fused with others and cannot be used on its own; only a differentiated one is at the ego's disposal.",
+      "source": "CW 6, Definitions (Differentiation)",
+      "verified": false,
+      "line": "Your favourite function is fine old material, worn but highly differentiated; the inferior one is a rough diamond, still mixed up with the others.",
+      "lineFrom": "060",
+      "related": [],
+      "kind": "jung",
+      "tag": "differentiation"
+    },
+    {
+      "id": "dogma",
+      "term": "Dogma",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Jung's Catholic patients came to him least, he says, because the church held their psychology for them; a living dogma keeps the unconscious quiet.",
+      "lineFrom": "028",
+      "related": [],
+      "kind": "keyword",
+      "tag": "dogma"
+    },
+    {
+      "id": "dynamics",
+      "term": "Dynamics",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Libido cannot get lost, only move somewhere else: the dynamics of the psyche are what travels up and down between consciousness and the unconscious.",
+      "lineFrom": "006",
+      "related": [],
+      "kind": "keyword",
+      "tag": "dynamics"
+    },
+    {
+      "id": "east",
+      "term": "The East",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "In the East the dragon brings luck and good and evil gods share a table; the East integrates what the West kills.",
+      "lineFrom": "021",
+      "related": [],
+      "kind": "keyword",
+      "tag": "east"
+    },
+    {
+      "id": "family",
+      "term": "Family",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "A child is the child of two families, not two parents, and the black sheep is often the one closest to the family spirit.",
+      "lineFrom": "036",
+      "related": [],
+      "kind": "keyword",
+      "tag": "family"
+    },
+    {
+      "id": "fantasy",
+      "term": "Fantasy",
+      "aliases": [],
+      "definition": "The psyche's own creative activity, a product of conscious and unconscious together. Jung separates active fantasy, which consciousness takes part in, from passive fantasy that simply overcomes you; every new possibility starts as one.",
+      "source": "CW 6, Definitions (Fantasy)",
+      "verified": false,
+      "line": "Fantasies are waking dreams: nothing man-made exists that did not start as one, like I want to build this house.",
+      "lineFrom": "042",
+      "related": [],
+      "kind": "jung",
+      "tag": "fantasy"
+    },
+    {
+      "id": "father",
+      "term": "Father",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "A strong father complex feels carefree, since father will sort it out; Frederick the Great only rose after his own father died.",
+      "lineFrom": "008",
+      "related": [],
+      "kind": "keyword",
+      "tag": "father"
+    },
+    {
+      "id": "female",
+      "term": "Female",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Feminine does not mean female: for Jung it is a principle everyone carries, relating and gathering, though in his patients women leaned towards it.",
+      "lineFrom": "053",
+      "related": [],
+      "kind": "keyword",
+      "tag": "female"
+    },
+    {
+      "id": "freud",
+      "term": "Freud",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Freud found the cellar under the house; Jung found the tunnels joining all the cellars, and then the two fell out over a book.",
+      "lineFrom": "020",
+      "related": [],
+      "kind": "keyword",
+      "tag": "freud"
+    },
+    {
+      "id": "god",
+      "term": "God",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "A God who is all-powerful cannot be only good, Jung says, so the dark side belongs in the picture of God too.",
+      "lineFrom": "030",
+      "related": [],
+      "kind": "keyword",
+      "tag": "god"
+    },
+    {
+      "id": "groups",
+      "term": "Groups",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "A group is dumber than its members: mix all the watercolours and you get brown, and a concert boils down to yay and boo.",
+      "lineFrom": "024",
+      "related": [],
+      "kind": "keyword",
+      "tag": "groups"
+    },
+    {
+      "id": "hysteria",
+      "term": "Hysteria",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "A complex grown so strong it takes over the body like a second personality: the hysteric makes up the illness and believes it too.",
+      "lineFrom": "003",
+      "related": [],
+      "kind": "keyword",
+      "tag": "hysteria"
+    },
+    {
+      "id": "images",
+      "term": "Images",
+      "aliases": [],
+      "definition": "Not a copy of an outside object but an inner picture made by the psyche, a condensed expression of the whole psychic situation, conscious and unconscious together. Primordial images are its collective form.",
+      "source": "CW 6, Definitions (Image)",
+      "verified": false,
+      "line": "Everything you touch turns into a psychic image first, and you react to the image, not the thing: inside and outside land in one pot.",
+      "lineFrom": "012",
+      "related": [],
+      "kind": "jung",
+      "tag": "images"
+    },
+    {
+      "id": "individual",
+      "term": "Individual",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "You cannot preach to a crowd, only talk to the one person in it: for Jung a group gets better only when its individuals do.",
+      "lineFrom": "024",
+      "related": [],
+      "kind": "keyword",
+      "tag": "individual"
+    },
+    {
+      "id": "isolation",
+      "term": "Isolation",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Loneliness is not having no one around but having no one to say what matters to; fully isolated, Jung says, people start to go mad.",
+      "lineFrom": "038",
+      "related": [],
+      "kind": "keyword",
+      "tag": "isolation"
+    },
+    {
+      "id": "jesus",
+      "term": "Jesus",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Jesus arrives as the age of Pisces begins, when everyone already wants to talk about fish; Jung reads Christ as the symbol of that aion.",
+      "lineFrom": "040",
+      "related": [],
+      "kind": "keyword",
+      "tag": "jesus"
+    },
+    {
+      "id": "jung",
+      "term": "Jung",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "The man himself: a Swiss botanist of the psyche who described what grows instead of drawing a diagram, and wrote hard on purpose for academics.",
+      "lineFrom": "023",
+      "related": [],
+      "kind": "keyword",
+      "tag": "jung"
+    },
+    {
+      "id": "life",
+      "term": "Life",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Jung draws a life like the sun's day: it rises, stands at noon around 38, then turns inwards on the way down.",
+      "lineFrom": "001",
+      "related": [],
+      "kind": "keyword",
+      "tag": "life"
+    },
+    {
+      "id": "making-conscious",
+      "term": "Making conscious",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "The car breaks down and you go back over tank, battery, tyres: pulling what you missed into the present is making conscious.",
+      "lineFrom": "005",
+      "related": [],
+      "kind": "keyword",
+      "tag": "making_conscious"
+    },
+    {
+      "id": "male",
+      "term": "Male",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Masculine does not mean men: Logos, cutting and sorting, is in everyone, and a man with nothing else ends up like Jack in Fight Club.",
+      "lineFrom": "022",
+      "related": [],
+      "kind": "keyword",
+      "tag": "male"
+    },
+    {
+      "id": "modern",
+      "term": "Modern",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "All consciousness and no contact with the psyche: for Jung that is the modern condition, which is why Bateman memes and morning routines are everywhere.",
+      "lineFrom": "043",
+      "related": [],
+      "kind": "keyword",
+      "tag": "modern"
+    },
+    {
+      "id": "mother",
+      "term": "Mother",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "A mother complex makes the Don Juan hunting his mother in every woman, or the good boy who never leaves the basement.",
+      "lineFrom": "008",
+      "related": [],
+      "kind": "keyword",
+      "tag": "mother"
+    },
+    {
+      "id": "myth",
+      "term": "Myth",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Osiris, Dionysus and Christ are all torn apart and put back together: Jung reads a myth told that often as a pattern of the psyche.",
+      "lineFrom": "050",
+      "related": [],
+      "kind": "keyword",
+      "tag": "myth"
+    },
+    {
+      "id": "occult",
+      "term": "Occult",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Young Jung went to séances and found the medium moving the table herself without knowing it; for him the occult was the unconscious at work.",
+      "lineFrom": "010",
+      "related": [],
+      "kind": "keyword",
+      "tag": "occult"
+    },
+    {
+      "id": "opposites",
+      "term": "Opposites",
+      "aliases": [],
+      "definition": "Jung's view that psychic life rests on pairs of opposites: conscious and unconscious, masculine and feminine, good and evil. Their tension is the source of psychic energy, and pushed to the extreme each turns into the other.",
+      "source": "CW 14, Mysterium Coniunctionis (The Components of the Coniunctio)",
+      "verified": false,
+      "line": "Like a battery's two poles: for Jung the world runs on opposites, and the tension between them is where things happen.",
+      "lineFrom": "014",
+      "related": [],
+      "kind": "jung",
+      "tag": "opposites"
+    },
+    {
+      "id": "people",
+      "term": "People",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "The academics mostly ignored him while ordinary people wrote him letters, so late in life Jung tried a book for the layperson.",
+      "lineFrom": "023",
+      "related": [],
+      "kind": "keyword",
+      "tag": "people"
+    },
+    {
+      "id": "perception",
+      "term": "Perception",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "You see colours, not wavelengths: everything reaches you filtered, and only what can dock onto something you already know gets through.",
+      "lineFrom": "012",
+      "related": [],
+      "kind": "keyword",
+      "tag": "perception"
+    },
+    {
+      "id": "primitives",
+      "term": "Primitives",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Primitive is Jung's word, not a value judgement: the part of every psyche that still meets its thoughts outside, as ghosts, gods and spirits.",
+      "lineFrom": "005",
+      "related": [],
+      "kind": "keyword",
+      "tag": "primitives"
+    },
+    {
+      "id": "psychoanalysis",
+      "term": "Psychoanalysis",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Freud's school, where Jung started out: you are the ego with the id below, and every problem leads back to sexuality and childhood.",
+      "lineFrom": "020",
+      "related": [],
+      "kind": "keyword",
+      "tag": "psychoanalysis"
+    },
+    {
+      "id": "psychology",
+      "term": "Psychology",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Religion used to carry people's psyches; for Jung, psychology was only needed once organised religion in Europe stopped doing that job.",
+      "lineFrom": "004",
+      "related": [],
+      "kind": "keyword",
+      "tag": "psychology"
+    },
+    {
+      "id": "psychosis",
+      "term": "Psychosis",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Some contents from the collective unconscious are so strange they break through and replace reality: for Jung, that is psychosis.",
+      "lineFrom": "003",
+      "related": [],
+      "kind": "keyword",
+      "tag": "psychosis"
+    },
+    {
+      "id": "relationships",
+      "term": "Relationships",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "There is no individuation on top of Mount Everest: relationships are what force you to hold on to yourself, and they can also dissolve you.",
+      "lineFrom": "051",
+      "related": [],
+      "kind": "keyword",
+      "tag": "relationships"
+    },
+    {
+      "id": "religion",
+      "term": "Religion",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Instead of God, say the unconscious; instead of Christ, the Self: Jung reads religion as the psyche talking about itself in older words.",
+      "lineFrom": "046",
+      "related": [],
+      "kind": "keyword",
+      "tag": "religion"
+    },
+    {
+      "id": "repression",
+      "term": "Repression",
+      "aliases": [],
+      "definition": "Pushing an unwanted content out of consciousness without knowing you do it. Jung contrasts it with suppression, a conscious choice: what is repressed is not gone, it keeps acting from the unconscious, often as neurosis.",
+      "source": "CW 11, Psychology and Religion",
+      "verified": false,
+      "line": "Pushing away what you do not like is an act of willpower, which is why your shadow shows when you are drunk, ill or stressed.",
+      "lineFrom": "017",
+      "related": [],
+      "kind": "jung",
+      "tag": "repression"
+    },
+    {
+      "id": "schizophrenia",
+      "term": "Schizophrenia",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Normally consciousness holds your life together; in schizophrenia it breaks into little splinters that no longer relate to each other.",
+      "lineFrom": "003",
+      "related": [],
+      "kind": "keyword",
+      "tag": "schizophrenia"
+    },
+    {
+      "id": "science",
+      "term": "Science",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Jung called himself an empiricist: he did not study whether UFOs or astrology were real, only how people react to them and why.",
+      "lineFrom": "023",
+      "related": [],
+      "kind": "keyword",
+      "tag": "science"
+    },
+    {
+      "id": "the-third",
+      "term": "The third",
+      "aliases": [],
+      "definition": "A third thing that is neither of two opposites but holds both, usually a symbol produced by the unconscious, which lets the tension between them move on. The function that produces it Jung calls the transcendent function.",
+      "source": "CW 8, The Transcendent Function",
+      "verified": false,
+      "line": "Opposites cannot meet head on, so they need a third: the child of man and woman, or the hero who belongs to both worlds.",
+      "lineFrom": "014",
+      "related": [],
+      "kind": "jung",
+      "tag": "the-third"
+    },
+    {
+      "id": "the-dilemma-of-consciousness",
+      "term": "The dilemma of consciousness",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "You are a limited being in an unlimited universe: consciousness is one-sided and tires fast, so you keep hitting your head on things.",
+      "lineFrom": "044",
+      "related": [],
+      "kind": "keyword",
+      "tag": "the_dilemma_of_consciousness"
+    },
+    {
+      "id": "therapy",
+      "term": "Therapy",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Not the hunt for superhumans: Jung's therapy was about getting people back into normal life, and the therapist may admit not knowing.",
+      "lineFrom": "026",
+      "related": [],
+      "kind": "keyword",
+      "tag": "therapy"
+    },
+    {
+      "id": "things-coming-up",
+      "term": "Things coming up",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Like the shark in Jaws, what you ignored pops up by itself, bigger and closer each time, until you turn and face it.",
+      "lineFrom": "027",
+      "related": [],
+      "kind": "keyword",
+      "tag": "things_coming_up"
+    },
+    {
+      "id": "transference",
+      "term": "Transference",
+      "aliases": [],
+      "definition": "A form of projection in which the patient transfers unconscious contents, often parental images or images of the other sex, onto the doctor. For Jung it is natural, but it has to be made conscious rather than encouraged.",
+      "source": "CW 16, The Psychology of the Transference",
+      "verified": false,
+      "line": "In therapy the patient suddenly sees someone else in the therapist; Jung found it could become a safe harbour that stops the work moving forward.",
+      "lineFrom": "026",
+      "related": [],
+      "kind": "jung",
+      "tag": "transference"
+    },
+    {
+      "id": "typology",
+      "term": "Typology",
+      "aliases": [],
+      "definition": "Jung's scheme of psychological types: two attitudes, introversion and extraversion, combined with four functions, thinking, feeling, sensation and intuition. Meant as a compass for orientation, not a way of classifying people.",
+      "source": "CW 6, Psychological Types",
+      "verified": false,
+      "line": "Jung's two attitudes and four functions, the basis of Myers-Briggs: instruments, not boxes, and he got cross when colleagues used them to label people.",
+      "lineFrom": "007",
+      "related": [],
+      "kind": "jung",
+      "tag": "typology"
+    },
+    {
+      "id": "ufos",
+      "term": "UFOs",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Jung's book on UFOs spends five pages on whether they are real; the rest asks why a disconnected age sees round shapes in the sky.",
+      "lineFrom": "052",
+      "related": [],
+      "kind": "keyword",
+      "tag": "ufos"
+    },
+    {
+      "id": "unconscious",
+      "term": "Unconscious",
+      "aliases": [],
+      "definition": "Everything psychic that is not related to the ego in a perceptible way: forgotten, repressed and subliminal contents, and also what has never yet been conscious. Jung divides it into a personal and a collective layer.",
+      "source": "CW 6, Definitions (Unconscious)",
+      "verified": false,
+      "line": "Not a cellar of things you pushed down: for Jung everything starts unconscious, and only some of it ever rises to the surface.",
+      "lineFrom": "006",
+      "related": [],
+      "kind": "jung",
+      "tag": "unconscious"
+    },
+    {
+      "id": "upside-of-consciousness",
+      "term": "The upside of consciousness",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "An animal needs the right weather and food; consciousness lets you adapt, change your surroundings, and wilfully do things or wilfully not do them.",
+      "lineFrom": "044",
+      "related": [],
+      "kind": "keyword",
+      "tag": "upside_of_consciousness"
+    },
+    {
+      "id": "west",
+      "term": "The West",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Christianity was put on top of pagan Europe instead of growing out of it, which is why the West has to force itself to believe.",
+      "lineFrom": "021",
+      "related": [],
+      "kind": "keyword",
+      "tag": "west"
+    },
+    {
+      "id": "you",
+      "term": "You",
+      "aliases": [],
+      "definition": "",
+      "source": "",
+      "verified": false,
+      "line": "Fifty-seven books in one line: life is about experiencing yourself, and you are not one thing but many parts working at once.",
+      "lineFrom": "058",
+      "related": [],
+      "kind": "keyword",
+      "tag": "you"
     }
   ]
 }
