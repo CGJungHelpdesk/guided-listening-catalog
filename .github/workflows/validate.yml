@@ -1,13 +1,40 @@
-name: Validate catalog
+name: validate
+
+# Every content file is checked with the same limits the app enforces
+# (tools/validate.py) before a pull request can be merged into main. Phones
+# read main, so nothing reaches them until the check is green and the pull
+# request is merged.
 on:
-  push:
-    paths: ["catalog.json", "tools/validate_catalog.py"]
   pull_request:
-    paths: ["catalog.json"]
+    paths:
+      - "catalog.json"
+      - "glossary.json"
+      - "transcript-corrections.json"
+      - "quotes.json"
+      - "tools/validate.py"
+      - ".github/workflows/validate.yml"
+  push:
+    branches: [main]
+    paths:
+      - "catalog.json"
+      - "glossary.json"
+      - "transcript-corrections.json"
+      - "quotes.json"
+      - "tools/validate.py"
+
+permissions:
+  contents: read
+
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Validate catalog.json against the feed
-        run: python3 tools/validate_catalog.py catalog.json --feed
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0, pinned by hash
+        with:
+          fetch-depth: 0
+      - name: Validate against the feed and the catalog phones have today
+        env:
+          BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          git show "$BASE:catalog.json" > /tmp/previous-catalog.json 2>/dev/null || true
+          python3 tools/validate.py --feed --previous-catalog /tmp/previous-catalog.json
