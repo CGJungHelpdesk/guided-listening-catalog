@@ -1,0 +1,22 @@
+name: Daily quote to Telegram
+
+# Switched to a daily schedule once the two secrets exist (TELEGRAM_BOT_TOKEN,
+# TELEGRAM_CHAT_ID) and quotes.json is published. Until then: manual only.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 6 * * *"   # 06:00 UTC, 08:00 Berlin in summer, 07:00 in winter
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Post the day's quote
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 tools/daily_quote.py
