@@ -1627,8 +1627,7 @@
         "east",
         "west",
         "culture",
-        "religion",
-        "countries"
+        "religion"
       ],
       "links": [
         {
@@ -1781,7 +1780,6 @@
         "jung",
         "projection",
         "science",
-        "people",
         "archetypes"
       ],
       "links": [
@@ -2061,7 +2059,6 @@
       "tags": [
         "culture",
         "unconscious",
-        "things_coming_up",
         "instinct",
         "complex"
       ],
@@ -3294,8 +3291,6 @@
       "tags": [
         "consciousness",
         "the_ego_complex",
-        "upside_of_consciousness",
-        "the_dilemma_of_consciousness",
         "making_conscious"
       ],
       "links": [
@@ -4389,8 +4384,7 @@
         "therapy",
         "individuation",
         "life",
-        "modern",
-        "you"
+        "modern"
       ],
       "links": [
         {

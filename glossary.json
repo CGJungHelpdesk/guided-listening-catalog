@@ -331,7 +331,6 @@
       "line": "The bridge between consciousness and the unconscious; most often an image, made all by itself, as in dreams.",
       "lineFrom": "014",
       "related": [
-        "sign",
         "transcendent-function",
         "dream",
         "mandala",
@@ -340,22 +339,6 @@
       ],
       "tag": "symbol",
       "kind": "jung"
-    },
-    {
-      "id": "sign",
-      "term": "sign",
-      "aliases": [
-        "signs",
-        "semiotic"
-      ],
-      "definition": "An expression that stands for a known thing, like a token or a badge. \"An expression that stands for a known thing remains a mere sign and is never a symbol.\"",
-      "source": "CW 6 ¶ 817",
-      "verified": true,
-      "line": "A road sign says dangerous road and that is all; it takes the complexity out. A symbol keeps it in.",
-      "lineFrom": "014",
-      "related": [
-        "symbol"
-      ]
     },
     {
       "id": "transcendent-function",
@@ -1436,19 +1419,6 @@
       "tag": "consciousness"
     },
     {
-      "id": "countries",
-      "term": "Countries",
-      "aliases": [],
-      "definition": "Jung read nations and epochs the way he read a person: \"Peoples and times, like individuals, have their own characteristic tendencies and attitudes.\" A culture is one-sided like a conscious attitude, and art works as its self-regulation, the way dreams balance one person's one-sidedness.",
-      "source": "CW 15 ¶ 131",
-      "verified": true,
-      "line": "India has five thousand unbroken years of working on the psyche, Europe a fragmented two thousand; Jung reads countries the way he reads a person.",
-      "lineFrom": "021",
-      "related": [],
-      "kind": "keyword",
-      "tag": "countries"
-    },
-    {
       "id": "creative",
       "term": "Creative",
       "aliases": [],
@@ -1800,19 +1770,6 @@
       "tag": "opposites"
     },
     {
-      "id": "people",
-      "term": "People",
-      "aliases": [],
-      "definition": "On the podcast, ordinary readers as against academics: the many people who wrote to Jung, and the general reader he tried to reach late in life.",
-      "source": "Podcast usage, no Collected Works source",
-      "verified": false,
-      "line": "The academics mostly ignored him while ordinary people wrote him letters, so late in life Jung tried a book for the layperson.",
-      "lineFrom": "023",
-      "related": [],
-      "kind": "keyword",
-      "tag": "people"
-    },
-    {
       "id": "perception",
       "term": "Perception",
       "aliases": [],
@@ -1956,19 +1913,6 @@
       "tag": "the-third"
     },
     {
-      "id": "the-dilemma-of-consciousness",
-      "term": "The dilemma of consciousness",
-      "aliases": [],
-      "definition": "In The Stages of Life Jung writes that \"it is the growth of consciousness which we must thank for the existence of problems\". Turning away from instinct creates consciousness, but it also loses the security of instinct, leaving doubts and choices that nature once settled.",
-      "source": "CW 8 ¶ 750",
-      "verified": true,
-      "line": "You are a limited being in an unlimited universe: consciousness is one-sided and tires fast, so you keep hitting your head on things.",
-      "lineFrom": "044",
-      "related": [],
-      "kind": "keyword",
-      "tag": "the_dilemma_of_consciousness"
-    },
-    {
       "id": "therapy",
       "term": "Therapy",
       "aliases": [],
@@ -1980,19 +1924,6 @@
       "related": [],
       "kind": "keyword",
       "tag": "therapy"
-    },
-    {
-      "id": "things-coming-up",
-      "term": "Things coming up",
-      "aliases": [],
-      "definition": "Jung's psychological rule: \"when an inner situation is not made conscious, it happens outside, as fate\". What a person refuses to see in themselves comes back from outside, in events and other people, until the inner conflict is faced and made conscious.",
-      "source": "CW 9ii ¶ 126",
-      "verified": true,
-      "line": "Like the shark in Jaws, what you ignored pops up by itself, bigger and closer each time, until you turn and face it.",
-      "lineFrom": "027",
-      "related": [],
-      "kind": "keyword",
-      "tag": "things_coming_up"
     },
     {
       "id": "transference",
@@ -2047,19 +1978,6 @@
       "tag": "unconscious"
     },
     {
-      "id": "upside-of-consciousness",
-      "term": "The upside of consciousness",
-      "aliases": [],
-      "definition": "Jung defined the will as \"the amount of psychic energy at the disposal of consciousness\". Consciousness lets a person act from conscious motives, decide and adapt, instead of being driven only by instinct, and the will grows with culture and moral education.",
-      "source": "CW 6 ¶ 844",
-      "verified": true,
-      "line": "An animal needs the right weather and food; consciousness lets you adapt, change your surroundings, and wilfully do things or wilfully not do them.",
-      "lineFrom": "044",
-      "related": [],
-      "kind": "keyword",
-      "tag": "upside_of_consciousness"
-    },
-    {
       "id": "west",
       "term": "The West",
       "aliases": [],
@@ -2071,19 +1989,6 @@
       "related": [],
       "kind": "keyword",
       "tag": "west"
-    },
-    {
-      "id": "you",
-      "term": "You",
-      "aliases": [],
-      "definition": "On the podcast, the listener as Jung would see them: not one thing but many parts working at once, ego, complexes and archetypes, in a life whose task is to experience itself.",
-      "source": "Podcast usage, no Collected Works source",
-      "verified": false,
-      "line": "Fifty-seven books in one line: life is about experiencing yourself, and you are not one thing but many parts working at once.",
-      "lineFrom": "058",
-      "related": [],
-      "kind": "keyword",
-      "tag": "you"
     }
   ]
 }
