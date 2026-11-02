@@ -1627,8 +1627,7 @@
         "east",
         "west",
         "culture",
-        "religion",
-        "countries"
+        "religion"
       ],
       "links": [
         {
@@ -1781,7 +1780,6 @@
         "jung",
         "projection",
         "science",
-        "people",
         "archetypes"
       ],
       "links": [
@@ -2061,7 +2059,6 @@
       "tags": [
         "culture",
         "unconscious",
-        "things_coming_up",
         "instinct",
         "complex"
       ],
@@ -3205,7 +3202,11 @@
           "at": 1884.5,
           "title": "Symbols, hallucinations and visions"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 635.27,
+        "length": 19.77
+      }
     },
     "043": {
       "territory": "movies",
@@ -3279,15 +3280,17 @@
           "at": 2999.0,
           "title": "Bateman and the modern condition"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 677.84,
+        "length": 19.77
+      }
     },
     "044": {
       "territory": "psyche",
       "tags": [
         "consciousness",
         "the_ego_complex",
-        "upside_of_consciousness",
-        "the_dilemma_of_consciousness",
         "making_conscious"
       ],
       "links": [
@@ -3349,7 +3352,11 @@
           "at": 2346.0,
           "title": "The net and the dream"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 625.13,
+        "length": 19.77
+      }
     },
     "045": {
       "territory": "movies",
@@ -3427,7 +3434,11 @@
           "at": 2469.1,
           "title": "Why weddings fascinate us"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 771.6,
+        "length": 19.77
+      }
     },
     "046": {
       "territory": "numinous",
@@ -3503,7 +3514,11 @@
           "at": 1964.8,
           "title": "Neo at his lowest point"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 613.63,
+        "length": 19.77
+      }
     },
     "047": {
       "territory": "movies",
@@ -3577,7 +3592,11 @@
           "at": 1903.1,
           "title": "Why we love villains"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 647.53,
+        "length": 19.77
+      }
     },
     "048": {
       "territory": "numinous",
@@ -3651,7 +3670,11 @@
           "at": 1935.9,
           "title": "The letter to Freud"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 640.38,
+        "length": 19.77
+      }
     },
     "049": {
       "territory": "numinous",
@@ -3729,7 +3752,11 @@
           "at": 2385.0,
           "title": "Odd numbers and the Ringbahn"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 599.55,
+        "length": 19.77
+      }
     },
     "050": {
       "territory": "numinous",
@@ -3805,7 +3832,11 @@
           "at": 1887.1,
           "title": "Hope in a hard task"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 627.33,
+        "length": 19.77
+      }
     },
     "051": {
       "territory": "everyday",
@@ -3883,7 +3914,11 @@
           "at": 1859.5,
           "title": "Humble enough, never alone"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 620.14,
+        "length": 19.77
+      }
     },
     "052": {
       "territory": "numinous",
@@ -4037,7 +4072,11 @@
           "at": 4186.0,
           "title": "Runaway Bride and missing Eros"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 654.55,
+        "length": 19.77
+      }
     },
     "054": {
       "territory": "numinous",
@@ -4111,7 +4150,11 @@
           "at": 2791.4,
           "title": "Finding your life card"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 632.59,
+        "length": 19.77
+      }
     },
     "055": {
       "territory": "movies",
@@ -4181,7 +4224,11 @@
           "at": 2742.3,
           "title": "Reading the film as a dream"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 677.1,
+        "length": 19.77
+      }
     },
     "056": {
       "territory": "shadow",
@@ -4251,7 +4298,11 @@
           "at": 2516.1,
           "title": "What lies beyond the shadow"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 587.99,
+        "length": 19.77
+      }
     },
     "057": {
       "territory": "numinous",
@@ -4321,7 +4372,11 @@
           "at": 2298.5,
           "title": "Mandalas and the circling ego"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 591.77,
+        "length": 19.77
+      }
     },
     "058": {
       "territory": "everyday",
@@ -4329,8 +4384,7 @@
         "therapy",
         "individuation",
         "life",
-        "modern",
-        "you"
+        "modern"
       ],
       "links": [
         {
@@ -4401,7 +4455,11 @@
           "at": 2590.2,
           "title": "Pitfalls along the way"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 633.15,
+        "length": 19.77
+      }
     },
     "059": {
       "territory": "psyche",
@@ -4475,7 +4533,11 @@
           "at": 2114.3,
           "title": "Archetypes and synchronicity"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 655.43,
+        "length": 19.77
+      }
     },
     "060": {
       "territory": "psyche",
@@ -4545,7 +4607,11 @@
           "at": 2589.1,
           "title": "The rejected stone and the fourth"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 702.45,
+        "length": 19.77
+      }
     },
     "061": {
       "territory": "numinous",
@@ -4625,7 +4691,11 @@
           "at": 2555.3,
           "title": "Individuation as the inner opus"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 587.86,
+        "length": 19.77
+      }
     },
     "062": {
       "territory": "jung",
@@ -4712,7 +4782,11 @@
           "at": 2782.4,
           "title": "Alcoholics and the two Jesuses"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 678.13,
+        "length": 19.77
+      }
     },
     "063": {
       "territory": "psyche",
@@ -4796,7 +4870,11 @@
           "at": 2354.9,
           "title": "The extravert's golden rule"
         }
-      ]
+      ],
+      "midroll": {
+        "at": 635.71,
+        "length": 19.77
+      }
     }
   },
   "featured": [
