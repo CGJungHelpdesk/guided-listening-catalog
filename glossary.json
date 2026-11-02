@@ -1989,6 +1989,76 @@
       "related": [],
       "kind": "keyword",
       "tag": "west"
+    },
+    {
+      "id": "yoga",
+      "term": "yoga",
+      "aliases": [
+        "yogi",
+        "yogis",
+        "yogic",
+        "Kundalini yoga",
+        "Kundalini"
+      ],
+      "definition": "For Jung \"a natural process of introversion\" that India organised into methods over thousands of years. He used Kundalini yoga as a parallel to individuation, but warned Westerners against imitating it.",
+      "source": "CW 11 ¶ 873",
+      "verified": true,
+      "line": "Jung even calls alchemy the Western yoga. Yoga was for the East how to explore the psyche.",
+      "lineFrom": "021",
+      "related": [
+        "introversion",
+        "individuation",
+        "active-imagination",
+        "alchemy-opus",
+        "buddhism",
+        "east"
+      ],
+      "kind": "jung"
+    },
+    {
+      "id": "buddhism",
+      "term": "Buddhism",
+      "aliases": [
+        "Buddhist",
+        "Buddhists",
+        "Buddha"
+      ],
+      "definition": "Jung read the Buddha, like Christ, as a symbol of the self, with one big difference: \"The Christian attains his end in Christ, the Buddhist knows he is the Buddha.\" The Buddhist rests on the ground of their own inner nature.",
+      "source": "CW 11 ¶ 949",
+      "verified": true,
+      "line": "Jesus suffered tremendously and died under the most horrible circumstances. In the East, the Buddha sits under a tree and becomes enlightened.",
+      "lineFrom": "021",
+      "related": [
+        "self",
+        "god-image",
+        "mandala",
+        "individuation",
+        "yoga",
+        "east"
+      ],
+      "kind": "jung"
+    },
+    {
+      "id": "tarot",
+      "term": "tarot",
+      "aliases": [
+        "tarot cards",
+        "tarot card"
+      ],
+      "definition": "Jung thought the pictures on the cards \"distantly descended from the archetypes of transformation\": typical situations that stand for inner change. In a seminar he likened tarot to the I Ching, a way of reading the present moment.",
+      "source": "CW 9i ¶¶ 80-82",
+      "verified": true,
+      "line": "A tarot deck shows us a picture that causes something within us and brings us to think, and reflecting is already a form of integration.",
+      "lineFrom": "054",
+      "related": [
+        "archetype",
+        "symbol",
+        "synchronicity",
+        "individuation",
+        "astrology",
+        "occult"
+      ],
+      "kind": "jung"
     }
   ]
 }
