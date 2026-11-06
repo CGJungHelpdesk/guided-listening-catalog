@@ -10,7 +10,11 @@ Usage: tools/validate.py [DIR] [--feed] [--max-episode N] [--previous-catalog PA
 
 Checks catalog.json, glossary.json and transcript-corrections.json, and
 quotes.json when it exists, with the same limits the app enforces
-(GuidedListening/Catalog/ContentLimits.swift, D-051). Exit 1 on any error;
+(GuidedListening/Catalog/ContentLimits.swift, D-051). For the word fixes it
+also prints every whole-word hit of each rule over the delivered transcripts
+(transcripts-delivered/) so each can be read before the rule merges, warns when
+every word of a `from` is in the system dictionary, and refuses a rule that
+changes the word count (D-086, REPORT-2 and REPORT-5). Exit 1 on any error;
 warnings do not fail. Run by the repo's pull-request workflow.
 """
 import json
@@ -291,7 +295,68 @@ def check_glossary(glossary, catalog_tags):
     return len(terms)
 
 
-def check_corrections(fixes):
+def system_dictionary():
+    """The words of /usr/share/dict/words, lower case; empty where the file is missing (CI runners)."""
+    try:
+        with open("/usr/share/dict/words", encoding="utf-8", errors="ignore") as f:
+            return {w.strip().lower() for w in f}
+    except OSError:
+        return set()
+
+
+def delivered_transcripts(repo):
+    """(episode, [(cue start, cue text)]) for every delivered transcript, read as a listener gets it."""
+    app_repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    for folder in (os.path.join(repo, "transcripts-delivered"), os.path.join(repo, "transcription", "delivered"),
+                   os.path.join(app_repo, "transcription", "delivered")):
+        if os.path.isdir(folder):
+            break
+    else:
+        return []
+    out = []
+    for name in sorted(os.listdir(folder)):
+        if not name.endswith(".vtt"):
+            continue
+        cues, start, buf = [], None, []
+        with open(os.path.join(folder, name), encoding="utf-8") as f:
+            for line in f:
+                s = line.strip()
+                if "-->" in s:
+                    if start is not None:
+                        cues.append((start, " ".join(buf)))
+                    start, buf = s.split("-->")[0].strip()[:10], []
+                elif s and s != "WEBVTT" and start is not None:
+                    buf.append(s)
+        if start is not None:
+            cues.append((start, " ".join(buf)))
+        out.append((name[:-4], cues))
+    return out
+
+
+def check_correction_hits(rules, repo):
+    """REPORT-2: print every whole-word hit of each word-fix rule so it can be read before the merge."""
+    transcripts = delivered_transcripts(repo)
+    if not transcripts:
+        print("word-fix hits: no delivered transcripts found beside the files; hits not listed")
+        return
+    for rule in rules:
+        src = (rule.get("from") or "").strip() if isinstance(rule, dict) else ""
+        if not src:
+            continue
+        pattern = re.compile(r"(?<!\w)" + re.escape(src) + r"(?!\w)", re.I)
+        hits = []
+        for ep, cues in transcripts:
+            for start, text in cues:
+                for m in pattern.finditer(text):
+                    before = text[: m.start()].split()[-6:]
+                    after = text[m.end():].split()[:6]
+                    hits.append(f"{ep} {start}: …{' '.join(before)} [{m.group(0)}] {' '.join(after)}…")
+        print(f"word fix {src!r} -> {rule.get('to')!r}: {len(hits)} hit{'s' if len(hits) != 1 else ''} in {len(transcripts)} transcripts")
+        for h in hits:
+            print("   ", h)
+
+
+def check_corrections(fixes, repo=None):
     check_text_lengths(fixes, "transcript-corrections")
     rules = fixes.get("replacements") if isinstance(fixes, dict) else None
     if not isinstance(rules, list):
@@ -300,6 +365,7 @@ def check_corrections(fixes):
     if len(rules) > MAX_WORD_FIX_RULES:
         error(f"transcript-corrections: {len(rules)} rules, over {MAX_WORD_FIX_RULES}")
     seen = set()
+    dictionary = system_dictionary()
     for i, rule in enumerate(rules):
         where = f"transcript-corrections[{i}]"
         src = (rule.get("from") or "").strip() if isinstance(rule, dict) else ""
@@ -314,9 +380,16 @@ def check_corrections(fixes):
             error(f"{where}: {src!r} is an everyday word; the app ignores it")
         if src.lower() == dst.lower():
             error(f"{where}: {src!r} to {dst!r} changes nothing")
+        if len(src.split()) != len(dst.split()):
+            error(f"{where}: {src!r} to {dst!r} changes the word count; the cue would lose its word timings (REPORT-5)")
+        if dictionary and all(w.lower() in dictionary or (w.lower().endswith("'s") and w.lower()[:-2] in dictionary)
+                              for w in re.findall(r"[A-Za-z']+", src)):
+            warn(f"{where}: every word of {src!r} is in the system dictionary; make sure it is never right English (REPORT-2)")
         if src.lower() in seen:
             error(f"{where}: {src!r} appears twice")
         seen.add(src.lower())
+    if repo:
+        check_correction_hits(rules, repo)
     return len(rules)
 
 
@@ -381,7 +454,7 @@ def main():
 
     fixes = load(os.path.join(repo, "transcript-corrections.json"), MAX_WORD_FIX_FILE_BYTES)
     if fixes is not None:
-        summary.append(f"word fixes: {check_corrections(fixes)} rules")
+        summary.append(f"word fixes: {check_corrections(fixes, repo)} rules")
 
     quotes = load(os.path.join(repo, "quotes.json"), MAX_FILE_BYTES)
     if quotes is not None:
