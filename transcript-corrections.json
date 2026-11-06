@@ -1,9 +1,7 @@
 {
   "note": "Applied to every transcript as it is read, on the phone. Matches are whole words, case-insensitive; the replacement keeps the capital letter of what it replaces. Edit the hosted copy in guided-listening-catalog and phones pick it up on next launch. Keep 'from' phrases specific enough that they can't be right in ordinary English.",
   "replacements": [
-    { "from": "anime", "to": "anima" },
     { "from": "animous", "to": "animus" },
-    { "from": "anima's", "to": "anima's" },
     { "from": "yung", "to": "Jung" },
     { "from": "yung's", "to": "Jung's" },
     { "from": "yungian", "to": "Jungian" },
@@ -19,7 +17,6 @@
     { "from": "poor eternus", "to": "puer aeternus" },
     { "from": "mandela", "to": "mandala" },
     { "from": "mandelas", "to": "mandalas" },
-    { "from": "collected works of young", "to": "Collected Works of Jung" },
-    { "from": "the numinous", "to": "the numinous" }
+    { "from": "collected works of young", "to": "Collected Works of Jung" }
   ]
 }
