@@ -20,6 +20,7 @@
         "006 - Dynamics of the Psyche",
         "005 - A History of Consciousness",
         "044 - On Consciousness",
+        "064 - On the Personal Unconscious",
         "034 - On Complexes",
         "037 - On Associations",
         "012 - Perception & Experience",
@@ -3301,6 +3302,10 @@
         {
           "to": "055",
           "why": "Waking up, as consciousness does"
+        },
+        {
+          "to": "064",
+          "why": "Consciousness and the personal layer right beneath it"
         }
       ],
       "loudness": -18.5,
@@ -4873,6 +4878,93 @@
       ],
       "midroll": {
         "at": 635.71,
+        "length": 19.77
+      }
+    },
+    "064": {
+      "territory": "psyche",
+      "tags": [
+        "personal_unconscious",
+        "complex",
+        "repression",
+        "collective_unconscious",
+        "perception"
+      ],
+      "links": [
+        {
+          "to": "034",
+          "why": "The complexes that fill the personal unconscious"
+        },
+        {
+          "to": "017",
+          "why": "The shadow forms in the personal unconscious"
+        },
+        {
+          "to": "012",
+          "why": "Perception, and the veil the personal unconscious puts on it"
+        }
+      ],
+      "mentions": [],
+      "loudness": -18.5,
+      "takeaways": [
+        "The personal unconscious is the layer of what you forgot, repressed or never attended to; for Jung it is where people get lost in themselves.",
+        "Consciousness, like a stomach, rejects what it cannot digest; the rejected experience is not gone, it piles up in the cellar and acts up.",
+        "Repression produces a veil: you drive with a dirty windshield, collide, and conclude that people are out to get you.",
+        "Jung calls the complex a mousetrap: touch it and only an emotion is left, and later the person does not remember what they said.",
+        "A collective problem, taken as a personal one, isolates you; the way back is to live the complex out and reconnect with other people."
+      ],
+      "chapters": [
+        {
+          "at": 34.0,
+          "title": "Personal unconscious, where we get lost"
+        },
+        {
+          "at": 284.8,
+          "title": "Jung's definition and the talking cure"
+        },
+        {
+          "at": 463.6,
+          "title": "How the unconscious is personal"
+        },
+        {
+          "at": 570.7,
+          "title": "Freud's attic, Jung's connected cellars"
+        },
+        {
+          "at": 817.4,
+          "title": "Childhood: before the layer forms"
+        },
+        {
+          "at": 928.6,
+          "title": "Repression, the veil over perception"
+        },
+        {
+          "at": 1103.0,
+          "title": "Complexes, the autonomous culprits"
+        },
+        {
+          "at": 1405.2,
+          "title": "Stunted growth and isolation"
+        },
+        {
+          "at": 1588.4,
+          "title": "Collective problems felt as personal"
+        },
+        {
+          "at": 1938.1,
+          "title": "Solving a complex: living it out"
+        },
+        {
+          "at": 2289.9,
+          "title": "The spiral and the second half of life"
+        },
+        {
+          "at": 2421.2,
+          "title": "Coming out on the other side"
+        }
+      ],
+      "midroll": {
+        "at": 624.422,
         "length": 19.77
       }
     }
