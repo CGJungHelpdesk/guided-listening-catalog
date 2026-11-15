@@ -41,6 +41,7 @@ MAX_CHAPTERS = 100
 MAX_TAKEAWAYS = 8
 MAX_QUOTE_REFS = 60      # ContentLimits.maxQuoteRefsPerEpisode
 MAX_QUOTE_CONCEPTS = 3   # ContentLimits.maxConceptsPerQuote
+MAX_QUOTE_WORDS = 25  # house cap on a shown passage of Jung's until the lawyer answers (D-096, COPY-5)
 MAX_GLOSSARY_TERMS = 500
 MAX_WORD_FIX_RULES = 500
 MIN_WORD_FIX_LETTERS = 4
@@ -395,6 +396,9 @@ def check_catalog(cat, known, previous, jung_terms=()):
         quote_refs = meta.get("quoteRefs") or []
         if len(quote_refs) > MAX_QUOTE_REFS:
             error(f"{where}: {len(quote_refs)} quoteRefs, over {MAX_QUOTE_REFS}")
+        starts = [q.get("at") for q in quote_refs if is_number(q.get("at"))]
+        for at in sorted({a for a in starts if starts.count(a) > 1}):
+            error(f"{where}.quoteRefs: {starts.count(at)} entries start at {at}; the app knows a passage by its start")
         for i, q in enumerate(quote_refs):
             at, end = q.get("at"), q.get("end")
             if not is_number(at) or at < 0 or not is_number(end) or end <= at:
@@ -404,6 +408,9 @@ def check_catalog(cat, known, previous, jung_terms=()):
             for field in ("source", "text"):
                 if not isinstance(q.get(field), str) or not q[field].strip():
                     error(f"{where}.quoteRefs[{i}]: no {field}")
+            words = [w for w in str(q.get("text") or "").split() if w not in ("…", "[…]", "...")]
+            if len(words) > MAX_QUOTE_WORDS:
+                error(f"{where}.quoteRefs[{i}]: {len(words)} words of Jung's, over {MAX_QUOTE_WORDS} (D-096, COPY-5)")
             if len(q.get("concepts") or []) > MAX_QUOTE_CONCEPTS:
                 warn(f"{where}.quoteRefs[{i}]: more than {MAX_QUOTE_CONCEPTS} concepts; the app shows the first")
 
@@ -422,6 +429,10 @@ def check_catalog(cat, known, previous, jung_terms=()):
         check_trim(cat["trim"], "trim")
     if cat.get("loudnessTarget") is not None and not is_number(cat["loudnessTarget"]):
         error("loudnessTarget must be a number")
+    if "quotesHidden" in cat and not isinstance(cat["quotesHidden"], bool):
+        error("quotesHidden must be true or false (COPY-9)")
+    if cat.get("quotesHidden") is True:
+        warn("quotesHidden is true: phones show no quotation of Jung's (COPY-9)")
 
     for listname in ("featured", "popular"):
         for n in cat.get(listname) or []:
