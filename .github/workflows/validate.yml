@@ -1,13 +1,30 @@
-name: Validate catalog
+name: Validate content
+# The same validator the app repo runs before a release (tools/validate.py there; this is a copy).
+# It checks catalog.json, glossary.json, transcript-corrections.json and quotes.json when present,
+# with the limits the app enforces, and every referenced episode against the feed. Exit 1 on any error.
 on:
   push:
-    paths: ["catalog.json", "tools/validate_catalog.py"]
+    paths:
+      - "catalog.json"
+      - "glossary.json"
+      - "transcript-corrections.json"
+      - "quotes.json"
+      - "transcripts-delivered/**"
+      - "tools/validate.py"
+      - ".github/workflows/validate.yml"
   pull_request:
-    paths: ["catalog.json"]
+    paths:
+      - "catalog.json"
+      - "glossary.json"
+      - "transcript-corrections.json"
+      - "quotes.json"
+      - "transcripts-delivered/**"
+      - "tools/validate.py"
+      - ".github/workflows/validate.yml"
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Validate catalog.json against the feed
-        run: python3 tools/validate_catalog.py catalog.json --feed
+      - name: Validate the content files against the app's limits and the feed
+        run: python3 tools/validate.py . --feed
