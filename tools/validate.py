@@ -429,6 +429,10 @@ def check_catalog(cat, known, previous, jung_terms=()):
         check_trim(cat["trim"], "trim")
     if cat.get("loudnessTarget") is not None and not is_number(cat["loudnessTarget"]):
         error("loudnessTarget must be a number")
+    if "quotesHidden" in cat and not isinstance(cat["quotesHidden"], bool):
+        error("quotesHidden must be true or false (COPY-9)")
+    if cat.get("quotesHidden") is True:
+        warn("quotesHidden is true: phones show no quotation of Jung's (COPY-9)")
 
     for listname in ("featured", "popular"):
         for n in cat.get(listname) or []:
