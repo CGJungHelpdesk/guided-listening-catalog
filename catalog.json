@@ -4882,12 +4882,24 @@
         },
         {
           "at": 1471.11,
-          "end": 1494.3,
+          "end": 1485.98,
           "kind": "reading",
           "source": "Analytical Psychology in Exile",
           "text": "Without the reflective consciousness of man, the world is of gigantic meaninglessness because man, in our experience, is the only being who can detect meaning.",
           "concepts": [
             "consciousness"
+          ]
+        },
+        {
+          "at": 1485.98,
+          "end": 1519.18,
+          "kind": "reading",
+          "source": "CW 14 ¶ 672",
+          "book": "Mysterium Coniunctionis",
+          "text": "Anything conscious can be corrected, but anything that slips away into the unconscious is beyond the reach of correction …",
+          "concepts": [
+            "consciousness",
+            "unconscious"
           ]
         },
         {
@@ -4923,6 +4935,14 @@
           "concepts": [
             "consciousness"
           ]
+        },
+        {
+          "at": 2782.47,
+          "end": 2803.23,
+          "kind": "reading",
+          "source": "CW 6 ¶ 106",
+          "book": "Psychological Types",
+          "text": "By confining our activity to a single sphere we have handed ourselves over to a master …"
         },
         {
           "at": 2824.23,
@@ -5031,13 +5051,34 @@
           ]
         },
         {
+          "at": 289.12,
+          "end": 312.74,
+          "kind": "paraphrase",
+          "source": "CW 9ii ¶ 126",
+          "book": "Aion",
+          "text": "The psychological rule says that when an inner situation is not made conscious, it happens outside, as fate.",
+          "concepts": [
+            "opposites"
+          ]
+        },
+        {
           "at": 798.37,
-          "end": 821.72,
+          "end": 810.88,
           "kind": "reading",
           "source": "Analytical Psychology, p. 117",
           "text": "You can only learn who you are through your effects on other people. By this means you create your personality.",
           "concepts": [
             "persona"
+          ]
+        },
+        {
+          "at": 810.88,
+          "end": 821.72,
+          "kind": "reading",
+          "source": "Dream Analysis, p. 301",
+          "text": "only different things can enter relationship.",
+          "concepts": [
+            "participation-mystique"
           ]
         },
         {
@@ -5788,6 +5829,13 @@
           ]
         },
         {
+          "at": 1437.79,
+          "end": 1481.82,
+          "kind": "paraphrase",
+          "source": "Letters, Vol. 2, p. 308",
+          "text": "The comparison of modern psychology to modern physics is no idle talk."
+        },
+        {
           "at": 1778.58,
           "end": 1802.37,
           "kind": "reading",
@@ -5923,6 +5971,18 @@
           "concepts": [
             "symbol",
             "dream"
+          ]
+        },
+        {
+          "at": 829.16,
+          "end": 849.23,
+          "kind": "paraphrase",
+          "source": "CW 14 ¶ 381",
+          "book": "Mysterium Coniunctionis",
+          "text": "Dissolution is the prerequisite for redemption.",
+          "concepts": [
+            "alchemy-opus",
+            "nigredo-albedo-rubedo"
           ]
         },
         {
@@ -6086,6 +6146,17 @@
           ]
         },
         {
+          "at": 203.6,
+          "end": 251.01,
+          "kind": "paraphrase",
+          "source": "CW 3 ¶ 102",
+          "book": "The Psychogenesis of Mental Disease",
+          "text": "Let us take for instance the classic state of being in love. The lover is obsessed by his complex …",
+          "concepts": [
+            "complex"
+          ]
+        },
+        {
           "at": 427.5,
           "end": 450.81,
           "kind": "reading",
@@ -6140,6 +6211,19 @@
           "text": "And Eros without the Logos inside never understands, there is nothing but blind relatedness.",
           "concepts": [
             "eros-logos"
+          ]
+        },
+        {
+          "at": 1227.57,
+          "end": 1250.78,
+          "kind": "paraphrase",
+          "source": "CW 18 ¶ 1418",
+          "book": "The Symbolic Life",
+          "text": "The unconscious is a living psychic entity which, it seems, is relatively autonomous, behaving as if it were a personality with intentions of its own.",
+          "concepts": [
+            "unconscious",
+            "psyche",
+            "complex"
           ]
         },
         {
@@ -6463,6 +6547,17 @@
           ]
         },
         {
+          "at": 1375.87,
+          "end": 1396.24,
+          "kind": "reading",
+          "source": "Dream Analysis, p. 702",
+          "text": "Everything can function in Eros, and everything can function in Logos.",
+          "concepts": [
+            "eros-logos",
+            "typology"
+          ]
+        },
+        {
           "at": 1432.95,
           "end": 1477.87,
           "kind": "reading",
@@ -6494,6 +6589,18 @@
           "concepts": [
             "eros-logos",
             "unconscious"
+          ]
+        },
+        {
+          "at": 3988.99,
+          "end": 4011.24,
+          "kind": "reading",
+          "source": "CW 18 ¶ 1338",
+          "book": "The Symbolic Life",
+          "text": "Disorder is destructive. Order is always a cage.",
+          "concepts": [
+            "eros-logos",
+            "opposites"
           ]
         },
         {
@@ -6628,6 +6735,17 @@
           "concepts": [
             "collective-unconscious",
             "synchronicity"
+          ]
+        },
+        {
+          "at": 717.98,
+          "end": 738.34,
+          "kind": "paraphrase",
+          "source": "CW 8 ¶ 697",
+          "book": "The Structure and Dynamics of the Psyche",
+          "text": "For you cannot see the world without seeing yourself",
+          "concepts": [
+            "projection"
           ]
         },
         {
@@ -6924,6 +7042,18 @@
           ]
         },
         {
+          "at": 2655.68,
+          "end": 2675.3,
+          "kind": "paraphrase",
+          "source": "CW 7 ¶ 353",
+          "book": "Two Essays on Analytical Psychology",
+          "text": "But the real is what works.",
+          "concepts": [
+            "psyche",
+            "fantasy"
+          ]
+        },
+        {
           "at": 2782.3,
           "end": 2801.73,
           "kind": "reading",
@@ -7200,6 +7330,16 @@
           "concepts": [
             "shadow",
             "persona"
+          ]
+        },
+        {
+          "at": 2330.22,
+          "end": 2394.39,
+          "kind": "paraphrase",
+          "source": "Letters, Vol. 1, p. 234",
+          "text": "It is rather a dealing comparable to diplomacy or statesmanship. … one has to accept and to take seriously into account the existence of the shadow.",
+          "concepts": [
+            "shadow"
           ]
         },
         {
@@ -7697,6 +7837,19 @@
           ]
         },
         {
+          "at": 1344.86,
+          "end": 1365.07,
+          "kind": "reading",
+          "source": "CW 9ii ¶ 410",
+          "book": "Aion",
+          "text": "… \"sublimation\" or progress or qualitative change consists in an unfolding of totality into four parts four times, which means nothing less than its becoming conscious.",
+          "concepts": [
+            "quaternity",
+            "consciousness",
+            "typology"
+          ]
+        },
+        {
           "at": 1944.85,
           "end": 1963.15,
           "kind": "reading",
@@ -7748,6 +7901,16 @@
             "archetype",
             "collective-unconscious",
             "instinct"
+          ]
+        },
+        {
+          "at": 2444.95,
+          "end": 2463.08,
+          "kind": "paraphrase",
+          "source": "Letters, Vol. 1, p. 234",
+          "text": "It is rather a dealing comparable to diplomacy or statesmanship.",
+          "concepts": [
+            "shadow"
           ]
         },
         {
@@ -7911,6 +8074,43 @@
           ]
         },
         {
+          "at": 1095.57,
+          "end": 1117.92,
+          "kind": "reading",
+          "source": "CW 9i ¶ 155",
+          "book": "The Archetypes and the Collective Unconscious",
+          "text": "… primordial image is determined as to its content only when it has become conscious and is therefore filled out with the material of conscious experience.",
+          "concepts": [
+            "primordial-image",
+            "archetype",
+            "consciousness"
+          ]
+        },
+        {
+          "at": 1202.75,
+          "end": 1217.12,
+          "kind": "reading",
+          "source": "CW 15 ¶ 127",
+          "book": "The Spirit in Man, Art, and Literature",
+          "text": "The primordial image, or archetype, is a figure—be it a daemon, a human being, or a process—that constantly recurs in the course of history …",
+          "concepts": [
+            "archetype",
+            "primordial-image"
+          ]
+        },
+        {
+          "at": 1218.95,
+          "end": 1239.84,
+          "kind": "reading",
+          "source": "CW 15 ¶ 126",
+          "book": "The Spirit in Man, Art, and Literature",
+          "text": "There are no inborn ideas, but there are inborn possibilities of ideas that set bounds to even the boldest …",
+          "concepts": [
+            "archetype",
+            "fantasy"
+          ]
+        },
+        {
           "at": 1299.34,
           "end": 1319.92,
           "kind": "reading",
@@ -7954,6 +8154,17 @@
             "archetype",
             "instinct",
             "neurosis"
+          ]
+        },
+        {
+          "at": 1650.43,
+          "end": 1660.74,
+          "kind": "paraphrase",
+          "source": "CW 9ii ¶ 126",
+          "book": "Aion",
+          "text": "The psychological rule says that when an inner situation is not made conscious, it happens outside, as fate.",
+          "concepts": [
+            "projection"
           ]
         },
         {
@@ -8990,7 +9201,190 @@
       "midroll": {
         "at": 624.422,
         "length": 19.77
-      }
+      },
+      "quoteRefs": [
+        {
+          "at": 284.8,
+          "end": 309.36,
+          "kind": "reading",
+          "source": "Dream Analysis, p. 73",
+          "text": "The personal unconscious is a layer of contents that could be conscious just as well …",
+          "concepts": [
+            "personal-unconscious",
+            "ego",
+            "persona"
+          ]
+        },
+        {
+          "at": 521.9,
+          "end": 521.94,
+          "kind": "reading",
+          "source": "CW 17 ¶ 207",
+          "book": "The Development of Personality",
+          "text": "The personal unconscious contains everything forgotten or repressed or otherwise subliminal that has been acquired by the individual consciously or unconsciously.",
+          "concepts": [
+            "personal-unconscious",
+            "ego",
+            "persona"
+          ]
+        },
+        {
+          "at": 521.94,
+          "end": 545.62,
+          "kind": "reading",
+          "source": "CW 9i ¶ 3",
+          "book": "The Archetypes and the Collective Unconscious",
+          "text": "A more or less superficial layer of the unconscious is undoubtedly personal. I call it the personal unconscious.",
+          "concepts": [
+            "personal-unconscious",
+            "ego",
+            "persona"
+          ]
+        },
+        {
+          "at": 928.6,
+          "end": 973.55,
+          "kind": "reading",
+          "source": "Visions: Notes of the Seminar Given in 1930–1934, p. 1255",
+          "text": "… then you are quite uncertain of what you have seen, perhaps you have made it up.",
+          "concepts": [
+            "personal-unconscious",
+            "ego",
+            "persona"
+          ]
+        },
+        {
+          "at": 1121.4,
+          "end": 1144.82,
+          "kind": "reading",
+          "source": "CW 18 ¶ 151",
+          "book": "The Symbolic Life",
+          "text": "Complexes are autonomous groups of associations that have a tendency to move by themselves, to live their own life apart from our intentions.",
+          "concepts": [
+            "ego",
+            "complex"
+          ]
+        },
+        {
+          "at": 1145.3,
+          "end": 1189.46,
+          "kind": "reading",
+          "source": "CW 8 ¶ 200",
+          "book": "The Structure and Dynamics of the Psyche",
+          "text": "Every constellation of a complex postulates a disturbed state of consciousness. The unity of consciousness is disrupted and the intentions of the will are impeded …",
+          "concepts": [
+            "ego",
+            "complex",
+            "consciousness"
+          ]
+        },
+        {
+          "at": 1230.2,
+          "end": 1276.78,
+          "kind": "reading",
+          "source": "Children's Dreams",
+          "text": "… the complex is a mousetrap. For instance, you can talk quite sensibly with a person. The moment you touch upon his complex— it’s all over!",
+          "concepts": [
+            "ego",
+            "complex"
+          ]
+        },
+        {
+          "at": 1489.6,
+          "end": 1537.28,
+          "kind": "reading",
+          "source": "Consciousness and the Unconscious, p. 84",
+          "text": "… it lies in the nature of complexes that they separate individuals from one another. Complexes are utterly inhuman things …",
+          "concepts": [
+            "ego",
+            "complex",
+            "affect"
+          ]
+        },
+        {
+          "at": 1632.6,
+          "end": 1645.23,
+          "kind": "reading",
+          "source": "Memories, Dreams, Reflections, p. 233",
+          "text": "A collective problem, if not recognized as such, always appears as a personal problem …",
+          "concepts": [
+            "ego",
+            "persona",
+            "psyche"
+          ]
+        },
+        {
+          "at": 1826.4,
+          "end": 1847.89,
+          "kind": "reading",
+          "source": "Dream Analysis, p. 75",
+          "text": "And the more there is of the personal unconscious, the more the collective unconscious forces itself upon you.",
+          "concepts": [
+            "collective-unconscious",
+            "personal-unconscious",
+            "self"
+          ]
+        },
+        {
+          "at": 1938.1,
+          "end": 1980.55,
+          "kind": "reading",
+          "source": "The Psychology of Kundalini Yoga",
+          "text": "What analysis does, then, is first a reduction. It is analyzing your attitude.",
+          "concepts": [
+            "ego",
+            "persona",
+            "attitude"
+          ]
+        },
+        {
+          "at": 2164.5,
+          "end": 2183.33,
+          "kind": "reading",
+          "source": "Consciousness and the Unconscious, p. 84",
+          "text": "Complexes can disappear through atonement or a confession, either by the patient resuming a reasonable life style or through reintegration into the community.",
+          "concepts": [
+            "ego",
+            "complex"
+          ]
+        },
+        {
+          "at": 2289.9,
+          "end": 2336.28,
+          "kind": "reading",
+          "source": "Consciousness and the Unconscious, p. 54",
+          "text": "… attempt to advance from our known consciousness behind the I and into the unconscious, whereby one first reaches the layer of the personal unconscious. There …",
+          "concepts": [
+            "personal-unconscious",
+            "self",
+            "ego"
+          ]
+        },
+        {
+          "at": 2421.2,
+          "end": 2444.62,
+          "kind": "reading",
+          "source": "Analytical Psychology, p. 142",
+          "text": "When you have finished with the personal subconscious, you have finished with the causal influence of the past.",
+          "concepts": [
+            "ego",
+            "persona"
+          ]
+        },
+        {
+          "at": 2540.3,
+          "end": 2621.77,
+          "kind": "reading",
+          "source": "CW 7 ¶ 275",
+          "book": "Two Essays on Analytical Psychology",
+          "text": "… the more we become conscious of … more the layer of the personal unconscious that is superimposed on the collective unconscious will be diminished.",
+          "concepts": [
+            "collective-unconscious",
+            "personal-unconscious",
+            "self"
+          ]
+        }
+      ]
     }
   },
   "featured": [
