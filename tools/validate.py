@@ -408,6 +408,15 @@ def check_catalog(cat, known, previous, jung_terms=()):
             for field in ("source", "text"):
                 if not isinstance(q.get(field), str) or not q[field].strip():
                     error(f"{where}.quoteRefs[{i}]: no {field}")
+            source, book = str(q.get("source") or ""), str(q.get("book") or "")
+            if source.startswith("CW"):
+                if not re.fullmatch(r"CW \d+i{0,2} ¶ \d+", source):
+                    error(f"{where}.quoteRefs[{i}]: source {source!r} is not 'CW 8 ¶ 784' (CITE-1)")
+            elif source:
+                if not book:
+                    error(f"{where}.quoteRefs[{i}]: no edition line under {source!r} (CITE-3)")
+                elif ", p. " not in source and "page not given" not in book:
+                    error(f"{where}.quoteRefs[{i}]: {source!r} names no page and its line lacks 'page not given' (CITE-5)")
             words = [w for w in str(q.get("text") or "").split() if w not in ("…", "[…]", "...")]
             if len(words) > MAX_QUOTE_WORDS:
                 error(f"{where}.quoteRefs[{i}]: {len(words)} words of Jung's, over {MAX_QUOTE_WORDS} (D-096, COPY-5)")
