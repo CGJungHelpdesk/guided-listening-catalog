@@ -403,6 +403,8 @@ def check_catalog(cat, known, previous, jung_terms=()):
             at, end = q.get("at"), q.get("end")
             if not is_number(at) or at < 0 or not is_number(end) or end <= at:
                 error(f"{where}.quoteRefs[{i}]: 'at' and 'end' must be seconds, 0 or more, end after at")
+            elif end - at < 1:
+                warn(f"{where}.quoteRefs[{i}]: a span of {end - at:.2f} s; the player can hardly show its mark (Q-4)")
             if q.get("kind") not in ("reading", "paraphrase"):
                 error(f"{where}.quoteRefs[{i}]: kind must be reading or paraphrase")
             for field in ("source", "text"):
