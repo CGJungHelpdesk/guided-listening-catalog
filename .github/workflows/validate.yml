@@ -25,6 +25,6 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Validate the content files against the app's limits and the feed
         run: python3 tools/validate.py . --feed
